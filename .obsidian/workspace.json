@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOUL.md",
+                "file": "SOUL/SOUL.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOUL.md",
+                "file": "SOUL/SOUL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOUL.md",
+                "file": "SOUL/SOUL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOUL.md",
+                "file": "SOUL/SOUL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,9 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a8708a3aacbe84d",
+  "active": "020955ce8eea2e44",
   "lastOpenFiles": [
-    "SOUL.md",
+    "SOUL/SOUL.md",
     "Media-Index",
     "Archive",
     "Inbox",
