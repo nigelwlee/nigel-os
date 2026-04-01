@@ -179,6 +179,10 @@
   },
   "active": "020955ce8eea2e44",
   "lastOpenFiles": [
+    "SOPs/Knowledge-Refresh-Cron.md",
+    "SOPs/_Map-sops.md",
+    "Skills/Knowledge-Refresh.md",
+    "SOPs",
     "Knowledge/Finance/Frameworks.md",
     "Knowledge/Engineering/Frameworks.md",
     "Knowledge/Sales-Marketing/Frameworks.md",
@@ -202,7 +206,6 @@
     "Media-Index/_Map-media-index.md",
     "Archive/_Map-archive.md",
     "Memory/_Map-memory.md",
-    "SOPs/_Map-sops.md",
     "Projects/_Map-projects.md",
     "Inbox/_Map-inbox.md",
     "Knowledge/_Map-knowledge.md",
@@ -211,9 +214,6 @@
     "Archive/_Map.md",
     "Memory/_Map.md",
     "SOPs/_Map.md",
-    "Projects/_Map.md",
-    "Inbox/_Map.md",
-    "Knowledge/Legal/insights",
-    "Knowledge/Legal"
+    "Knowledge/Legal/insights"
   ]
 }

@@ -8,3 +8,4 @@
 
 - [[Jam]] — divergent thinking, creative sparring
 - [[Synthesis]] — convergent thinking, messy input → sharp output
+- [[Knowledge-Refresh]] — weekly Knowledge domain update via web search

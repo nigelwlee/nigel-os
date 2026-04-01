@@ -115,6 +115,18 @@ If you are an AI agent reading this:
 
 ---
 
+## Knowledge Protocol
+
+The [[Knowledge/_Map-knowledge|Knowledge]] folder contains domain expertise across 8 areas: Strategy, AI, Creative, Legal, Sales & Marketing, Finance, People, and Engineering.
+
+**Briefings** contain the living knowledge — Core Thesis, Key Frameworks, Active Insights, Open Questions. Active Insights and Open Questions are refreshed weekly.
+
+**Frameworks** contain stable mental models. These change rarely — only update when a genuinely new model has emerged.
+
+**To refresh a domain:** Use the [[Knowledge-Refresh]] skill. Runs automatically via Hermes cron every Sunday. Can also be triggered on demand.
+
+---
+
 ## Memory Protocol
 
 The [[Memory/_Map-memory|Memory]] folder is your working notebook across sessions.
@@ -137,6 +149,7 @@ The [[Memory/_Map-memory|Memory]] folder is your working notebook across session
 - [[Inbox/_Map-inbox|Inbox]] — unprocessed captures and session notes
 - [[Projects/_Map-projects|Projects]] — active and parked projects
 - [[Memory/_Map-memory|Memory]] — persistent context and decisions
+- [[SOPs/_Map-sops|SOPs]] — repeatable operational procedures
 - [[Archive/_Map-archive|Archive]] — retired material
 
 ---
