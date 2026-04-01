@@ -1,0 +1,66 @@
+# Finance Briefing
+
+> Last synthesized: 2026-04-01
+> Insight count: 0 (seed version)
+
+---
+
+## Core Thesis
+
+Finance for a solo builder is not about financial engineering, complex capital structures, or optimising for metrics that only matter at scale. It is about three things: cash clarity (knowing exactly where every dollar sits and when it moves), unit economics (proving that each incremental customer or user creates more value than they cost to acquire and serve), and runway extension (maximising the months of operating freedom you have before you must raise, monetise, or shut down). Every financial decision should be evaluated against these three pillars. If an action does not improve your visibility into cash, validate your economics, or extend your runway, it is a distraction.
+
+---
+
+## Key Frameworks
+
+**Damodaran's Intrinsic Value Framework.** Aswath Damodaran's approach to valuation strips away narrative and forces you to express every assumption as a number. For a solo builder, this is not about building a full DCF for your seed-stage startup — it is about internalising the discipline of connecting story to numbers. Every time you pitch, forecast, or plan, you should be able to answer: what is the revenue growth rate, what are the margins at scale, what is the reinvestment required, and what is the risk? Even at pre-revenue, running a rough intrinsic value exercise forces intellectual honesty about the gap between your narrative and your economics. Use for: fundraising preparation, sanity-checking your own projections, evaluating acquisition offers or partnership terms.
+
+**Feld & Mendelson's Venture Deal Mechanics.** Brad Feld's framework for understanding venture financing demystifies term sheets by breaking them into economic terms (valuation, liquidation preferences, anti-dilution) and control terms (board composition, protective provisions, drag-along). For a solo founder in Australia, the key insight is that valuation is the least important economic term — liquidation preferences, participation rights, and anti-dilution provisions can dramatically reshape outcomes in downside and moderate-exit scenarios. Understanding these mechanics before you enter a negotiation is non-negotiable. Use for: evaluating term sheets, structuring SAFE or convertible note rounds, understanding what you are actually giving away in any capital raise.
+
+**Lemkin's SaaS Metrics Hierarchy.** Jason Lemkin's contribution is a practical hierarchy for which SaaS metrics matter at which stage. Pre-product-market-fit, only two numbers matter: burn rate and qualitative signal from early users. Post-PMF, the hierarchy becomes MRR growth rate, net revenue retention, and then CAC payback. His rule of thumb — you need to get to roughly $1-2M ARR to prove anything, and net retention above 100% is the single strongest signal of PMF in B2B SaaS — cuts through the noise of vanity metrics. Use for: deciding which metrics to track at your current stage, building investor dashboards, diagnosing whether you have a growth problem or a retention problem.
+
+**The Capital Efficiency Ratio.** This framework measures how much new ARR (or net new revenue) you generate for each dollar of capital consumed. A capital efficiency ratio above 1.0x means you are generating more in new annual revenue than you are spending, which is the gold standard for bootstrapped or lightly funded builders. Below 0.5x and you are in heavy-investment mode that requires external capital to sustain. For a solo operator, tracking this monthly forces a confrontation with the real productivity of your spend. Use for: monthly financial reviews, deciding whether to raise or bootstrap, benchmarking your efficiency against industry norms (top-quartile SaaS companies run 1.0-1.5x).
+
+**The Runway Clock.** This is less a formal framework and more a discipline: always know your runway in months, updated weekly. Runway = total accessible cash divided by average monthly net burn (including your own salary/draw). The critical thresholds are: below 6 months is emergency territory (you must be actively closing revenue or a round), 6-12 months is action zone (make one big bet or cut to extend), 12-18 months is building zone (enough room to iterate), and 18+ months is strategic zone (you can afford to be patient). The mistake most solo builders make is not including their own cost of living in the burn calculation, which artificially inflates runway by 30-50%. Use for: weekly cash check-ins, deciding when to start a fundraise (minimum 6 months before you need the money), structuring personal draw vs. reinvestment.
+
+**Gross Margin as Strategic Signal.** Gross margin is not just an accounting line — it is the single best indicator of whether you are building a software business or a services business. True SaaS gross margins run 75-90%. If yours are below 65%, you have a structural problem: too much human delivery, infrastructure costs that do not scale, or pricing that does not reflect value. For AI-product builders specifically, compute costs (inference, fine-tuning, API calls) can silently erode gross margins. Tracking gross margin monthly and decomposing it into its components is essential for understanding what kind of business you are actually building. Use for: pricing decisions, understanding your business model's true nature, identifying where to invest in automation to improve margins.
+
+---
+
+## Active Insights
+
+**The R&D Tax Incentive is the best non-dilutive capital most AU founders ignore.** The Australian R&D Tax Incentive provides a 43.5% refundable tax offset for companies with aggregated turnover under $20M. For a solo builder spending on software development, this can return 43.5 cents on every eligible R&D dollar as a cash refund — even if you have zero revenue and pay no tax. The catch: you must register activities with AusIndustry before your year-end, documentation requirements are strict (contemporaneous records, not retroactive), and the ATO has been increasingly aggressive in auditing software claims since 2023. Getting this right from day one can add 2-4 months of runway per year for a typical early-stage AI startup.
+
+**GST on digital products sold to AU consumers is a margin trap.** If you sell a SaaS product or digital service to Australian consumers (B2C), you must register for GST once you exceed $75K in turnover and remit 10%. But if you sell B2B and your customers are GST-registered, it washes through. The strategic insight: structure and price for B2B from the start if possible, because B2C GST compliance adds real administrative overhead and effectively reduces your margin by 10% on price-sensitive consumer products. For international sales, exports of digital services to non-residents are generally GST-free, which makes global distribution more attractive from a tax perspective.
+
+**SAFEs in Australia carry legal nuances that US templates do not address.** The YC SAFE is designed for Delaware C-Corps and does not map cleanly onto Australian Pty Ltd structures. Key differences: Australian company law treats SAFEs ambiguously (they may be classified as debt or equity depending on terms, which affects balance sheet treatment and potentially ESS rules), there is no direct equivalent of "preferred stock" in the Corporations Act, and the interaction with the small business CGT concessions can be complex. Use an AU-adapted SAFE (AVCAL has published templates) and get specific legal advice before issuing one. Getting this wrong can create problems that surface painfully at your Series A.
+
+**Net revenue retention is the only metric that matters once you have 20+ paying customers.** Forget top-line MRR growth for a moment. If your existing customers are expanding their spend (upsells, seat growth, usage increases) faster than they are churning, you have a fundamentally healthy business that will compound. Net retention above 110% means your installed base grows even if you stop acquiring new customers. Below 90% means you have a leaky bucket that no amount of top-of-funnel will fix. For AI products where usage-based pricing is common, tracking this weekly (not monthly) gives you faster signal on whether your product is becoming more embedded or more peripheral.
+
+**Your personal tax structure choice between sole trader, Pty Ltd, and trust has a $30-50K/year impact at relatively modest revenue levels.** A sole trader pays marginal tax rates up to 47% (including Medicare levy) on all profit. A Pty Ltd pays 25% company tax (for base rate entities under $50M turnover) but you face double taxation on extraction via dividends (franking credits help but do not eliminate the gap entirely). A discretionary trust flowing to a Pty Ltd trustee can optimise but adds $5-8K/year in compliance costs. The breakeven point where a Pty Ltd structure clearly wins over sole trader is typically around $120-150K in annual profit. Get this right early because restructuring later triggers CGT events.
+
+**Burn rate discipline matters more than revenue in the first 18 months.** The most common cause of death for solo AI builders is not lack of product-market fit — it is running out of cash while still iterating. Keeping monthly burn under $8-10K (inclusive of your living costs in Sydney) gives you 2+ years of runway on $200K of capital. That is enough time to find PMF. Most founders over-invest in infrastructure, tools, and hiring before they have signal, which compresses runway and forces premature fundraising or pivoting. Constraint breeds creativity.
+
+---
+
+## Open Questions / Active Debates
+
+- At what point does it make sense to take on a technical co-founder vs. staying solo with AI-augmented development, given the dilution cost and the increasing capability of AI coding tools?
+- How should an AU-based solo builder think about jurisdiction for incorporation — staying as an AU Pty Ltd vs. setting up a US Delaware C-Corp (via Stripe Atlas or similar) — when the primary market is global SaaS?
+- Is usage-based pricing or seat-based pricing more defensible for AI products where inference costs are variable and unpredictable, and how do you model gross margin when your COGS scales non-linearly?
+- What is the real expected value of the R&D Tax Incentive after accounting for compliance costs, audit risk, and the opportunity cost of documentation time — is it still worth it below $150K in eligible spend?
+
+---
+
+## Reading / Watching Queue
+
+- *The Little Book of Valuation* — Aswath Damodaran (concise version of his valuation framework, essential mental models for thinking about what anything is worth)
+- *Venture Deals* — Brad Feld & Jason Mendelson (the definitive guide to term sheets and fundraising mechanics, read before any capital conversation)
+- *SaaS Metrics 2.0* — David Skok (the original deep-dive on LTV, CAC, and the metrics that actually drive SaaS business value)
+- *The Almanack of Naval Ravikant* — Eric Jorgenson (not strictly finance, but the clearest articulation of leverage, judgement, and wealth creation for solo operators)
+- *Zero to One* — Peter Thiel (the monopoly thesis and why competition destroys margins — directly relevant to positioning and pricing strategy)
+- *ATO Guide to the R&D Tax Incentive* — Australian Taxation Office (dry but essential, the primary source for understanding what qualifies and how to document it)
+
+---
+
+> See also: [[Knowledge/Finance/Frameworks|Finance Frameworks]] | [[Knowledge/_Map-knowledge|Knowledge]] | [[SOUL]]
