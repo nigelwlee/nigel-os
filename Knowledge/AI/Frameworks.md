@@ -85,4 +85,4 @@ Design for API failures. Primary model fails → fallback to a different provide
 
 ---
 
-> See also: [[Knowledge/AI/_Briefing|AI Briefing]] | [[Knowledge/_Map-knowledge|Knowledge]] | [[SOUL]]
+> See also: [[Knowledge/AI/_Briefing-ai|AI Briefing]] | [[Knowledge/_Map-knowledge|Knowledge]] | [[SOUL]]

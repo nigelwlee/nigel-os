@@ -98,4 +98,4 @@ Training AI models on personal data has heightened privacy implications. Key ris
 
 ---
 
-> See also: [[Knowledge/Legal/_Briefing|Legal Briefing]] | [[Knowledge/_Map-knowledge|Knowledge]]
+> See also: [[Knowledge/Legal/_Briefing-legal|Legal Briefing]] | [[Knowledge/_Map-knowledge|Knowledge]]

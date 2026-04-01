@@ -87,4 +87,4 @@ One long-form piece (article, podcast, talk) → 3-5 medium pieces (threads, cli
 
 ---
 
-> See also: [[Knowledge/Creative/_Briefing|Creative Briefing]] | [[Jam]] | [[Synthesis]] | [[Knowledge/_Map-knowledge|Knowledge]]
+> See also: [[Knowledge/Creative/_Briefing-creative|Creative Briefing]] | [[Jam]] | [[Synthesis]] | [[Knowledge/_Map-knowledge|Knowledge]]

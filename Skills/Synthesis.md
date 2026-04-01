@@ -57,4 +57,4 @@ Numbered list of specific, assignable actions. Each starts with a verb. Include 
 
 ---
 
-> See also: [[Jam]] | [[Knowledge/Strategy/_Briefing|Strategy Briefing]] | [[Skills/_Map-skills|Skills]]
+> See also: [[Jam]] | [[Knowledge/Strategy/_Briefing-strategy|Strategy Briefing]] | [[Skills/_Map-skills|Skills]]
