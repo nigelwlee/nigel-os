@@ -115,16 +115,29 @@ If you are an AI agent reading this:
 
 ---
 
+## Memory Protocol
+
+The [[Memory/_Map-memory|Memory]] folder is your working notebook across sessions.
+
+**At the start of a session:** Read the Memory folder for active context — decisions, lessons, and project status that affect your work.
+
+**During a session:** If something worth remembering happens — a decision is made, something fails, priorities shift, or project status changes — write it to Memory. One file per entry. Follow the convention in the Memory map.
+
+**Rules:**
+- Update existing Status entries rather than creating duplicates.
+- Don't log routine work. Only log things that change how future sessions should behave.
+- Keep entries tight. If it takes more than 5 lines to explain, you're over-documenting.
+
+---
+
 ## System Map
 
 - [[Skills/_Map-skills|Skills]] — behavioural modes (Jam, Synthesis)
 - [[Knowledge/_Map-knowledge|Knowledge]] — domain expertise and frameworks
 - [[Inbox/_Map-inbox|Inbox]] — unprocessed captures and session notes
 - [[Projects/_Map-projects|Projects]] — active and parked projects
-- [[SOPs/_Map-sops|SOPs]] — repeatable playbooks
 - [[Memory/_Map-memory|Memory]] — persistent context and decisions
 - [[Archive/_Map-archive|Archive]] — retired material
-- [[Media-Index/_Map-media-index|Media-Index]] — external media references
 
 ---
 
