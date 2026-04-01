@@ -23,7 +23,7 @@ Good creative is at least one of these; great creative is two or more. Remarkabl
 Never brief creative work without a reference library. References communicate taste faster and more accurately than words. "Bold but warm" means nothing. A mood board of six images means everything. Use for: all creative briefs, design direction, brand work.
 
 **Taste as a Filter, Not a Generator**
-Taste is not about generating original ideas — it is about knowing which ideas to keep. Quantity first (Jam), then brutal filtering (Synthesis). The filter is the skill. Use for: content strategy, editing your own work, curating.
+Taste is not about generating original ideas — it is about knowing which ideas to keep. Quantity first ([[Jam]]), then brutal filtering ([[Synthesis]]). The filter is the skill. Use for: content strategy, editing your own work, curating.
 
 **Brand as a Person**
 Define a brand by asking: if this brand were a person, who would they be? What would they wear? What would they refuse to say? What music would they listen to? The person answer is more useful than a brand pyramid. Use for: brand strategy, voice and tone, visual direction.
@@ -74,3 +74,7 @@ These are held positions, not universal rules:
 - *Show Your Work* — Austin Kleon
 - *It's Not How Good You Are, It's How Good You Want to Be* — Paul Arden
 - Pentagram blog (applied graphic design thinking)
+
+---
+
+> See also: [[Knowledge/Creative/Frameworks|Creative Frameworks]] | [[Knowledge/_Map|Knowledge]] | [[SOUL]]

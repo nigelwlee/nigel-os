@@ -83,3 +83,7 @@ Mandatory 11.5% superannuation on eligible earnings (2026). Applies to employees
 - IP Australia trademark search and registration process
 - *Venture Deals* — Brad Feld & Jason Mendelson (US-focused but foundational for VC mechanics)
 - Slater and Gordon or Lander & Rogers startup legal guides (AU-specific)
+
+---
+
+> See also: [[Knowledge/Legal/Frameworks|Legal Frameworks]] | [[Knowledge/_Map|Knowledge]] | [[SOUL]]

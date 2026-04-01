@@ -84,3 +84,7 @@ Define 3-5 recurring themes that all content falls into. Each pillar serves a pu
 
 **Repurposing Ladder**
 One long-form piece (article, podcast, talk) → 3-5 medium pieces (threads, clips, summaries) → 10+ short pieces (quotes, stats, images). Create once, distribute many. Use for: content efficiency, maintaining output without proportional time investment.
+
+---
+
+> See also: [[Knowledge/Creative/_Briefing|Creative Briefing]] | [[Jam]] | [[Synthesis]] | [[Knowledge/_Map|Knowledge]]

@@ -1,0 +1,10 @@
+# Skills
+
+> Behavioural modes that shape how agents work with Nigel.
+
+[[SOUL]]
+
+## Contents
+
+- [[Jam]] — divergent thinking, creative sparring
+- [[Synthesis]] — convergent thinking, messy input → sharp output

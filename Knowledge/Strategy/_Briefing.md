@@ -23,7 +23,7 @@ Customers don't buy products, they hire them to do a job. Focus on the job, not 
 Tech products move: Innovators → Early Adopters → Early Majority → Late Majority → Laggards. The gap between Early Adopters and Early Majority is the chasm. To cross it: target a specific beachhead niche, dominate it completely, use it as a reference market.
 
 **The Pyramid Principle (Minto)**
-Structure all communication: conclusion first, then supporting arguments, then evidence. Group supporting points MECE. Every presentation, memo, and recommendation should follow this. The corollary: if you can't state the conclusion first, you don't understand it yet.
+Structure all communication: conclusion first, then supporting arguments, then evidence. Group supporting points MECE. Every presentation, memo, and recommendation should follow this. The corollary: if you can't state the conclusion first, you don't understand it yet. This principle is embedded in the [[Synthesis]] skill.
 
 **Unit Economics First**
 Before any growth move, know: CAC, LTV, payback period, contribution margin. If unit economics are broken, growth makes it worse. Fix the unit, then scale.
@@ -65,3 +65,7 @@ Every initiative needs one person who owns it completely. Committees diffuse acc
 - *The Mom Test* — Rob Fitzpatrick (validation without bias)
 - *Zero to One* — Peter Thiel (contrarian positioning)
 - Acquired podcast episodes on dominant market incumbents
+
+---
+
+> See also: [[Knowledge/Strategy/Frameworks|Strategy Frameworks]] | [[Knowledge/_Map|Knowledge]] | [[SOUL]]

@@ -4,8 +4,8 @@
 ## What We Built
 
 - Created first two skill files in `/Skills/`:
-  - **Synthesis.md** — convergent mode. Takes messy input (notes, transcripts, research, threads) and produces tight, actionable output. Pyramid principle, recommendation-first, MECE. Output format: TL;DR, Key Insights, Options (if applicable), Next Steps.
-  - **Jam.md** — divergent mode. Solo sparring partner for creative ideation. Agent posture is bold, opinionated, brings case studies and cross-industry analogies. Expands option space, doesn't converge.
+  - **[[Synthesis]]** — convergent mode. Takes messy input (notes, transcripts, research, threads) and produces tight, actionable output. Pyramid principle, recommendation-first, MECE. Output format: TL;DR, Key Insights, Options (if applicable), Next Steps.
+  - **[[Jam]]** — divergent mode. Solo sparring partner for creative ideation. Agent posture is bold, opinionated, brings case studies and cross-industry analogies. Expands option space, doesn't converge.
 - Established skill file convention: Name → When to Use → Agent Behaviour/Posture → How-to/Output Format → Quality Bar → Anti-Patterns
 
 ## Design Decisions

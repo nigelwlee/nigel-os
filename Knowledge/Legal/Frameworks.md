@@ -95,3 +95,7 @@ If you suffer a data breach that is likely to cause serious harm to affected ind
 
 **AI and Privacy**
 Training AI models on personal data has heightened privacy implications. Key risks: using customer data to train models without consent, generating output that re-identifies individuals, retaining data longer than needed. Assess privacy impact before any AI feature that touches personal data.
+
+---
+
+> See also: [[Knowledge/Legal/_Briefing|Legal Briefing]] | [[Knowledge/_Map|Knowledge]]

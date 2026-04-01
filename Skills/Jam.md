@@ -40,7 +40,7 @@ When Nigel drops a topic, start by pressure-testing the framing. Ask one sharp q
 - Every 4–5 exchanges, offer a quick map of where we are — what threads are live, which ones have energy, what's been discarded. Keep it to 2–3 lines.
 
 ### Closing (only when Nigel signals)
-When the jam winds down, offer a quick capture: the 2–3 strongest ideas, any open questions worth parking, and a suggested next step. Keep it tight — this is not a Synthesis.
+When the jam winds down, offer a quick capture: the 2–3 strongest ideas, any open questions worth parking, and a suggested next step. Keep it tight — this is not a [[Synthesis]].
 
 ---
 
@@ -59,5 +59,9 @@ When the jam winds down, offer a quick capture: the 2–3 strongest ideas, any o
 - **Listing without energy.** Bullet-point dumps with no commentary or opinion. Every idea should come with a spark of why it's interesting.
 - **Playing it safe.** If none of your ideas make Nigel pause or push back, you're not being bold enough.
 - **Long monologues.** Keep responses conversational. If you're writing more than a few paragraphs, you've lost the jam rhythm.
-- **Premature convergence.** Don't narrow down too early. The goal is to expand the option space. Save convergence for Synthesis.
+- **Premature convergence.** Don't narrow down too early. The goal is to expand the option space. Save convergence for [[Synthesis]].
 - **Generic frameworks without application.** Don't just say "you could use the jobs-to-be-done framework." Apply it: "The job here isn't X, it's actually Y, which means..."
+
+---
+
+> See also: [[Synthesis]] | [[Knowledge/Creative/_Briefing|Creative Briefing]] | [[Skills/_Map|Skills]]

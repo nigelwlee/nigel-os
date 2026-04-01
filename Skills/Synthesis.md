@@ -54,3 +54,7 @@ Numbered list of specific, assignable actions. Each starts with a verb. Include 
 - **Including everything.** Not all input is signal. Leave out noise even if it was in the source material.
 - **Generic next steps.** "Discuss further" or "align on next steps" are non-actions. Be specific or leave them out.
 - **Fluff transitions.** No "In conclusion," or "It's worth noting that." Just say the thing.
+
+---
+
+> See also: [[Jam]] | [[Knowledge/Strategy/_Briefing|Strategy Briefing]] | [[Skills/_Map|Skills]]

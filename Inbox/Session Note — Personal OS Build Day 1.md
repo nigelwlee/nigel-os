@@ -7,7 +7,7 @@
 - Set up folder structure: SOUL, Skills, Memory, Knowledge, Projects, SOPs, Inbox, Archive, Media-Index
 - Installed Obsidian on Mac, connected to GitHub repo via Git plugin
 - Configured auto commit-and-sync every 10 minutes
-- Wrote and committed SOUL.md — identity layer for all agents
+- Wrote and committed [[SOUL]] — identity layer for all agents
 - Created Claude Project with SOUL.md loaded for persistent context
 - Cloned nigel-os vault onto Hetzner VPS at `/root/nigel-os`
 - Replaced Hermes' local SOUL.md with symlink to vault version

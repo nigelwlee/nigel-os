@@ -82,3 +82,7 @@ Cache identical prompt+context combinations. Prompt caching (now native in most 
 
 **Rate Limiting & Fallbacks**
 Design for API failures. Primary model fails → fallback to a different provider or model. Especially important if you're building on a single model provider.
+
+---
+
+> See also: [[Knowledge/AI/_Briefing|AI Briefing]] | [[Knowledge/_Map|Knowledge]] | [[SOUL]]

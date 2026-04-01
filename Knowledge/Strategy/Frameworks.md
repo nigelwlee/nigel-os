@@ -69,3 +69,7 @@ Responsible, Accountable, Consulted, Informed. One person is Accountable (the th
 
 **North Star Metric**
 The single metric that best captures the core value your product delivers. Everything else is a leading or lagging indicator. Use for: prioritisation, avoiding metric gaming, aligning teams.
+
+---
+
+> See also: [[Knowledge/Strategy/_Briefing|Strategy Briefing]] | [[Synthesis]] | [[Knowledge/_Map|Knowledge]]

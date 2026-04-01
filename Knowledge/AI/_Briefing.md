@@ -17,7 +17,7 @@ We are in the agentic transition: AI is moving from answering questions to takin
 Everything an LLM can do in a given interaction is bounded by what's in its context. Designing what goes in context — and what doesn't — is the core engineering problem. Implication: curated, structured context beats raw data at any scale.
 
 **Agent = LLM + Memory + Tools + Loop**
-An agent is not just a prompt. It is: a model that reasons, memory that persists state, tools that take actions, and a loop that keeps going until the task is done. Each component has design choices. Getting all four right is hard; most "agents" only have one or two.
+An agent is not just a prompt. It is: a model that reasons, memory that persists state, tools that take actions, and a loop that keeps going until the task is done. Each component has design choices. Getting all four right is hard; most "agents" only have one or two. The Personal OS is an implementation of this pattern — see [[SOUL]] for the identity layer.
 
 **Model Tiers (2026 landscape)**
 - Frontier reasoning: Claude Opus 4.6, GPT-4o, Gemini 1.5 Pro — use for complex reasoning, ambiguous instructions, high-stakes outputs
@@ -67,3 +67,7 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 - Simon Willison's blog (pragmatic AI practitioner perspective)
 - *The Bitter Lesson* — Rich Sutton (why scale beats clever algorithms)
 - Latent Space podcast (AI engineering deep dives)
+
+---
+
+> See also: [[Knowledge/AI/Frameworks|AI Frameworks]] | [[Knowledge/_Map|Knowledge]] | [[SOUL]]
