@@ -72,4 +72,4 @@ The single metric that best captures the core value your product delivers. Every
 
 ---
 
-> See also: [[Knowledge/Strategy/_Briefing|Strategy Briefing]] | [[Synthesis]] | [[Knowledge/_Map|Knowledge]]
+> See also: [[Knowledge/Strategy/_Briefing|Strategy Briefing]] | [[Synthesis]] | [[Knowledge/_Map-knowledge|Knowledge]]

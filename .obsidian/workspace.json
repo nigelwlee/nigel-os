@@ -177,8 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a8708a3aacbe84d",
+  "active": "020955ce8eea2e44",
   "lastOpenFiles": [
+    "Media-Index/_Map-media-index.md",
+    "Archive/_Map-archive.md",
+    "Memory/_Map-memory.md",
+    "SOPs/_Map-sops.md",
+    "Projects/_Map-projects.md",
+    "Inbox/_Map-inbox.md",
+    "Knowledge/_Map-knowledge.md",
+    "Skills/_Map-skills.md",
     "Media-Index/_Map.md",
     "Archive/_Map.md",
     "Memory/_Map.md",
@@ -205,9 +213,6 @@
     "Knowledge/Strategy",
     "Inbox/Session Note — Skills Build Day 1.md",
     "Skills/Jam.md",
-    "Skills/Synthesis.md",
-    "Inbox/Session Note — Personal OS Build Day 1.md",
-    "SOUL/SOUL.md",
     "Media-Index",
     "Archive"
   ]

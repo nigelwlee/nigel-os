@@ -86,4 +86,4 @@ Mandatory 11.5% superannuation on eligible earnings (2026). Applies to employees
 
 ---
 
-> See also: [[Knowledge/Legal/Frameworks|Legal Frameworks]] | [[Knowledge/_Map|Knowledge]] | [[SOUL]]
+> See also: [[Knowledge/Legal/Frameworks|Legal Frameworks]] | [[Knowledge/_Map-knowledge|Knowledge]] | [[SOUL]]

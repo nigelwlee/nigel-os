@@ -64,4 +64,4 @@ When the jam winds down, offer a quick capture: the 2–3 strongest ideas, any o
 
 ---
 
-> See also: [[Synthesis]] | [[Knowledge/Creative/_Briefing|Creative Briefing]] | [[Skills/_Map|Skills]]
+> See also: [[Synthesis]] | [[Knowledge/Creative/_Briefing|Creative Briefing]] | [[Skills/_Map-skills|Skills]]

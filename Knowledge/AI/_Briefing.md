@@ -70,4 +70,4 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 
 ---
 
-> See also: [[Knowledge/AI/Frameworks|AI Frameworks]] | [[Knowledge/_Map|Knowledge]] | [[SOUL]]
+> See also: [[Knowledge/AI/Frameworks|AI Frameworks]] | [[Knowledge/_Map-knowledge|Knowledge]] | [[SOUL]]

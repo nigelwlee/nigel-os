@@ -68,4 +68,4 @@ Every initiative needs one person who owns it completely. Committees diffuse acc
 
 ---
 
-> See also: [[Knowledge/Strategy/Frameworks|Strategy Frameworks]] | [[Knowledge/_Map|Knowledge]] | [[SOUL]]
+> See also: [[Knowledge/Strategy/Frameworks|Strategy Frameworks]] | [[Knowledge/_Map-knowledge|Knowledge]] | [[SOUL]]

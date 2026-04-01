@@ -77,4 +77,4 @@ These are held positions, not universal rules:
 
 ---
 
-> See also: [[Knowledge/Creative/Frameworks|Creative Frameworks]] | [[Knowledge/_Map|Knowledge]] | [[SOUL]]
+> See also: [[Knowledge/Creative/Frameworks|Creative Frameworks]] | [[Knowledge/_Map-knowledge|Knowledge]] | [[SOUL]]

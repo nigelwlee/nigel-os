@@ -117,14 +117,14 @@ If you are an AI agent reading this:
 
 ## System Map
 
-- [[Skills/_Map|Skills]] — behavioural modes (Jam, Synthesis)
-- [[Knowledge/_Map|Knowledge]] — domain expertise and frameworks
-- [[Inbox/_Map|Inbox]] — unprocessed captures and session notes
-- [[Projects/_Map|Projects]] — active and parked projects
-- [[SOPs/_Map|SOPs]] — repeatable playbooks
-- [[Memory/_Map|Memory]] — persistent context and decisions
-- [[Archive/_Map|Archive]] — retired material
-- [[Media-Index/_Map|Media-Index]] — external media references
+- [[Skills/_Map-skills|Skills]] — behavioural modes (Jam, Synthesis)
+- [[Knowledge/_Map-knowledge|Knowledge]] — domain expertise and frameworks
+- [[Inbox/_Map-inbox|Inbox]] — unprocessed captures and session notes
+- [[Projects/_Map-projects|Projects]] — active and parked projects
+- [[SOPs/_Map-sops|SOPs]] — repeatable playbooks
+- [[Memory/_Map-memory|Memory]] — persistent context and decisions
+- [[Archive/_Map-archive|Archive]] — retired material
+- [[Media-Index/_Map-media-index|Media-Index]] — external media references
 
 ---
 
