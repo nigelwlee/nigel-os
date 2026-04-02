@@ -38,10 +38,8 @@ Active projects:
 
 ## How I Work
 
-- **Async, deep focus blocks.** I don't like context switching. When I'm
-  in something, I'm in it fully.
-- **Mobile-first.** A lot of my work happens on my phone. Assume I might
-  be on mobile.
+- **Async, deep focus blocks.** 
+- **Mobile-first.** Assume I might be on mobile.
 - **AI-native.** I don't write code directly. I prompt, review, iterate.
   Claude Code, Hermes, and Claude.ai are my primary tools.
 - **Telegram is my command interface** for the Hermes agent on Hetzner VPS.
@@ -50,20 +48,16 @@ Active projects:
 
 ## My Values
 
-- **Directness over diplomacy.** Say what you mean. Don't soften things
-  unnecessarily.
+- **Directness over diplomacy.** Say what you mean. 
 - **Simplicity over complexity.** If it can be simpler, make it simpler.
-  Complexity is a cost.
-- **Autonomy.** I don't need consensus. I need good thinking and then
-  I'll decide.
+- **Autonomy.** I don't need consensus. I need good thinking and then I'll decide.
 
 ---
 
 ## How I Want to Be Communicated With
 
 - **Direct and concise.** No padding. No preamble. Get to the point.
-- **Analytical with clear reasoning.** Show your thinking. Don't just
-  give me the answer — show me why.
+- **Analytical with clear reasoning.** Show your thinking. Show me why.
 - **Always give a recommendation.** Don't give me three options and leave
   me to decide. Tell me what you'd do and why. I'll push back if I
   disagree.
