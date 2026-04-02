@@ -11,14 +11,10 @@
             "id": "5a8708a3aacbe84d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/_Map-projects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_Map-projects"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/_Map-projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Map-projects"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/_Map-projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Map-projects"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/_Map-projects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Map-projects"
+              "title": "Outline"
             }
           }
         ]
@@ -186,6 +179,8 @@
   },
   "active": "020955ce8eea2e44",
   "lastOpenFiles": [
+    "Projects/SD-BLUF/_Briefing-sd-bluf.md",
+    "Projects/_Map-projects.md",
     "Projects/MY-CALC",
     "Projects/MY-ASTR",
     "Projects/RB-NETW",
@@ -209,14 +204,12 @@
     "Knowledge/Engineering",
     "Knowledge/People/insights",
     "Knowledge/People",
-    "Knowledge/Finance/insights",
     "Knowledge/Strategy/_Briefing-strategy.md",
     "Knowledge/Legal/_Briefing-legal.md",
     "Knowledge/Creative/_Briefing-creative.md",
     "Knowledge/AI/_Briefing-ai.md",
     "Media-Index/_Map-media-index.md",
     "Archive/_Map-archive.md",
-    "Projects/_Map-projects.md",
     "Inbox/_Map-inbox.md",
     "Knowledge/_Map-knowledge.md",
     "Skills/_Map-skills.md",
