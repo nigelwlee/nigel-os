@@ -11,10 +11,14 @@
             "id": "5a8708a3aacbe84d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Projects/_Map-projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Map-projects"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/_Map-projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for _Map-projects"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/_Map-projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from _Map-projects"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Projects/_Map-projects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of _Map-projects"
             }
           }
         ]
@@ -177,8 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a8708a3aacbe84d",
+  "active": "020955ce8eea2e44",
   "lastOpenFiles": [
+    "Projects/MY-CALC",
+    "Projects/MY-ASTR",
+    "Projects/RB-NETW",
+    "Projects/SD-OPAL",
+    "Projects/SD-BLUF",
     "SOUL/SOUL.md",
     "Memory/_Map-memory.md",
     "SOPs/Knowledge-Refresh-Cron.md",
@@ -198,9 +210,6 @@
     "Knowledge/People/insights",
     "Knowledge/People",
     "Knowledge/Finance/insights",
-    "Knowledge/Finance",
-    "Knowledge/Sales-Marketing/insights",
-    "Knowledge/Sales-Marketing",
     "Knowledge/Strategy/_Briefing-strategy.md",
     "Knowledge/Legal/_Briefing-legal.md",
     "Knowledge/Creative/_Briefing-creative.md",
@@ -212,8 +221,6 @@
     "Knowledge/_Map-knowledge.md",
     "Skills/_Map-skills.md",
     "Media-Index/_Map.md",
-    "Archive/_Map.md",
-    "Memory/_Map.md",
-    "Knowledge/Legal/insights"
+    "Archive/_Map.md"
   ]
 }
