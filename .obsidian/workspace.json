@@ -184,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a8708a3aacbe84d",
+  "active": "020955ce8eea2e44",
   "lastOpenFiles": [
+    "Skills/Project-Spinup.md",
     "Memory/2026-04-01 — Skill File Convention.md",
     "Memory/2026-04-01 — Infrastructure Context.md",
     "Memory/2026-04-01 — Capture Phase 2 Roadmap.md",
@@ -220,7 +221,6 @@
     "Knowledge/Strategy/_Briefing-strategy.md",
     "Knowledge/Legal/_Briefing-legal.md",
     "Knowledge/Creative/_Briefing-creative.md",
-    "Knowledge/AI/_Briefing-ai.md",
-    "Media-Index/_Map-media-index.md"
+    "Knowledge/AI/_Briefing-ai.md"
   ]
 }
