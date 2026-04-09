@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/_Map-archive.md",
+                "file": "Inbox/Claude Export — Misc Sessions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Map-archive"
+              "title": "Claude Export — Misc Sessions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/_Map-archive.md",
+                "file": "Inbox/Claude Export — Misc Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Map-archive"
+              "title": "Backlinks for Claude Export — Misc Sessions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/_Map-archive.md",
+                "file": "Inbox/Claude Export — Misc Sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Map-archive"
+              "title": "Outgoing links from Claude Export — Misc Sessions"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/_Map-archive.md",
+                "file": "Inbox/Claude Export — Misc Sessions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Map-archive"
+              "title": "Outline of Claude Export — Misc Sessions"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "5a8708a3aacbe84d",
   "lastOpenFiles": [
+    "Archive/_Map-archive.md",
     "Inbox/Claude Export — MY-ANIM Anima Pet.md",
     "Projects/SD-BLUF/_Briefing-sd-bluf.md",
     "Inbox/Claude Export — SD-BLUF Bluff Casino.md",
@@ -217,7 +218,6 @@
     "Knowledge/Finance/Frameworks.md",
     "Knowledge/Engineering/Frameworks.md",
     "Knowledge/Sales-Marketing/Frameworks.md",
-    "Knowledge/People/Frameworks.md",
     "Knowledge/Engineering/insights",
     "Knowledge/Engineering",
     "Knowledge/People/insights",

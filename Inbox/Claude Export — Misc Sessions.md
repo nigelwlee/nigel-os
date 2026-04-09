@@ -56,8 +56,6 @@
 
 ### What to extract during synthesis
 
-**→ Note — wenooging:** Claude Projects export shows `wenooging` (adult AI product, wenooging.com, paid ad campaign testing) as a past project. Not in vault. If still active, add as project.
-
 **→ Note — ADHD app (conv 98):** 121-message session building an ADHD thought-org web app (Jan 2026). Pre-dates the OS build. Could be relevant to Knowledge/AI or archived as a prototype experiment.
 
 **→ Discard:** Empty conversations (13, 73, 74), trivial lookups (currency conversion, solfège), and the 2024 Baronies RPG session are noise — no action needed.
