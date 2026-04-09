@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Claude Export — Misc Sessions.md",
+                "file": "Archive/_Map-archive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Export — Misc Sessions"
+              "title": "_Map-archive"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Claude Export — Misc Sessions.md",
+                "file": "Archive/_Map-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Claude Export — Misc Sessions"
+              "title": "Backlinks for _Map-archive"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Claude Export — Misc Sessions.md",
+                "file": "Archive/_Map-archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Claude Export — Misc Sessions"
+              "title": "Outgoing links from _Map-archive"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Claude Export — Misc Sessions.md",
+                "file": "Archive/_Map-archive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Claude Export — Misc Sessions"
+              "title": "Outline of _Map-archive"
             }
           }
         ]
@@ -186,41 +186,41 @@
   },
   "active": "5a8708a3aacbe84d",
   "lastOpenFiles": [
+    "Inbox/Claude Export — Misc Sessions.md",
+    "SOPs/Mobile-Agentic-Coding.md",
+    "SOPs/Etsy-Listing-Generation.md",
+    "Projects/SD-OPAL/_Briefing-sd-opal.md",
+    "Projects/RB-NETW/_Briefing-rb-netw.md",
+    "Projects/MY-SSTU/_Briefing-my-sstu.md",
+    "Projects/MY-SSTU",
+    "Projects/MY-DIDIT/_Briefing-my-didit.md",
+    "Projects/MY-DIDIT",
+    "Projects/MY-ASTR/_Briefing-my-astr.md",
+    "Projects/MY-ANIM/_Briefing-my-anim.md",
+    "Projects/MY-ANIM",
+    "Memory/2026-04-09 — Inbox Synthesis Complete.md",
+    "Archive/Claude Export — Sleepy Studios Etsy.md",
+    "Archive/Claude Export — SD-OPAL and RB-NETW.md",
+    "Archive/Claude Export — SD-BLUF Bluff Casino.md",
+    "Archive/Claude Export — Personal OS Build.md",
+    "Archive/Claude Export — Misc Sessions.md",
+    "Archive/Claude Export — MY-DIDIT Did·It.md",
+    "Archive/Claude Export — MY-ASTR Celesto.md",
+    "Archive/Claude Export — MY-ANIM Anima Pet.md",
     "Archive/_Map-archive.md",
     "Inbox/Claude Export — MY-ANIM Anima Pet.md",
     "Projects/SD-BLUF/_Briefing-sd-bluf.md",
     "Inbox/Claude Export — SD-BLUF Bluff Casino.md",
     "Skills/Knowledge-Refresh.md",
-    "Inbox/Claude Export — Misc Sessions.md",
     "Inbox/Claude Export — Sleepy Studios Etsy.md",
     "Inbox/Claude Export — Personal OS Build.md",
     "Inbox/Claude Export — SD-OPAL and RB-NETW.md",
-    "Inbox/Claude Export — MY-ASTR Celesto.md",
-    "Inbox/Claude Export — MY-DIDIT Did·It.md",
-    "Skills/Project-Spinup.md",
-    "Memory/2026-04-01 — Skill File Convention.md",
-    "Memory/2026-04-01 — Infrastructure Context.md",
-    "Memory/2026-04-01 — Capture Phase 2 Roadmap.md",
-    "Memory/2026-04-01 — Architecture Decisions.md",
-    "Archive/Session Note — Skills Build Day 1.md",
-    "Archive/Session Note — Personal OS Build Day 1.md",
-    "Projects/_Map-projects.md",
     "Projects/MY-CALC",
     "Projects/MY-ASTR",
     "Projects/RB-NETW",
     "Projects/SD-OPAL",
     "Projects/SD-BLUF",
-    "SOUL/SOUL.md",
-    "Memory/_Map-memory.md",
-    "SOPs/Knowledge-Refresh-Cron.md",
-    "SOPs/_Map-sops.md",
     "SOPs",
-    "Knowledge/Finance/Frameworks.md",
-    "Knowledge/Engineering/Frameworks.md",
-    "Knowledge/Sales-Marketing/Frameworks.md",
-    "Knowledge/Engineering/insights",
-    "Knowledge/Engineering",
-    "Knowledge/People/insights",
-    "Knowledge/People"
+    "Knowledge/Engineering/insights"
   ]
 }
