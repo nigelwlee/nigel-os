@@ -1,7 +1,7 @@
 # Sales & Marketing Briefing
 
-> Last synthesized: 2026-04-01
-> Insight count: 0 (seed version)
+> Last synthesized: 2026-04-09
+> Insight count: 6 (updated from Inbox synthesis)
 
 ---
 
@@ -40,6 +40,16 @@ For a solo builder shipping AI products, the fastest path to revenue is not more
 **Attribution is a trap at small scale.** Below $50K MRR, trying to build multi-touch attribution is a waste of engineering and analytical effort. You do not have enough volume for statistical significance, and the most important channels (word of mouth, community, dark social) are inherently untrackable. Instead, ask every new customer "how did you hear about us?" in a free-text field and read every single response. Pattern recognition from 50 qualitative answers beats any dashboard.
 
 **Free trials outperform freemium for products with a learning curve.** If your AI product requires setup, configuration, or behavior change before value is delivered, a 14-day free trial with full access creates more urgency and higher activation than a permanently free tier with limited features. Freemium works when value is instant and the free tier naturally leads to sharing. When it is not, freemium just creates a graveyard of accounts that signed up, got confused, and left.
+
+**Quiz funnels convert better as a scoring mechanism on the result screen, not as a traffic driver.** From [[Projects/MY-ASTR/_Briefing-my-astr|Celesto]] validation: a scorecard quiz placed after value delivery (e.g. astrology reading) generates real purchase intent. Placing pricing CTAs early in the funnel gets ignored. The quiz is conversion infrastructure, not acquisition.
+
+**Native UI mimicry in ad creatives drives engagement.** iMessage-style creatives that look like real conversations outperform traditional ad formats on Meta. Combine with emotional pain hooks and hyper-specific claims for believability. Technique observed in AstroTalk's high-performing campaigns.
+
+**No-face content strategy for parent-child products.** From [[Projects/MY-DIDIT/_Briefing-my-didit|Did·It]]: "look what we did together" content (hands, screens, activities — no faces) is a brand differentiator in kids' content. It's privacy-safe, relatable, and positions the product as connection time rather than screen time.
+
+**VIP poaching is the highest-leverage acquisition play in competitive markets.** From [[Projects/SD-BLUF/_Briefing-sd-bluf|Bluff]]: explicitly recruiting high-value players from competitors with market-leading bonuses and 24/7 concierge. Quality > quantity — a few high-value players drive disproportionate revenue.
+
+**Etsy listing copy benefits from rigid templating.** From [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]]: standardising title format (pipe-separated, 140 chars, ending "(Digital Download)"), tag limits (20 chars), and assembly instructions as text (not PDF) turns listing creation into a repeatable, AI-automatable process.
 
 ---
 

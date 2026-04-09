@@ -28,3 +28,4 @@ Each memory is a single file in this folder. Filename: `YYYY-MM-DD — Topic.md`
 - [[2026-04-01 — Infrastructure Context]] — current tools, servers, sync setup (context)
 - [[2026-04-01 — Skill File Convention]] — standard structure for skill files (decision)
 - [[2026-04-01 — Capture Phase 2 Roadmap]] — next phase capture tools, not started (status)
+- [[2026-04-09 — Inbox Synthesis Complete]] — 155 conversations processed, 7 projects registered/enriched (status)

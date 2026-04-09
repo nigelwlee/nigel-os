@@ -19,3 +19,5 @@ Each SOP is a single file. Filename: `{Verb}-{Topic}.md` (e.g., `Knowledge-Refre
 ## Contents
 
 - [[Knowledge-Refresh-Cron]] — weekly Hermes cron to refresh Knowledge domain briefings
+- [[Etsy-Listing-Generation]] — repeatable Cricut SVG listing workflow for Sleepy Studios
+- [[Mobile-Agentic-Coding]] — ship code from iPhone via Working Copy → GitHub → Claude Code Remote → Vercel

@@ -1,7 +1,7 @@
 # Creative Briefing
 
-> Last synthesized: 2026-04-01
-> Insight count: 0 (seed version)
+> Last synthesized: 2026-04-09
+> Insight count: 6 (updated from Inbox synthesis)
 
 ---
 
@@ -43,6 +43,14 @@ Define a brand by asking: if this brand were a person, who would they be? What w
 **Boredom is a signal.** If you're bored making it, the audience will be bored consuming it. When something feels boring in production, it's not "safe" — it's already failing.
 
 **Platform context shapes everything.** The same content performs differently depending on where and when it's seen. Design for the feed, the scroll, the notification. Context is not a constraint to work around; it is part of the medium.
+
+**Affinity Designer is the production tool for SVG/digital asset creation.** From [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]]: layer exclusion from noise effects, transparent PNG export, and Cricut-compatible SVG output are recurring workflows. Affinity's non-destructive workflow supports rapid iteration on card templates.
+
+**AI character consistency is a recurring production need.** Generating consistent character variations from source images (same character, different poses/expressions) is an unsolved workflow. Current tools require manual iteration — no reliable one-shot method exists yet.
+
+**Brand anti-patterns are as important as brand guidelines.** From [[Projects/RB-NETW/_Briefing-rb-netw|Tokeniser]]: explicitly listing what a brand will *never* do (no chain links, no hexagons, no neon) is more useful than aspirational positives. Anti-patterns are concrete and testable; "bold but warm" is neither.
+
+**Celebration-first design drives retention in kids' apps.** From [[Projects/MY-DIDIT/_Briefing-my-didit|Did·It]]: confetti, success screens, and milestone triggers (not scores or rankings) create the emotional reward loop. No fail states means every interaction ends positively. The celebration *is* the retention mechanic.
 
 ---
 

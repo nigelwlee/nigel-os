@@ -252,7 +252,43 @@ Based on competitive dynamics:
 
 ---
 
-## 13. Working Notes for Nigel
+## 13. VIP Operations (Nigel's Scope)
+
+### Lossback System
+Lossback is calculated on **NGR (Net Gaming Revenue)** above **HWM (High Water Mark)**. Key mechanics:
+- Dual HWM tracks per player
+- Distributed promos don't reverse when player wins back
+- Payout logged with watermark-adjusted calculations
+- Phase 1: manual; Phase 1.5: automated
+
+### VIP Team Structure
+**4-person team:** Head (EST) + 3 hosts across complementary timezones:
+- CET-flex
+- PST-AP flex
+- Manila PHT
+
+**Hiring principle:** Timezone strategy > shift work. Hire remote across complementary zones, not graveyard shifts. Culture and psychological safety are non-negotiable — embedded in JD and evaluation.
+
+### Promo Engineering
+- **Deposit match ROI:** Requires rollover/redemption/cannibalization modeling. Sensitivity tables for internal defensibility.
+- **March Madness/NBA promos:** 3 promos designed, break-even modeled by player type
+- **Break-even benchmark:** At 5% margin, $3,820 lifetime handle per player
+
+### Tools Built
+- **War Room** (React JSX) — severity-tiered alerts, bonus params, talking points
+- **VIP Rota** (Next.js, GitHub: `nigelwlee/vip-rota`) — 4-timezone grid visualization
+- **Lossback Calculator** — watermark-adjusted, dual HWM tracks, payout log
+- **Bonus Simulation Model** — rollover modeling
+
+### Operational Targets
+- **Current:** $15M/month wagered handle
+- **Target:** $100M/month wagered handle
+- VIP hiring infrastructure complete (JD done, evaluation task ready)
+- Promo engineering specs: Lossback System + Weekly Reload Bonus ready
+
+---
+
+## 14. Working Notes for Nigel
 
 - The **founders are anonymous** — this is a feature, not a bug, for crypto audiences. Lean into the product story, not personalities.
 - The **$10B in pre-launch wagering** is an unusual and powerful claim — it establishes legitimacy faster than most new entrants. Use this in all positioning.
@@ -264,4 +300,4 @@ Based on competitive dynamics:
 
 ---
 
-*Briefing compiled: 2026-04-01. Sources: Chainwire press release (Feb 2026), Decrypt, Beluga/heybeluga.com, Surgence.io Crypto Casino Industry Report 2026, Businessofigaming.com, Tribuna.com, Rollbitcode.com, Blockonomi.com.*
+*Briefing compiled: 2026-04-01, updated 2026-04-09. Sources: Chainwire press release (Feb 2026), Decrypt, Beluga/heybeluga.com, Surgence.io Crypto Casino Industry Report 2026, Businessofigaming.com, Tribuna.com, Rollbitcode.com, Blockonomi.com. VIP operations from Claude session exports (Feb–Apr 2026).*

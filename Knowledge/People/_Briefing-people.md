@@ -1,7 +1,7 @@
 # People Briefing
 
-> Last synthesized: 2026-04-01
-> Insight count: 0 (seed version)
+> Last synthesized: 2026-04-09
+> Insight count: 5 (updated from Inbox synthesis)
 
 ---
 
@@ -38,6 +38,10 @@ The highest-leverage thing a solo builder can do is delay hiring until it hurts,
 **Remote-first is a structure, not a perk, and it demands more writing than most founders expect.** If you are hiring contractors or staff across Australian time zones (or internationally), the quality of your written briefs, decision logs, and async updates becomes your management layer. The founders who struggle with remote teams are almost always the ones who relied on hallway conversations and never learned to write clearly. Invest in written operating cadence before you invest in people.
 
 **The best interview signal is a paid trial project, not a conversation.** Interviews select for people who are good at interviews. A paid trial — two to five days of real work on a real problem — selects for people who are good at the job. In the Australian market, candidates increasingly expect this and it is a competitive advantage: serious people prefer being evaluated on work product, and it filters out those who cannot deliver independently.
+
+**Timezone strategy beats shift work for global coverage.** From [[Projects/SD-BLUF/_Briefing-sd-bluf|Bluff]] VIP team design: hire remote across complementary timezones (EST, CET-flex, PST-AP flex, Manila PHT) instead of asking people to work graveyard shifts. Four people across four zones covers 24/7 without anyone working unsociable hours. This is a structural advantage in roles requiring real-time responsiveness.
+
+**Psychological safety must be designed into the JD, not retrofitted.** The Bluff Head of VIP job description explicitly weights culture and psychological safety in the evaluation criteria. This filters for candidates who value the environment, not just the comp. By the time you're coaching someone on culture fit, the hiring decision already failed.
 
 ---
 

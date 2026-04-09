@@ -1,7 +1,7 @@
 # AI Briefing
 
-> Last synthesized: 2026-04-01
-> Insight count: 0 (seed version)
+> Last synthesized: 2026-04-09
+> Insight count: 6 (updated from Inbox synthesis)
 
 ---
 
@@ -48,6 +48,14 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 **The cheapest eval is a human in the loop.** Before you automate the QA, make sure a human has validated the output at least 50 times. Most premature automation fails because the definition of "correct" was never tested.
 
 **Latency is a UX problem.** Users tolerate ~2-3 seconds before they assume something is broken. Streaming output is not optional for user-facing AI products. Design latency budgets explicitly.
+
+**On-device LLMs via Core ML are viable for personality-driven interactions.** From [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]: Phi-3 Mini or Gemma 2B running locally via Core ML can power creature reactions and emotes without API costs or latency. Local-first AI preserves privacy and works offline — cloud LLM (Claude API) becomes the premium upgrade path.
+
+**Hermes pattern: Telegram + OpenRouter + structured vault = working personal agent.** The Personal OS agent architecture is: Telegram as command interface → OpenRouter for model access (Claude Sonnet) → symlinked vault for context. VPS pulls vault hourly from GitHub. This is a minimal but functional agent loop (LLM + Memory + Tools + Loop).
+
+**Claude Projects with pre-loaded vault files are a lightweight RAG substitute.** Instead of building a full RAG pipeline, loading key vault files (SOUL.md, briefings) as persistent context in a Claude Project gives 80% of the benefit at 0% of the infrastructure cost. Good enough until the knowledge base exceeds context window limits.
+
+**The ADHD thought-org app was the precursor to the Personal OS.** The Jan 2026 web app for thought organization (121-message session) was the original second-brain concept. The current agent-native OS is its evolved successor. Pattern: tools built for personal frustration become the best products.
 
 ---
 

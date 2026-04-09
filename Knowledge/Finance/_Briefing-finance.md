@@ -1,7 +1,7 @@
 # Finance Briefing
 
-> Last synthesized: 2026-04-01
-> Insight count: 0 (seed version)
+> Last synthesized: 2026-04-09
+> Insight count: 6 (updated from Inbox synthesis)
 
 ---
 
@@ -40,6 +40,14 @@ Finance for a solo builder is not about financial engineering, complex capital s
 **Your personal tax structure choice between sole trader, Pty Ltd, and trust has a $30-50K/year impact at relatively modest revenue levels.** A sole trader pays marginal tax rates up to 47% (including Medicare levy) on all profit. A Pty Ltd pays 25% company tax (for base rate entities under $50M turnover) but you face double taxation on extraction via dividends (franking credits help but do not eliminate the gap entirely). A discretionary trust flowing to a Pty Ltd trustee can optimise but adds $5-8K/year in compliance costs. The breakeven point where a Pty Ltd structure clearly wins over sole trader is typically around $120-150K in annual profit. Get this right early because restructuring later triggers CGT events.
 
 **Burn rate discipline matters more than revenue in the first 18 months.** The most common cause of death for solo AI builders is not lack of product-market fit — it is running out of cash while still iterating. Keeping monthly burn under $8-10K (inclusive of your living costs in Sydney) gives you 2+ years of runway on $200K of capital. That is enough time to find PMF. Most founders over-invest in infrastructure, tools, and hiring before they have signal, which compresses runway and forces premature fundraising or pivoting. Constraint breeds creativity.
+
+**Lossback on NGR is the standard VIP retention mechanic in iGaming.** From [[Projects/SD-BLUF/_Briefing-sd-bluf|Bluff]]: calculated above a High Water Mark (HWM), with dual-track HWM per player. Distributed promos don't reverse when a player wins back. The formula and payout log are operationally complex enough to warrant automated tooling — manual calculation doesn't scale past ~50 VIP players.
+
+**Deposit match ROI requires rollover sensitivity modeling.** Lower rollover requirements increase player value perception but decrease house margin. Sensitivity tables (rollover multiplier vs. redemption rate vs. cannibalization) are necessary for internal defensibility. At 5% margin, break-even is ~$3,820 lifetime handle per player.
+
+**Delta-neutral basis trade is the yield engine for stablecoin products.** From [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]]: capturing perpetual funding rate spread. The recursive collateral loop (deposit → svOPAL → borrow → loop) amplifies yield but introduces liquidation risk at each layer.
+
+**Fee structure negotiation: 0% management + performance-only aligns incentives.** The Opal counter-terms (0% mgmt / 15% perf / hurdle at sUSDe + 2%) ensure the operator only earns when the strategy outperforms. Three-way split (10/15/75) keeps user share dominant, which is the right positioning for a yield product.
 
 ---
 

@@ -17,8 +17,13 @@ than writing code directly.
 
 Active projects:
 - **Personal OS / Second Brain** — building the system you're part of now
-- **Celesto** — astrology app, parked but not abandoned
-- Various AI explorations and agent experiments
+- **SD-BLUF** — iGaming casino VIP operations (consulting)
+- **SD-OPAL** — stablecoin/yield product (consulting)
+- **RB-NETW** — digital asset infrastructure (advisory)
+- **MY-ANIM** — Anima Pet iOS virtual creature app
+- **MY-DIDIT** — Did·It educational toddler games
+- **MY-SSTU** — Sleepy Studios Etsy SVG cards
+- **MY-ASTR** — Celesto astrology app (parked, not abandoned)
 
 ---
 
@@ -142,5 +147,5 @@ The [[Memory/_Map-memory|Memory]] folder is your working notebook across session
 
 ---
 
-*Last updated: March 2026*
-*Version: 1.0*
+*Last updated: April 2026*
+*Version: 1.1*

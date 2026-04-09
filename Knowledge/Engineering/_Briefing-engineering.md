@@ -1,7 +1,7 @@
 # Engineering Briefing
 
-> Last synthesized: 2026-04-01
-> Insight count: 0 (seed version)
+> Last synthesized: 2026-04-09
+> Insight count: 6 (updated from Inbox synthesis)
 
 ---
 
@@ -40,6 +40,14 @@ Engineering literacy for a vibe coder is not about writing code — it is about 
 **Tests are prompts for future AI agents.** A well-written test suite is not just a safety net — it is a specification that future AI coding sessions can use to understand what the system is supposed to do. When you ask an AI to modify existing code, the tests tell it what must not break. Investing in clear, intention-revealing tests pays compound returns every time you prompt an AI to change something.
 
 **The "just ship it" instinct needs a circuit breaker for auth and payments.** Move fast and iterate works for UI, content, and most features. It does not work for authentication, authorisation, payment processing, or data deletion. These are domains where a single mistake can be catastrophic and where AI-generated code is most likely to have subtle, non-obvious vulnerabilities. Use established libraries (not AI-generated implementations) for these concerns.
+
+**Canvas + TimelineView > SpriteKit for SwiftUI-native rendering.** From [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]: when your app is SwiftUI-native, using Canvas with TimelineView at 60fps integrates better than SpriteKit. SpriteKit's `UIViewRepresentable` bridging adds complexity and state-sync issues. Direct Canvas rendering with `GraphicsContext` is simpler and composable with SwiftUI state.
+
+**SwiftUI's `Color.opacity()` returns `some View`, not `Color`.** This breaks `GraphicsContext` usage where you need actual `Color` values. Workaround: palette alpha helpers that construct colours with alpha directly rather than using `.opacity()` modifier.
+
+**Shared component systems prevent game-per-game technical debt.** From [[Projects/MY-DIDIT/_Briefing-my-didit|Did·It]]: extracting `GameShell`, `SuccessScreen`, `Confetti`, `Toast`, and `useSoundManager` as shared components means each new game is a content problem, not an engineering problem. The component system is the product's internal API.
+
+**Mobile agentic coding is production-viable.** From Personal OS Build: Working Copy → GitHub push → Claude Code Remote → Vercel auto-deploy is a working mobile-first development pipeline. This means you can ship from an iPhone. See [[SOPs/Mobile-Agentic-Coding|Mobile Agentic Coding SOP]].
 
 ---
 
