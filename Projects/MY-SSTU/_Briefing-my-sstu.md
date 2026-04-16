@@ -62,4 +62,4 @@ Sleepy Studios is an Etsy store selling digital download Cricut SVG card templat
 
 ---
 
-> See also: [[Projects/_Map-projects|Projects]] | [[SOUL]]
+> See also: [[Projects/_Map-projects|Projects]] | [[Knowledge/Creative/_Briefing-creative|Creative]] | [[Knowledge/Sales-Marketing/_Briefing-sales-marketing|Sales & Marketing]] | [[SOUL]]

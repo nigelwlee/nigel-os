@@ -71,7 +71,7 @@ Send summary to Nigel via Telegram (Hermes) or output directly (Claude Code/clau
 
 ## Automation Setup
 
-See [[SOPs/_Map-sops|SOPs]] → [[Knowledge-Refresh Cron]] for the Hermes VPS cron configuration.
+See [[SOPs/_Map-sops|SOPs]] → [[SOPs/Knowledge-Refresh-Cron|Knowledge-Refresh Cron]] for the Hermes VPS cron configuration.
 
 ---
 

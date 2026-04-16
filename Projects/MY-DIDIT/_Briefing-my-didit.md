@@ -73,7 +73,8 @@ Brand tagline: "We packed big concepts and real-world skills into tiny games."
 - Email list started
 - Replayable mechanics: 3-level structure per game
 - Brand evolved from MYLO → Did·It
+- **Legal flag:** Children's Online Privacy Code (OAIC exposure draft, April 2026) applies to educational apps accessed by children. Review data collection practices before December 2026 enforcement — see [[Knowledge/Legal/_Briefing-legal|Legal Briefing]]
 
 ---
 
-> See also: [[Projects/_Map-projects|Projects]] | [[SOUL]]
+> See also: [[Projects/_Map-projects|Projects]] | [[Knowledge/Creative/_Briefing-creative|Creative]] | [[Knowledge/Engineering/_Briefing-engineering|Engineering]] | [[Knowledge/Sales-Marketing/_Briefing-sales-marketing|Sales & Marketing]] | [[SOUL]]

@@ -1,7 +1,7 @@
 # Legal Briefing
 
-> Last synthesized: 2026-04-01
-> Insight count: 0 (seed version)
+> Last synthesized: 2026-04-16
+> Insight count: 3
 > Jurisdiction focus: Australia (primary), US (secondary for tech/fundraising)
 
 > **Disclaimer:** This is a knowledge base for orientation and first-principles thinking, not legal advice. Always engage a qualified lawyer for material decisions.
@@ -65,6 +65,12 @@ Mandatory 11.5% superannuation on eligible earnings (2026). Applies to employees
 
 **Domain names and trademarks are different.** Owning a .com.au does not give you trademark rights. Register your brand as a trademark in your primary markets (Australia: IP Australia, US: USPTO) before you're big enough to be worth copying.
 
+**Children's Online Privacy Code is coming — directly relevant to [[Projects/MY-DIDIT/_Briefing-my-didit|Did·It]].** The OAIC published an exposure draft (April 2026) applying a "best interests of the child" standard to services likely accessed by children — including educational apps. Strict data minimisation, explicit consent for marketing, children's right to deletion. Consultation closes 5 June 2026; law expected December 2026. MY-DIDIT (toddler games) must be designed for compliance before this goes live.
+
+**Automated decision-making transparency obligations take effect 10 December 2026.** Any APP entity using personal information in automated or semi-automated decision-making with significant individual impact must describe the data used and decision types in its privacy policy. Broadly captures AI-enabled systems. Relevant to any project using AI for personalisation or recommendations (e.g., [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]'s LLM-powered interactions).
+
+**Australia chose voluntary AI guidance over mandatory regulation — but enforcement is real.** The December 2025 National AI Plan confirmed reliance on existing laws + sector regulators + voluntary AI Safety Institute guidance, not a standalone AI Act. However, the OAIC launched its first-ever compliance sweep in January 2026 (~60 organisations). The regime is "soft regulation, hard enforcement." Don't mistake the absence of an AI Act for absence of liability.
+
 ---
 
 ## Open Questions / Active Debates
@@ -86,4 +92,4 @@ Mandatory 11.5% superannuation on eligible earnings (2026). Applies to employees
 
 ---
 
-> See also: [[Knowledge/Legal/Frameworks|Legal Frameworks]] | [[Knowledge/_Map-knowledge|Knowledge]] | [[SOUL]]
+> See also: [[Knowledge/Legal/Frameworks|Legal Frameworks]] | [[Knowledge/_Map-knowledge|Knowledge]] | [[Projects/MY-DIDIT/_Briefing-my-didit|MY-DIDIT]] | [[Projects/MY-ANIM/_Briefing-my-anim|MY-ANIM]] | [[SOUL]]

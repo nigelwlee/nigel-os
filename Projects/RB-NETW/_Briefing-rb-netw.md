@@ -52,4 +52,4 @@ Red Belly Network / Tokeniser is a digital asset infrastructure project. Nigel a
 
 ---
 
-> See also: [[Projects/_Map-projects|Projects]] | [[SOUL]]
+> See also: [[Projects/_Map-projects|Projects]] | [[Knowledge/Creative/_Briefing-creative|Creative]] | [[SOUL]]

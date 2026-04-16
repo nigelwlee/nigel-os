@@ -31,9 +31,6 @@ Each project has a folder named `{PREFIX}-{CODE}` where the prefix indicates typ
 ### MY-SSTU — Sleepy Studios (Etsy)
 - [[Projects/MY-SSTU/_Briefing-my-sstu|Briefing]] — Cricut SVG cards, 10 products live, listing SOP standardised
 
-### MY-CALC — BD Calculator
-- [[Projects/MY-CALC/_Briefing-my-calc|Briefing]] — context, goals, status
-
 ## Parked
 
 ### MY-ASTR — Celesto (Astrology App)

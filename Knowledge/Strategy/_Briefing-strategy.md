@@ -1,7 +1,7 @@
 # Strategy Briefing
 
-> Last synthesized: 2026-04-01
-> Insight count: 0 (seed version)
+> Last synthesized: 2026-04-16
+> Insight count: 3
 
 ---
 
@@ -48,6 +48,12 @@ Every initiative needs one person who owns it completely. Committees diffuse acc
 
 **Strategy is a series of no's.** Every yes to one thing is an implicit no to ten others. The quality of a strategy is judged more by what it excludes than what it includes.
 
+**Context engineering is the new competitive moat.** When everyone accesses the same AI models, organisational context becomes the differentiator (HBR, Feb 2026). For solo founders, accumulated domain expertise and structured knowledge IS the context layer that enterprises spend millions trying to document. The Personal OS is a direct implementation of this — see [[Knowledge/AI/_Briefing-ai|AI Briefing]].
+
+**The operationalise-vs-experiment divide is widening.** The gap between founders who "experiment" with AI and those who have operationalised it into workflows is growing substantially. Winning strategy: master one tool deeply rather than shallow adoption of many. Validates the core thesis — do fewer things, faster, with more conviction.
+
+**Solo founder scale has shifted structurally.** Solo-founded startups surged from 23.7% (2019) to 36.3% (mid-2025), with AI enabling 70%+ operating margins. The traditional startup playbook (raise → hire → scale headcount) is increasingly optional. The ceiling for what one operator can build has moved permanently upward — which changes what "ambitious" means for [[SOUL|Nigel's]] project portfolio.
+
 ---
 
 ## Open Questions / Active Debates
@@ -68,4 +74,4 @@ Every initiative needs one person who owns it completely. Committees diffuse acc
 
 ---
 
-> See also: [[Knowledge/Strategy/Frameworks|Strategy Frameworks]] | [[Knowledge/_Map-knowledge|Knowledge]] | [[SOUL]]
+> See also: [[Knowledge/Strategy/Frameworks|Strategy Frameworks]] | [[Knowledge/_Map-knowledge|Knowledge]] | [[Projects/SD-BLUF/_Briefing-sd-bluf|SD-BLUF]] | [[Projects/MY-DIDIT/_Briefing-my-didit|MY-DIDIT]] | [[SOUL]]
