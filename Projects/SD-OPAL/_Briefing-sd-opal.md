@@ -58,4 +58,4 @@ Nigel's role is on the SD side — platform strategy, GTM, pitch collateral.
 
 ---
 
-> See also: [[Projects/_Map-projects|Projects]] | [[Knowledge/Finance/_Briefing-finance|Finance]] | [[SOUL]]
+> See also: [[Projects/_Map-projects|Projects]] | [[Knowledge/Finance/_Briefing-finance|Finance]] | [[Knowledge/Legal/_Briefing-legal|Legal]] | [[Knowledge/Strategy/_Briefing-strategy|Strategy]] | [[SOUL]]

@@ -75,4 +75,4 @@ Each trait affects drive decay rates, producing unique behaviour per creature.
 
 ---
 
-> See also: [[Projects/_Map-projects|Projects]] | [[Knowledge/AI/_Briefing-ai|AI]] | [[Knowledge/Engineering/_Briefing-engineering|Engineering]] | [[SOUL]]
+> See also: [[Projects/_Map-projects|Projects]] | [[Knowledge/AI/_Briefing-ai|AI]] | [[Knowledge/Engineering/_Briefing-engineering|Engineering]] | [[Knowledge/Legal/_Briefing-legal|Legal]] | [[SOUL]]
