@@ -1,5 +1,5 @@
 
-
+Join my journey from consultant to mystic scientist! 
 
 # Script 1: Millenial Crisis
 
@@ -57,10 +57,14 @@ So what I found out is I need to fix it. But how? As I mentioned in my previous 
 
 You can't fix what you don't know. 
 
-So I'm be embarking on a journey to dive deep into 
+So I'm be embarking on a journey to dive deep into different traditions from astrology to tarot readings.
+
+But I'll be learning it my way. The consultant and tech bro way. AI and maybe even slide decks. 
+
+Hit that follow button if you want to see what an astrology or tarot slide deck would look like
 
 
-Join my journey from consultant to mystic scientist! 
+
 
 From consultant to mystic scientist
 Research log #001 - what are the different mystical traditions? 
