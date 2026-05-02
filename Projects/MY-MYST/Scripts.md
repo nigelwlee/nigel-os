@@ -8,6 +8,14 @@ Hey my name is Nigel and
 Join my journey from consultant to mystic scientist! 
 
 
+# Script 1: Millenial Crisis
+
+The Great Millennial Crisis and what I'm doing about it
+
+Yes, there is a career crisis. I feel it, a lot of my friends feel it. And there's so many real reasons for it - AI, inflation, housing, a widening wealth gap. 
+
+And at the same time, it doesn't help when social media and your feed is filled with the best things in life like people traveling across the world for a living, 
+
 we're going through the great millennial career crisis. I saw another creator say this and I was
 
 like, yeah, I think that is a hundred percent because of the fact that we were all sold a
