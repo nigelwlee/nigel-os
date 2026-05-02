@@ -1,11 +1,4 @@
 
-Hook
-
-What does a consultant, commercial director, astrology, and tarot reading have in common — me! 
-
-Hey my name is Nigel and 
-
-Join my journey from consultant to mystic scientist! 
 
 
 # Script 1: Millenial Crisis
@@ -30,7 +23,17 @@ Hint: no i'm not selling a course. i'm not gonna teach you about the latest in a
 
 # Script 2: From consultant to mystic scientist
 
+What does a consultant, commercial director, astrology, and tarot reading have in common — me! 
 
+Hey my name is Nigel. By day I have a 9-5 in tech. On side, I'm learning to be what I call a Mystic Scientist. 
+
+WTF is a Mystic Scientist you may ask?
+
+Well I made it up. It's what I'm calling my journey to learn about all things mystic and woo woo: astrology, chinese horoscope, tarot, numerology, and what have you.
+
+And why do I want to be a mystic scientist? Great question!
+
+Join my journey from consultant to mystic scientist! 
 
 From consultant to mystic scientist
 Research log #001 - what are the different mystical traditions? 
