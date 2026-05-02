@@ -14,40 +14,13 @@ The Great Millennial Crisis and what I'm doing about it
 
 Yes, there is a career crisis. I feel it, a lot of my friends feel it. And there's so many real reasons for it - AI, inflation, housing, a widening wealth gap. 
 
-And at the same time, it doesn't help when social media and your feed is filled with the best things in life like people traveling across the world for a living, 
+And at the same time, it doesn't help when social media and your feed is filled with the best things in life like people traveling across the world for a living, shopping hauls of luxury goods, people selling their companies left and right for millions and billions. 
 
-we're going through the great millennial career crisis. I saw another creator say this and I was
+But what do we do? What do people living in their 9-5 do? 
 
-like, yeah, I think that is a hundred percent because of the fact that we were all sold a
+Hi - my name is Nigel. I'm 35 this year. I worked in consulting and in tech. I'm also a dad with a huge mortgage over my head. And like I said, I also feel the crisis oh so closer than ever. 
 
-version of success that literally doesn't exist anymore. We're told go to school, pick a responsible
+Which is why I'm starting this channel to document how I'm dealing with my version of the millennial crisis. 
 
-career, work hard, going to get a good job. If you climb the ladder, you'll definitely be rewarded
+I've always wanted to make content. I've been doing blogs on and off over the past decade of my life and what better time than a crisis to do something drastic and different. 
 
-by a house, get married, have the kids, and then you're going to feel fulfilled. And I recently
-
-started sharing on here and with some of my friends that I'm attempting to career pivot at 35
-
-and start completely over. And so many people were like, yeah, I'm so burned out or I'm bored. I'm
-
-unfulfilled. I'm questioning my entire identity right now. And I don't think it has anything to
-
-do with this idea of laziness or we're a less hardworking or less grateful generation than our
-
-parents. We entered the workforce during recessions, during all of the student loan craziness,
-
-during rising costs of literally everything. And now technology is taking out like entire job
-
-markets. So I think so many of us are realizing that our parents' dream isn't ours. It's not even
-
-real anymore. I think a lot of us value freedom, flexibility, meaning. So I think it makes sense
-
-that so many of us are seeking to pivot careers and to start over and to figure out what success
-
-even means for us. So I guess I just wanted to post this because if you're having those thoughts,
-
-like this can't be it. Also, I certainly don't have all the answers, but I will be sharing here
-
-my own attempt to pivot at 35, the lessons I'm learning being career confused. And maybe just
-
-by talking about this more, we'll all feel a little less alone and a little less crazy.
