@@ -31,7 +31,15 @@ WTF is a Mystic Scientist you may ask?
 
 Well I made it up. It's what I'm calling my journey to learn about all things mystic and woo woo: astrology, chinese horoscope, tarot, numerology, and what have you.
 
-And why do I want to be a mystic scientist? Great question!
+And why do I want to be a mystic scientist? Great question! And to answer that, it helpful to start with a story. 
+
+You see, I'm as skeptical as skeptics go. I majored in accounting, I went on to be data-driven consultant, and I work in tech. I'm not religious, nor have I ever really been into astrology or horoscopes aside from the yearly fun fortune readings every new year. 
+
+But then something happened that changed my assumptions. -- AI! 
+
+cut: (Bear with me here. I'm not here to shill you an AI agent. Let's get back)
+
+So here's what got me thinking. Maybe horoscopes are just a psychology trick. Maybe tarot is a scam. But what if I get astrology, tarot, numerology, chinese and indian horoscopes and whatever other tradition into the same room and get all of them to predict the same thing? And what if they all give me a common th
 
 Join my journey from consultant to mystic scientist! 
 
