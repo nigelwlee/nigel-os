@@ -39,7 +39,26 @@ But then something happened that changed my assumptions. -- AI!
 
 cut: (Bear with me here. I'm not here to shill you an AI agent. Let's get back)
 
-So here's what got me thinking. Maybe horoscopes are just a psychology trick. Maybe tarot is a scam. But what if I get astrology, tarot, numerology, chinese and indian horoscopes and whatever other tradition into the same room and get all of them to predict the same thing? And what if they all give me a common th
+So here's what got me thinking. Maybe horoscopes are just a psychology trick. Maybe tarot is a scam. But what if I get astrology, tarot, numerology, chinese and indian horoscopes and whatever other tradition into the same room and get all of them to predict the same thing? And what if they all give me a common thread? 
+
+And to take it further, what if i prompt not just one, not just two, but 5 different AI models to make a prediction across different mystical traditions - would I see a pattern? 
+
+So I did it. 
+
+I made an AI Mystic Matrix!!! The cutting edge in artificial intelligence meets multiple mystical traditions.
+
+Would you want your AI Mystic Matrix? Comment below and let me know. 
+
+And if you want to how an exconsultant in tech transforms into a Mystic Scientist, follow for more!
+
+# Script 3: Fixing the AI Mystic Matrix
+
+So what I found out is I need to fix it. But how? As I mentioned in my previous video, I'm a skeptic myself, so I don't know anything about any of these mystical traditions.
+
+You can't fix what you don't know. 
+
+So I'm be embarking on a journey to dive deep into 
+
 
 Join my journey from consultant to mystic scientist! 
 
