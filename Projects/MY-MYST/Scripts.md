@@ -28,14 +28,13 @@ And if you're curious what an ex consultant in tech is going to do for content o
 
 Hint: no i'm not selling a course. i'm not gonna teach you about the latest in ai. and I don't have a meme coin, unfortunately.
 
-# Script 2: Millenial Crisis
+# Script 2: From consultant to mystic scientist
+
+
 
 From consultant to mystic scientist
 Research log #001 - what are the different mystical traditions? 
 Research log #002 - what is astrology? 
 Research log #003 - what is tarot? 
-Research log 
-Astrology 101
-Tarot 101
-Chinese horoscope 101
-Numerology 101
+Research log #004 - what is chinese horoscopes? 
+Research log #005 - what is numerology?
