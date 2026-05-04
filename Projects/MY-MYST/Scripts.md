@@ -85,6 +85,13 @@ Hit that follow button if you want to see what an astrology or tarot slide deck 
 
 
 
+Emotional hooks
+
+- Do you feel an ick everytime you see an "astrology" or "mystic" video, but still listen on anyway? 
+- Are you top perfomer in your field but embarassed to bring up astrology or a woo woo topic, afraid this person that knows you professionally or a friend but not so close fried would judge you? 
+- Do you ever stumble on a video that talks about your horoscope, feel a bit of an ick on the aesthetic like it's too woo woo and feel scammy? Even the language they use if full of jargon or terms you don't understand? ... But still listen on anyway? 
+
+
 From consultant to mystic scientist
 Research log #001 - what are the different mystical traditions? 
 Research log #002 - what is astrology? 
