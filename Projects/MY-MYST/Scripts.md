@@ -45,9 +45,9 @@ And to take it further, what if i prompt not just one, not just two, but 5 diffe
 
 So I did it. 
 
-I made an AI Mystic Matrix!!! The cutting edge in artificial intelligence meets multiple mystical traditions.
+I made an AI Mystic Matrix!!! AI meets multiple mystical traditions. And dare I say science meets... culture, magic, or whatever you wanna all it?
 
-I can say that it feels freakishly accurate. And I also feel like it's as objective as it can be: multiple traditions, different AI, all put together. The collective consciousness of all AI training data in the world interpreting years of cultural and mystical tradition.
+I can say that it feels freakishly accurate. And I also feel like it's as objective as it can be: multiple traditions, different AI, all put together. The collective consciousness of all AI training data in the world interpreting years of cultural tradition.
 
 Yeah Yeah I know the argument against this. The language is the trick. It's meant to be so general that it applies to anyone and everyone. 
 
@@ -60,6 +60,10 @@ With that in mind, would you want your AI Mystic Matrix? Comment below and let m
 And if you want to how an exconsultant in tech transforms into a Mystic Scientist, follow for more!
 
 # Script 3: Fixing the AI Mystic Matrix
+
+I the last video, I made an AI Mystic Matrix that combined AI and different mystical traditions. 
+
+... But it was all wrong? 
 
 So what I found out is I need to fix it. But how? As I mentioned in my previous video, I'm a skeptic myself, so I don't know anything about any of these mystical traditions.
 
