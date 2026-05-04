@@ -65,7 +65,14 @@ I the last video, I made an AI Mystic Matrix that combined AI and different myst
 
 ... But it was all wrong? 
 
-So what I found out is I need to fix it. But how? As I mentioned in my previous video, I'm a skeptic myself, so I don't know anything about any of these mystical traditions.
+Given my background in consulting and tech, being hyper critical is part of the job. And the more I use this AI "analysis" of mystical traditions, the more problems I see
+- ..
+- ..
+- ..
+
+A bit expected. As hopeful as I was, a weekend project wasn't going to be better than hundreds of years of cultural tradition. Even with AI. So, obviously we need to fix it. 
+
+But how? As I mentioned in my previous video, I'm a skeptic myself, so I don't know anything about astrology let alone other mystical traditions. 
 
 You can't fix what you don't know. 
 
