@@ -49,7 +49,13 @@ I made an AI Mystic Matrix!!! The cutting edge in artificial intelligence meets 
 
 I can say that it feels freakishly accurate. And I also feel like it's as objective as it can be: multiple traditions, different AI, all put together. The collective consciousness of all AI training data in the world interpreting years of cultural and mystical tradition.
 
-Would you want your AI Mystic Matrix? Comment below and let me know. 
+Yeah Yeah I know the argument against this. The language is the trick. It's meant to be so general that it applies to anyone and everyone. 
+
+And that's what this channel is going to be all about. I'll remove my skeptic hat and dive deep into these hundred year traditions. I'll leverage research and AI to challenge ideas and give back simple summaries back to you and anyone that could find this either helpfull...
+
+or fun? 
+
+With that in mind, would you want your AI Mystic Matrix? Comment below and let me know. 
 
 And if you want to how an exconsultant in tech transforms into a Mystic Scientist, follow for more!
 
