@@ -60,33 +60,33 @@ Maybe it's really hard for me to believe a random stranger calling themselves an
 
 But
 
-Maybe there's something to 
+Maybe there's something to AI doing the predicting? 
 
-WTF is a Mystic Scientist you may ask?
+Think about it, AI has been trained in the collective consciousness of the world. So if it's using that against cultural systems of prediction... it's a little bit more believable? 
 
-Well I made it up. It's what I'm calling my journey to learn about all things mystic and woo woo: astrology, chinese horoscope, tarot, numerology, and what have you.
+So I built this AI Mystic Matrix. 
 
-And why do I want to be a mystic scientist? Great question! And to answer that, it helpful to start with a story. 
+Essentially got different traditions and AI to independently submit their predictions based on my basic information - name, birthday, birthday time, place of birth.
 
-You see, I'm as skeptical as skeptics go. I majored in accounting, I went on to be data-driven consultant, and I work in tech. I'm not religious, nor have I ever really been into astrology or horoscopes aside from the yearly fun fortune readings every new year. 
+Then I got another AI judge to give me back any consistent patterns that emerge from these independent predictions.
 
-But then something happened that changed my assumptions. -- AI! 
+The thinking here being, maybe 1 tradition and 1 ai is just woo woo mumbo jumbo. But if 5 different cultural systems by 5 different frontier models agree on something? 
 
-cut: (Bear with me here. I'm not here to shill you an AI agent. Let's get back)
+Hm (shocked face)?
 
-So here's what got me thinking. Maybe horoscopes are just a psychology trick. Maybe tarot is a scam. But what if I get astrology, tarot, numerology, chinese and indian horoscopes and whatever other tradition into the same room and get all of them to predict the same thing? And what if they all give me a common thread? 
-
-And to take it further, what if i prompt not just one, not just two, but 5 different AI models to make a prediction across different mystical traditions - would I see a pattern? 
-
-So I did it. 
-
-I made an AI Mystic Matrix!!! AI meets multiple mystical traditions. And dare I say science meets... culture, magic, or whatever you wanna all it?
-
-I can say that it feels freakishly accurate. And I also feel like it's as objective as it can be: multiple traditions, different AI, all put together. The collective consciousness of all AI training data in the world interpreting years of cultural tradition.
+... and the results are super accurate! 
 
 Yeah Yeah I know the argument against this. The language is the trick. It's meant to be so general that it applies to anyone and everyone. 
 
-And that's what this channel is going to be all about. I'll remove my skeptic hat and dive deep into these hundred year traditions. I'll leverage research and AI to challenge ideas and give back simple summaries back to you and anyone that could find this either helpfull...
+(change angle)
+
+And that's what this channel is going to be all about. I'll remove my skeptic hat and dive deep into these traditions spanning thousands of years old. And after deep dives...
+
+I'll tweak the AI and make the methodology super transparent. I'll push it to be as independent and direct to the point as possible. 
+
+Then I'll have some more confidence 
+
+I'll leverage research and AI to challenge ideas and give back simple summaries back to you and anyone that could find this either helpfull...
 
 or fun? 
 
