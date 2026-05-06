@@ -9,7 +9,15 @@ Everyone is feeling crunched and unsafe. Layoffs left and right. "AI Efficiencie
 
 Like who can do that? 
 
-It doesn't feel like anything is safe. The world is out of y
+It doesn't feel like anything is safe. The world is out of my control and no matter how hard I work, another round of layoffs are just around the corner. The pressure is drastic.
+
+And drastic times calls for drastic measures. 
+
+I need something on my side. Something that I can lean on to help guide me through all this uncertainty. When it's a really bad day, it makes a difference to know if it wasn't my fault and it was just meant to be rough. 
+
+Enter woo-woo. Or as I'd like to call it, the mystic arts. 
+
+And I don't just mean astrology. Call it tarot, chinese zodiacs, numerology, palmistry, you name it and I'll take it. Why settle with one when you can hedge your bets across a portfolio of esoteric insurance policies?
 
 
 
