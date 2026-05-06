@@ -29,25 +29,9 @@ Can I convince myself that woo-woo can be a yes-yes? If I learn enough of these 
 
 And ultimately, can I convince others like me to get into it as well? 
 
+I going to deep dive into whatever I can get my hands on - astrology, tarot, chinese zodiacs, etc. And I'll document my learnings and opinions of what I find. (Maybe I should do a slide deck...)
 
-
-The Great Millennial Crisis and what I'm doing about it
-
-Yes, there is a career crisis. I feel it, a lot of my friends feel it. And there's so many real reasons for it - AI, inflation, housing, a widening wealth gap. 
-
-And at the same time, it doesn't help when social media and your feed is filled with the best things in life like people traveling across the world for a living, shopping hauls of luxury goods, people selling their companies left and right for millions and billions. 
-
-But what do we do? What do people living in their 9-5 do? 
-
-Hi - my name is Nigel. I'm 35 this year. I worked in consulting and in tech. I definitely work a lot lot lot more than 9-5. I'm also a dad with a huge mortgage over my head. And like I said, I also feel the crisis... oh so closer than ever. 
-
-Which is why I'm starting this channel to document how I'm dealing with my version of the millennial crisis. 
-
-I hope this helps another fellow millennial parent out there feeling the burn. You're not alone. 
-
-And if you're curious what an ex consultant in tech is going to do for content on social media, follow along! I bet you won't be able to guess
-
-Hint: no i'm not selling a course. i'm not gonna teach you about the latest in ai. and I don't have a meme coin, unfortunately.
+If you're already into the mystical arts, follow me because I think this will be a fresh take from an unlikely profile on the topic. If you're not into the mystical arts but have always been curious about it, follow me too and let me do the heavy lifting of researching. 
 
 # Script 2: From consultant to mystic scientist
 
