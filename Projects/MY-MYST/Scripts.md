@@ -19,6 +19,16 @@ Enter woo-woo. Or as I'd like to call it, the mystic arts.
 
 And I don't just mean astrology. Call it tarot, chinese zodiacs, numerology, palmistry, you name it and I'll take it. Why settle with one when you can hedge your bets across a portfolio of esoteric insurance policies?
 
+I know what you're thinking - crazy person; let me scroll away now. Wait! Give me sec
+
+I'm right there with you. I am the last person I'd think would get into this. Like probably the complete opposite. I majored in accounting, an ex consultant, b2b saas, techbro. Heck my 9-5 is a commercial director. I make it my business to not leave things to chance. 
+
+But that's also why I'm making this channel. 
+
+Can I convince myself that woo-woo can be a yes-yes? If I learn enough of these different traditions, will I find a pattern that makes sense to me? Can I use AI for this
+
+And ultimately, can I convince others like me to get into it as well? 
+
 
 
 The Great Millennial Crisis and what I'm doing about it
