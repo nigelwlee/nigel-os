@@ -44,6 +44,11 @@ If you're already into the mystical arts, follow me because I think this will be
 
 # Script 2: Can AI predict the future? 
 
+Format: Talking head
+Setting: Studio room + Laptop
+Visuals: Simple
+- show app in laptop
+
 Everyone is saying AI is the future. So let me ask you this - Can AI *predict* the future? 
 
 So that's what I tried to find out. 
@@ -84,15 +89,11 @@ And that's what this channel is going to be all about. I'll remove my skeptic ha
 
 I'll tweak the AI and make the methodology super transparent. I'll push it to be as independent and direct to the point as possible. 
 
-Then I'll have some more confidence 
-
-I'll leverage research and AI to challenge ideas and give back simple summaries back to you and anyone that could find this either helpfull...
-
-or fun? 
+Then I'll have some more confidence that 5 different AIs and 5 different traditions aren't just pulling my leg.
 
 With that in mind, would you want your AI Mystic Matrix? Comment below and let me know. 
 
-And if you want to how an exconsultant in tech transforms into a Mystic Scientist, follow for more!
+And if you want to see how an ex consultant and tech bro learns about the mystic arts, hit that follow button! 
 
 # Script 3: Are you just a number? Numerology 101
 # Script: Fixing the AI Mystic Matrix
