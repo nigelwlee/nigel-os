@@ -10,6 +10,7 @@ Visuals: Simple
 - visuals of woo woo - tarot card, astrology, wizard hat, crystal ball
 - headlines of layoffs on AI efficiencies
 - "Mystic Arts" big caption
+- Logo/emoji for: accounting, McKinsey, B2B SaaS
 
 The Great Millennial Crisis is here... and I'm turning to Woo Woo?
 
@@ -43,11 +44,23 @@ If you're already into the mystical arts, follow me because I think this will be
 
 # Script 2: Can AI predict the future? 
 
+Everyone is saying AI is the future. So let me ask you this - Can AI *predict* the future? 
 
+So that's what I tried to find out. 
 
-What does a consultant, commercial director, astrology, and tarot reading have in common — me! 
+I built an app that slapped together different mystic traditions - astrology, tarot, numerology, horoscopes - AND slapped together different AI models - chatgpt, claude, grok, deepseek, qwen. And then got it to read my fortune.
 
-Hey my name is Nigel. By day I have a 9-5 in tech. On side, I'm learning to be what I call a Mystic Scientist. 
+Hey, my name is Nigel. I have 9-5 in tech. Majored in accounting, ex consultant, commercial director - absolutely no business nor expertise in astrology or any mystic arts for that matter.
+
+But.
+
+I'm pretty handy with AI. And on this journey of trying to convince myself there's something to these cultural woo woo traditions, I asked myself: 
+
+Maybe it's really hard for me to believe a random stranger calling themselves an astrology
+
+But
+
+Maybe there's something to 
 
 WTF is a Mystic Scientist you may ask?
 
