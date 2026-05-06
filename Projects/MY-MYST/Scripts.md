@@ -3,6 +3,14 @@ Join my journey from consultant to mystic scientist!
 
 # Script 1: Millenial Crisis
 
+Format: Talking head
+Setting: Studio room
+Visuals: Simple
+- screenshots of creators on the Great Millennial Crisis
+- visuals of woo woo - tarot card, astrology, wizard hat, crystal ball
+- headlines of layoffs on AI efficiencies
+- "Mystic Arts" big caption
+
 The Great Millennial Crisis is here... and I'm turning to Woo Woo?
 
 Everyone is feeling crunched and unsafe. Layoffs left and right. "AI Efficiencies" taking over our jobs. And at the same, we're expected to start a family, buy a house, go on vacations abroad. 
@@ -25,7 +33,7 @@ I'm right there with you. I am the last person I'd think would get into this. Li
 
 But that's also why I'm making this channel. 
 
-Can I convince myself that woo-woo can be a yes-yes? If I learn enough of these different traditions, will I find a pattern that makes sense to me? Can I use AI for this
+Can I convince myself that woo-woo can be a yes-yes? If I learn enough of these different traditions, will I find a pattern that makes sense to me? Can I use AI for this?
 
 And ultimately, can I convince others like me to get into it as well? 
 
@@ -33,7 +41,9 @@ I going to deep dive into whatever I can get my hands on - astrology, tarot, chi
 
 If you're already into the mystical arts, follow me because I think this will be a fresh take from an unlikely profile on the topic. If you're not into the mystical arts but have always been curious about it, follow me too and let me do the heavy lifting of researching. 
 
-# Script 2: From consultant to mystic scientist
+# Script 2: Can AI predict the future? 
+
+
 
 What does a consultant, commercial director, astrology, and tarot reading have in common — me! 
 
@@ -71,7 +81,8 @@ With that in mind, would you want your AI Mystic Matrix? Comment below and let m
 
 And if you want to how an exconsultant in tech transforms into a Mystic Scientist, follow for more!
 
-# Script 3: Fixing the AI Mystic Matrix
+# Script 3: Are you just a number? Numerology 101
+# Script: Fixing the AI Mystic Matrix
 
 I the last video, I made an AI Mystic Matrix that combined AI and different mystical traditions. 
 
