@@ -3,6 +3,16 @@ Join my journey from consultant to mystic scientist!
 
 # Script 1: Millenial Crisis
 
+The Great Millennial Crisis is here... and I'm turning to Woo Woo?
+
+Everyone is feeling crunched and unsafe. Layoffs left and right. "AI Efficiencies" taking over our jobs. And at the same, we're expected to start a family, buy a house, go on vacations abroad. 
+
+Like who can do that? 
+
+It doesn't feel like anything is safe. The world is out of y
+
+
+
 The Great Millennial Crisis and what I'm doing about it
 
 Yes, there is a career crisis. I feel it, a lot of my friends feel it. And there's so many real reasons for it - AI, inflation, housing, a widening wealth gap. 
