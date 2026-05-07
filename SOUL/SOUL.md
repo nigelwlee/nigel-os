@@ -23,6 +23,7 @@ Active projects:
 - **MY-ANIM** — Anima Pet iOS virtual creature app
 - **MY-DIDIT** — Did·It educational toddler games
 - **MY-SSTU** — Sleepy Studios Etsy SVG cards
+- **MY-MYST** — Mystic Scientist content channel (pre-launch, scripts drafted)
 - **MY-ASTR** — Celesto astrology app (parked, not abandoned)
 
 ---
@@ -147,5 +148,5 @@ The [[Memory/_Map-memory|Memory]] folder is your working notebook across session
 
 ---
 
-*Last updated: April 2026*
-*Version: 1.1*
+*Last updated: May 2026*
+*Version: 1.2*

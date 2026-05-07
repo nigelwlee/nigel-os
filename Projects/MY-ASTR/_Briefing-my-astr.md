@@ -48,6 +48,7 @@ Currently parked in validation — not abandoned.
 - Parked for now — no active build
 - 300 signups are the validation asset
 - Next step when unparked: A/B test landing page variants + email to signup list
+- **[[Projects/MY-MYST/_Briefing-my-myst|MY-MYST]] synergy:** The Mystic Scientist content channel is building audience in the same space. The AI Mystic Matrix concept from MY-MYST could evolve into the Celesto product. Content-first audience building may be the unpark trigger.
 
 ---
 
@@ -58,4 +59,4 @@ Currently parked in validation — not abandoned.
 
 ---
 
-> See also: [[Projects/_Map-projects|Projects]] | [[Knowledge/Sales-Marketing/_Briefing-sales-marketing|Sales & Marketing]] | [[SOUL]]
+> See also: [[Projects/_Map-projects|Projects]] | [[Projects/MY-MYST/_Briefing-my-myst|MY-MYST (Mystic Scientist)]] | [[Knowledge/Sales-Marketing/_Briefing-sales-marketing|Sales & Marketing]] | [[SOUL]]

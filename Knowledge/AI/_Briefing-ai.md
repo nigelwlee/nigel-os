@@ -1,7 +1,7 @@
 # AI Briefing
 
-> Last synthesized: 2026-04-09
-> Insight count: 6 (updated from Inbox synthesis)
+> Last synthesized: 2026-05-07
+> Insight count: 7 (updated from MY-MYST processing)
 
 ---
 
@@ -56,6 +56,8 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 **Claude Projects with pre-loaded vault files are a lightweight RAG substitute.** Instead of building a full RAG pipeline, loading key vault files (SOUL.md, briefings) as persistent context in a Claude Project gives 80% of the benefit at 0% of the infrastructure cost. Good enough until the knowledge base exceeds context window limits.
 
 **The ADHD thought-org app was the precursor to the Personal OS.** The Jan 2026 web app for thought organization (121-message session) was the original second-brain concept. The current agent-native OS is its evolved successor. Pattern: tools built for personal frustration become the best products.
+
+**Multi-model cross-validation is a novel application of AI diversity.** From [[Projects/MY-MYST/_Briefing-my-myst|Mystic Scientist]]: running the same structured prompt across 5 frontier models (ChatGPT, Claude, Grok, DeepSeek, Qwen) and looking for convergent patterns in their independent outputs. When multiple models trained on different data agree on something, the signal is stronger than any single model's output. Pattern is generalizable beyond mysticism — useful for any domain where confidence matters more than speed.
 
 ---
 
