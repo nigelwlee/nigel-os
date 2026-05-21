@@ -8,8 +8,10 @@ Education
 	- doing well in school makes you average at most!
 - Specifically, test-based and essay-based learning doesn't cut it anymore
 	- too slow.
-	- no good signal of what could make a highly productive citizen
+	- no good signal of a highly productive citizen
 - I worry because I have a 3 and a half year old 
 	- it's obvious following the same educational pattern won't cut it
 	- but what's the alternative?
-- 
+- There are schools trying to evolve
+	- using schoolai.com, or
+	- complete alternatives like https://alpha.school/
