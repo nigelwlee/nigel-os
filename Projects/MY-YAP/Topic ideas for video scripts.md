@@ -15,3 +15,11 @@ Education
 - There are schools trying to evolve
 	- using schoolai.com, or
 	- complete alternatives like https://alpha.school/
+
+Skills
+- I think growing up lots of us were taught the wrong skills
+- Things like memorizing things from a textbook, math formulas, and maybe even proper grammar aren't as important in the real world
+- But even worse, we were taught that getting things right or succeeding the first time, like in tests, is the most important. 
+- Then you step into the real world where it's the complete opposite. 
+- I've seen and met so many people, rich people, and founders that 100% did not get it right the first time, not book smart, cannot recall a math formula
+- But
