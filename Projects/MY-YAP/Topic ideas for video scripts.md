@@ -27,3 +27,7 @@ Skills
 	- being shameless, even when they are wrong
 	- a relentless attitude to finding success - just once! 
 
+
+Learning
+- Hook: did you know that Shaq has 4 college degrees? (Bachelor, MBA, Doctor of Education, Master of Liberal Arts)
+- 
