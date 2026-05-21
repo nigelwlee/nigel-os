@@ -22,4 +22,8 @@ Skills
 - But even worse, we were taught that getting things right or succeeding the first time, like in tests, is the most important. 
 - Then you step into the real world where it's the complete opposite. 
 - I've seen and met so many people, rich people, and founders that 100% did not get it right the first time, not book smart, cannot recall a math formula
-- But
+- But what actually served them well is
+	- not taking no for an answer
+	- being shameless, even when they are wrong
+	- a relentless attitude to finding success - just once! 
+
