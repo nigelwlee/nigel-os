@@ -1,7 +1,7 @@
 # Creative Briefing
 
-> Last synthesized: 2026-05-07
-> Insight count: 7 (updated from MY-MYST processing)
+> Last synthesized: 2026-05-21
+> Insight count: 8 (updated from MY-YAP processing)
 
 ---
 
@@ -53,6 +53,8 @@ Define a brand by asking: if this brand were a person, who would they be? What w
 **Celebration-first design drives retention in kids' apps.** From [[Projects/MY-DIDIT/_Briefing-my-didit|Did·It]]: confetti, success screens, and milestone triggers (not scores or rankings) create the emotional reward loop. No fail states means every interaction ends positively. The celebration *is* the retention mechanic.
 
 **The unlikely-profile persona is a content differentiator.** From [[Projects/MY-MYST/_Briefing-my-myst|Mystic Scientist]]: positioning as "the last person you'd expect to get into this" creates immediate tension and curiosity. An ex-consultant exploring astrology is inherently more watchable than another astrology creator because the skeptic journey *is* the content. The persona contradiction (analytical + mystical) does the marketing work — no need to explain why your take is different.
+
+**Contrarian hooks with personal stakes outperform generic takes.** From [[Projects/MY-YAP/_Briefing-my-yap|MY-YAP]]: "I don't think kids should go to school" works because it's specific, polarising, and backed by a personal stake (3.5-year-old child). Generic takes ("education needs reform") don't create scroll-stopping tension. The hook formula: contrarian claim + personal reason to care + specific examples that make the audience reconsider.
 
 ---
 

@@ -24,6 +24,7 @@ Active projects:
 - **MY-DIDIT** — Did·It educational toddler games
 - **MY-SSTU** — Sleepy Studios Etsy SVG cards
 - **MY-MYST** — Mystic Scientist content channel (pre-launch, scripts drafted)
+- **MY-YAP** — Video content on education & personal development (early ideation)
 - **MY-ASTR** — Celesto astrology app (parked, not abandoned)
 
 ---

@@ -1,6 +1,6 @@
 *Date: 2026-04-30*
 *Type: context*
-*Expiry: 2026-05-15*
+*Expiry: 2026-06-15*
 
 ## Knowledge Refresh Cron Appears Stalled
 

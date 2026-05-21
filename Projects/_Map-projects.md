@@ -34,6 +34,9 @@ Each project has a folder named `{PREFIX}-{CODE}` where the prefix indicates typ
 ### MY-MYST — Mystic Scientist (Content Channel)
 - [[Projects/MY-MYST/_Briefing-my-myst|Briefing]] — YouTube/social, skeptic explores mysticism with AI, scripts drafted
 
+### MY-YAP — Video Content (Education & Personal Development)
+- [[Projects/MY-YAP/_Briefing-my-yap|Briefing]] — opinionated takes on education, skills, lifelong learning; topic outlines started
+
 ## Parked
 
 ### MY-ASTR — Celesto (Astrology App)
