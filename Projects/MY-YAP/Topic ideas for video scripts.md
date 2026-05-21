@@ -1,5 +1,15 @@
 
 Education
+- Hook: I don't think kids should go to school 
 - I think school is outdated, now more than ever
-- The traditional way of test-based and essay-based learning is too slow. It's no longer a good signal of what could make a highly productive citizen
-- I personally worry about this a lot because I have a 3 and a half year old approaching school age. 
+- We were all told the same story:
+	- do well in school; get a great job
+	- in 2025, more than half of adults have PHDs
+	- doing well in school makes you average at most!
+- Specifically, test-based and essay-based learning doesn't cut it anymore
+	- too slow.
+	- no good signal of what could make a highly productive citizen
+- I worry because I have a 3 and a half year old 
+	- it's obvious following the same educational pattern won't cut it
+	- but what's the alternative?
+- 
