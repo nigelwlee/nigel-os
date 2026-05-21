@@ -30,4 +30,5 @@ Skills
 
 Learning
 - Hook: did you know that Shaq has 4 college degrees? (Bachelor, MBA, Doctor of Education, Master of Liberal Arts)
+- Learning doesn't stop with a diploma
 - 
