@@ -32,3 +32,4 @@ Each memory is a single file in this folder. Filename: `YYYY-MM-DD — Topic.md`
 - [[Memory/2026-04-30 — Knowledge Refresh Stalled|2026-04-30 — Knowledge Refresh Stalled]] — Hermes cron hasn't refreshed Knowledge domains since April; needs VPS investigation (context)
 - [[Memory/2026-05-07 — MY-MYST Project Registered|2026-05-07 — MY-MYST Project Registered]] — Mystic Scientist content channel registered, cross-linked with MY-ASTR (context)
 - [[Memory/2026-05-21 — MY-YAP Project Registered|2026-05-21 — MY-YAP Project Registered]] — Education/personal development video channel registered from vault backup, cross-linked with MY-MYST and MY-DIDIT (context)
+- [[Memory/2026-05-28 — Knowledge Refresh and System Maintenance|2026-05-28 — Knowledge Refresh and System Maintenance]] — Manual refresh of all 8 Knowledge domains, 8 new insights added, Capture Phase 2 expiry extended (status)

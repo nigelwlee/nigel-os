@@ -1,7 +1,7 @@
 # Finance Briefing
 
-> Last synthesized: 2026-04-09
-> Insight count: 6 (updated from Inbox synthesis)
+> Last synthesized: 2026-05-28
+> Insight count: 14 (refreshed — 3 new domain insights added)
 
 ---
 
@@ -49,6 +49,12 @@ Finance for a solo builder is not about financial engineering, complex capital s
 
 **Fee structure negotiation: 0% management + performance-only aligns incentives.** The Opal counter-terms (0% mgmt / 15% perf / hurdle at sUSDe + 2%) ensure the operator only earns when the strategy outperforms. Three-way split (10/15/75) keeps user share dominant, which is the right positioning for a yield product.
 
+**Budget 2026 overhauls the R&D Tax Incentive from 1 July 2028.** Core R&D offset rises from 43.5% to ~48%, refundable offset turnover threshold lifts from $20M to $50M, but minimum expenditure threshold increases from $20K to $50K and supporting activities lose eligibility entirely. Two-year runway under the current rules — claim aggressively now while the lower threshold still applies.
+
+**Discretionary trusts face a minimum 30% tax at the trustee level from 1 July 2028.** Combined with proposed CGT changes, the trust-over-Pty-Ltd structure that many AU founders use becomes significantly less attractive. Founders holding shares through discretionary trusts should review their structure before 2028. The existing tax-structure-choice insight (sole trader vs. Pty Ltd vs. trust) needs recalculating under the new regime.
+
+**Australian startup funding is concentrating at the top.** Q1 2026: $1.8B raised, but the top 20 deals captured 79% of all capital. Non-AI startups face longer due diligence and higher unit economics scrutiny. For a solo builder, this reinforces the bootstrap-or-revenue-first path — the funding environment rewards either AI narrative or proven economics, not "promising but early."
+
 ---
 
 ## Open Questions / Active Debates
@@ -56,7 +62,8 @@ Finance for a solo builder is not about financial engineering, complex capital s
 - At what point does it make sense to take on a technical co-founder vs. staying solo with AI-augmented development, given the dilution cost and the increasing capability of AI coding tools?
 - How should an AU-based solo builder think about jurisdiction for incorporation — staying as an AU Pty Ltd vs. setting up a US Delaware C-Corp (via Stripe Atlas or similar) — when the primary market is global SaaS?
 - Is usage-based pricing or seat-based pricing more defensible for AI products where inference costs are variable and unpredictable, and how do you model gross margin when your COGS scales non-linearly?
-- What is the real expected value of the R&D Tax Incentive after accounting for compliance costs, audit risk, and the opportunity cost of documentation time — is it still worth it below $150K in eligible spend?
+- What is the real expected value of the R&D Tax Incentive after accounting for compliance costs, audit risk, and the opportunity cost of documentation time — is it still worth it below $150K in eligible spend? (Note: minimum expenditure threshold rising to $50K from July 2028 — recalculate.)
+- How should the Budget 2026 trust taxation and CGT changes affect the timing and structure of entity setup for new projects? Is it worth restructuring existing trusts before the July 2028 effective date, or is the compliance cost not justified at current revenue levels?
 
 ---
 

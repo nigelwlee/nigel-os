@@ -1,7 +1,7 @@
 # Engineering Briefing
 
-> Last synthesized: 2026-04-09
-> Insight count: 6 (updated from Inbox synthesis)
+> Last synthesized: 2026-05-28
+> Insight count: 12 (refreshed — 2 new domain insights added)
 
 ---
 
@@ -48,6 +48,10 @@ Engineering literacy for a vibe coder is not about writing code — it is about 
 **Shared component systems prevent game-per-game technical debt.** From [[Projects/MY-DIDIT/_Briefing-my-didit|Did·It]]: extracting `GameShell`, `SuccessScreen`, `Confetti`, `Toast`, and `useSoundManager` as shared components means each new game is a content problem, not an engineering problem. The component system is the product's internal API.
 
 **Mobile agentic coding is production-viable.** From Personal OS Build: Working Copy → GitHub push → Claude Code Remote → Vercel auto-deploy is a working mobile-first development pipeline. This means you can ship from an iPhone. See [[SOPs/Mobile-Agentic-Coding|Mobile Agentic Coding SOP]].
+
+**AGENTS.md has become the standard for giving AI coding agents project context.** By early 2026, the file is read natively by Claude Code, OpenAI Codex, Cursor, Aider, Devin, GitHub Copilot, Gemini CLI, Windsurf, and Amazon Q. For a vibe coder, writing an AGENTS.md (or CLAUDE.md) is the highest-leverage single file you can create — it replaces repeated prompting with persistent, shared architectural context that any agent picks up automatically.
+
+**Organizations without engineering foundations generate chaos faster with AI agents, not productivity.** GitOps, CI/CD, test automation, and architectural oversight are prerequisites for channeling agent-driven velocity into reliable output. Without them, agents compound structural debt at the speed they compound code. For a solo builder, this means investing in a test suite and deployment pipeline before scaling AI-assisted development — the productivity multiplier only works on a sound base.
 
 ---
 

@@ -1,7 +1,7 @@
 # Strategy Briefing
 
-> Last synthesized: 2026-04-16
-> Insight count: 3
+> Last synthesized: 2026-05-28
+> Insight count: 8 (confirmed current — no stale insights, no material new developments)
 
 ---
 

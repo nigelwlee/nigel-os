@@ -1,7 +1,7 @@
 # Legal Briefing
 
-> Last synthesized: 2026-04-16
-> Insight count: 3
+> Last synthesized: 2026-05-28
+> Insight count: 7 (confirmed current — Children's Privacy Code consultation closes 5 June 2026, action needed)
 > Jurisdiction focus: Australia (primary), US (secondary for tech/fundraising)
 
 > **Disclaimer:** This is a knowledge base for orientation and first-principles thinking, not legal advice. Always engage a qualified lawyer for material decisions.

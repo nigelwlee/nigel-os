@@ -1,7 +1,7 @@
 # Sales & Marketing Briefing
 
-> Last synthesized: 2026-04-09
-> Insight count: 6 (updated from Inbox synthesis)
+> Last synthesized: 2026-05-28
+> Insight count: 13 (refreshed — 2 new domain insights added)
 
 ---
 
@@ -51,6 +51,10 @@ For a solo builder shipping AI products, the fastest path to revenue is not more
 
 **Etsy listing copy benefits from rigid templating.** From [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]]: standardising title format (pipe-separated, 140 chars, ending "(Digital Download)"), tag limits (20 chars), and assembly instructions as text (not PDF) turns listing creation into a repeatable, AI-automatable process.
 
+**Answer Engine Optimization (AEO) is the highest-leverage marketing channel most solo founders are ignoring.** AI-referred visitors convert at >10% — roughly 3-5x organic search. AEO is early enough that a well-structured startup blog can earn AI citations alongside much larger competitors with ~5 hours/week of effort. The practice: structure content so AI systems (ChatGPT, Gemini, Perplexity, Claude) can extract, cite, and recommend your brand. Unlike SEO, authority-building takes weeks not months.
+
+**Pure PLG is table stakes; the edge is now PLG + AI-assisted sales.** Product analytics identifying high-intent users (product-qualified leads) paired with AI sales agents engaging at the right moment is the winning hybrid motion. 27% of all AI application spend now comes through PLG — 4x traditional SaaS. For solo builders: instrument your product to surface PQLs, then use AI to engage them before building a human sales team.
+
 ---
 
 ## Open Questions / Active Debates
@@ -59,6 +63,7 @@ For a solo builder shipping AI products, the fastest path to revenue is not more
 - Is "build in public" as a distribution strategy genuinely effective for B2B AI products, or does it primarily attract other builders rather than buyers? The audience you build on X/Twitter may not overlap with the people who have budget and a problem to solve.
 - How do you run pricing experiments as a solo operator without the infrastructure for A/B testing? Sequentially testing prices with small cohorts introduces time-based confounds, but the alternative is guessing.
 - When selling an AI product, how transparent should you be about what the AI can and cannot do? Over-promising accelerates sales but creates churn; over-qualifying slows pipeline but retains better. Where is the line for a product that is genuinely improving month over month?
+- How do you optimize for AI citation (AEO) when the ranking factors for AI answer engines are opaque and changing rapidly? Is it worth investing in AEO-specific content structure now, or will the practices stabilise first?
 
 ---
 

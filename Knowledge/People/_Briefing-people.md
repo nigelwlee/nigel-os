@@ -1,7 +1,7 @@
 # People Briefing
 
-> Last synthesized: 2026-04-09
-> Insight count: 5 (updated from Inbox synthesis)
+> Last synthesized: 2026-05-28
+> Insight count: 8 (refreshed — 1 new domain insight added)
 
 ---
 
@@ -42,6 +42,8 @@ The highest-leverage thing a solo builder can do is delay hiring until it hurts,
 **Timezone strategy beats shift work for global coverage.** From [[Projects/SD-BLUF/_Briefing-sd-bluf|Bluff]] VIP team design: hire remote across complementary timezones (EST, CET-flex, PST-AP flex, Manila PHT) instead of asking people to work graveyard shifts. Four people across four zones covers 24/7 without anyone working unsociable hours. This is a structural advantage in roles requiring real-time responsiveness.
 
 **Psychological safety must be designed into the JD, not retrofitted.** The Bluff Head of VIP job description explicitly weights culture and psychological safety in the evaluation criteria. This filters for candidates who value the environment, not just the comp. By the time you're coaching someone on culture fit, the hiring decision already failed.
+
+**The solo founder's agent stack has made the hiring trigger a judgment call, not a capacity call.** AI tools covering coding, content, support, design, and automation cost ~$400/month vs. $80-120K/month for equivalent human functions. Multiple founders have crossed $1M+ ARR with zero employees (Pieter Levels at $3M+, Ben Broca at $1M managing 1,100 clients solo). The question is no longer "can I do this alone?" but "what specifically requires human judgment, relationships, or legal accountability?" Hire for those things only.
 
 ---
 
