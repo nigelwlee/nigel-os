@@ -1,15 +1,15 @@
 *Date: 2026-04-30*
 *Type: context*
 *Expiry: 2026-08-01*
-*Updated: 2026-06-04*
+*Updated: 2026-06-11*
 
 ## Knowledge Refresh Cron Still Stalled
 
-6/8 Knowledge domains last synthesized 2026-04-09 (~8 weeks ago). Strategy and Legal were manually refreshed 2026-04-16. AI refreshed 2026-05-07, Creative refreshed 2026-05-21 — both via manual vault maintenance, not the cron. No automated refreshes have landed since April 10.
+All 8 domains manually refreshed 2026-06-11 via Claude Code web session. Cron automation remains broken — no automated refreshes have landed since April 10.
 
 The [[SOPs/Knowledge-Refresh-Cron|Knowledge-Refresh Cron]] should run every Sunday 08:00 AEST via Hermes on the Hetzner VPS. No refresh commits visible in git history from the cron.
 
-**Stale domains (as of 2026-06-04):** Sales-Marketing, Finance, People, Engineering (all 2026-04-09), Strategy, Legal (both 2026-04-16).
+**Domain status (as of 2026-06-11):** All 8/8 current — manually refreshed. Strategy, Finance, Sales-Marketing, Engineering, People, Legal all updated 2026-06-11. AI updated 2026-05-07, Creative updated 2026-05-21.
 
 **Likely causes:** Hermes cron not firing, git push credentials expired on VPS, or Hermes search failing silently.
 

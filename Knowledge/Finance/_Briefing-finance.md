@@ -1,7 +1,7 @@
 # Finance Briefing
 
-> Last synthesized: 2026-04-09
-> Insight count: 6 (updated from Inbox synthesis)
+> Last synthesized: 2026-06-11
+> Insight count: 9
 
 ---
 
@@ -48,6 +48,12 @@ Finance for a solo builder is not about financial engineering, complex capital s
 **Delta-neutral basis trade is the yield engine for stablecoin products.** From [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]]: capturing perpetual funding rate spread. The recursive collateral loop (deposit → svOPAL → borrow → loop) amplifies yield but introduces liquidation risk at each layer.
 
 **Fee structure negotiation: 0% management + performance-only aligns incentives.** The Opal counter-terms (0% mgmt / 15% perf / hurdle at sUSDe + 2%) ensure the operator only earns when the strategy outperforms. Three-way split (10/15/75) keeps user share dominant, which is the right positioning for a yield product.
+
+**The CGT discount overhaul creates a 12-month window for crystallising gains.** The May 2026 federal budget replaces Australia's flat 50% CGT discount with CPI-based cost-base indexation plus a 30% minimum tax floor on net capital gains, effective 1 July 2027. For crypto and other volatile assets with short holding periods, the new regime dramatically increases tax on gains (a lower-income earner's tax on a $20K crypto gain jumps from ~$3,800 to ~$10,200). Gains accrued before 1 July 2027 are grandfathered via time-apportionment — so there's a concrete decision point to crystallise appreciated positions under the old discount before the new rules bite. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]] basis trade positions, this also changes the after-tax calculus on income vs. capital gains treatment.
+
+**Loss carry-back returns to Australia — but only for companies.** From FY2026-27, companies with turnover under $1B can carry back tax losses and claim a cash refund against tax paid in the prior two years (limited by franking account balance). This is a new structural reason to favour a Pty Ltd over sole trader: earn consulting income in one year, invest heavily in product R&D the next, and get a cash refund of the prior year's tax. The ATO effectively becomes a co-investor in product experiments — de-risking the "invest consulting profits into product R&D" strategy. Sole traders and trusts are excluded.
+
+**AI app gross margins are structurally lower than SaaS — but inference cost engineering closes the gap.** AI-native products run 52-60% gross margins vs. 80-90% for traditional SaaS because every user interaction incurs compute cost. The emerging inference cost engineering playbook (semantic caching, model routing, quantisation, async batching) shows 50-90% reductions in API spend. Recommended sequencing: semantic caching first (up to 68% API call reduction), then model routing for cache misses. A well-built router (70% cheap model / 30% frontier) saves ~65% vs. routing everything expensive. For [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]'s planned cloud LLM tier, pricing must anchor to value delivered, not compute cost — COGS will keep falling while price should stay stable.
 
 ---
 

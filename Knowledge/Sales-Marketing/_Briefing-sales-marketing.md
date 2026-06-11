@@ -1,7 +1,7 @@
 # Sales & Marketing Briefing
 
-> Last synthesized: 2026-04-09
-> Insight count: 6 (updated from Inbox synthesis)
+> Last synthesized: 2026-06-11
+> Insight count: 9
 
 ---
 
@@ -50,6 +50,12 @@ For a solo builder shipping AI products, the fastest path to revenue is not more
 **VIP poaching is the highest-leverage acquisition play in competitive markets.** From [[Projects/SD-BLUF/_Briefing-sd-bluf|Bluff]]: explicitly recruiting high-value players from competitors with market-leading bonuses and 24/7 concierge. Quality > quantity — a few high-value players drive disproportionate revenue.
 
 **Etsy listing copy benefits from rigid templating.** From [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]]: standardising title format (pipe-separated, 140 chars, ending "(Digital Download)"), tag limits (20 chars), and assembly instructions as text (not PDF) turns listing creation into a repeatable, AI-automatable process.
+
+**YouTube's satisfaction-over-watchtime shift rewards tight, rewatchable content.** YouTube's April 2026 algorithm overhaul replaced raw watch time with viewer satisfaction (post-view surveys, 7-day return rate, shares, completion rate) as the primary ranking signal. A tight 4-minute toddler activity video that gets replayed outranks a 15-minute competitor abandoned at 6 minutes. For faceless channels, the algorithm no longer penalises absence of an on-screen personality. Shorts engagement rates (5.91%) now exceed TikTok and Instagram Reels, making them a satisfaction-signal goldmine. Optimise for rewatch triggers and "return within 7 days" hooks, not video length.
+
+**Etsy's AI disclosure enforcement creates a moat for transparent sellers.** Etsy removed 12,000+ listings and warned 8,500+ sellers in Q1 2026 for undisclosed AI usage. The compliance bar isn't anti-AI — it's pro-honesty. Sellers who disclose AI assistance and layer in genuine design decisions are unaffected while mass-upload "AI slop" sellers get pruned. For [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]], lean into transparency as a brand differentiator: include workflow disclosure, pair with long-tail niche bundles, and benefit from reduced competition.
+
+**Content atomisation agents turn one video into 50+ platform-native assets.** The 2026 generation of repurposing agents (Opus Clip for viral-moment detection, Repurpose.io for cross-platform syndication) can take a single video and produce Shorts, social captions, newsletter drafts, listing copy — autonomously. A $300-500/month agent stack delivers marketing output equivalent to 2-3 full-time hires. The bottleneck shifts from "can I produce enough content" to "am I curating the right content for the right channel." For [[Projects/MY-MYST/_Briefing-my-myst|MY-MYST]] and [[Projects/MY-YAP/_Briefing-my-yap|MY-YAP]], designate one recording session per week as the "source atom" and let agents fragment it across all channels.
 
 ---
 

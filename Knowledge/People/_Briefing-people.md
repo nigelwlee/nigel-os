@@ -1,7 +1,7 @@
 # People Briefing
 
-> Last synthesized: 2026-04-09
-> Insight count: 5 (updated from Inbox synthesis)
+> Last synthesized: 2026-06-11
+> Insight count: 8
 
 ---
 
@@ -42,6 +42,12 @@ The highest-leverage thing a solo builder can do is delay hiring until it hurts,
 **Timezone strategy beats shift work for global coverage.** From [[Projects/SD-BLUF/_Briefing-sd-bluf|Bluff]] VIP team design: hire remote across complementary timezones (EST, CET-flex, PST-AP flex, Manila PHT) instead of asking people to work graveyard shifts. Four people across four zones covers 24/7 without anyone working unsociable hours. This is a structural advantage in roles requiring real-time responsiveness.
 
 **Psychological safety must be designed into the JD, not retrofitted.** The Bluff Head of VIP job description explicitly weights culture and psychological safety in the evaluation criteria. This filters for candidates who value the environment, not just the comp. By the time you're coaching someone on culture fit, the hiring decision already failed.
+
+**Payday Super (1 July 2026) kills quarterly batching — immediate compliance tripwire for contractors.** From 1 July 2026, super must be paid on the same cycle as wages/invoices and reach the fund within 7 business days. The Small Business Superannuation Clearing House closes permanently. Contractors paid "mainly for their labour" are captured as deemed employees for SG purposes — if they don't genuinely control how/when they work, you owe them 12.5% super on every invoice's labour component, on every pay cycle. Audit each contractor relationship against the deemed-employee test before 1 July and set up per-payday super payment infrastructure.
+
+**The first role to formalise should be "agent manager," not a traditional functional hire.** The emerging pattern (HBR, Feb 2026): the best first human hire for an AI-native solo operator orchestrates AI agents across business functions rather than executing within one. Domain expertise matters more than AI expertise — the best agent managers come from roles where they already understand the process being automated. The ratio emerging in practice is ~1 human to 3-8 AI agents. This reframes the existing "first hire should cover your weakest area" advice: the weakest area may not be a function (marketing, engineering) but the orchestration layer itself.
+
+**Australia's incoming non-compete ban (2027) makes hiring from competitors dramatically easier.** Non-compete clauses will be prohibited for workers earning below ~$183,100/year. For [[Projects/SD-BLUF/_Briefing-sd-bluf|Bluff]] specifically, VIP managers and relationship-heavy roles often locked behind non-competes will be freely available. Start building relationships with talent at competitor operations now — the constraint disappears in ~6 months. Conversely, your own VIP team becomes more poachable, making retention strategy (culture, equity, autonomy) more important than ever.
 
 ---
 

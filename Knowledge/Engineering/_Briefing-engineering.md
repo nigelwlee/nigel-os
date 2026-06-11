@@ -1,7 +1,7 @@
 # Engineering Briefing
 
-> Last synthesized: 2026-04-09
-> Insight count: 6 (updated from Inbox synthesis)
+> Last synthesized: 2026-06-11
+> Insight count: 9
 
 ---
 
@@ -48,6 +48,12 @@ Engineering literacy for a vibe coder is not about writing code — it is about 
 **Shared component systems prevent game-per-game technical debt.** From [[Projects/MY-DIDIT/_Briefing-my-didit|Did·It]]: extracting `GameShell`, `SuccessScreen`, `Confetti`, `Toast`, and `useSoundManager` as shared components means each new game is a content problem, not an engineering problem. The component system is the product's internal API.
 
 **Mobile agentic coding is production-viable.** From Personal OS Build: Working Copy → GitHub push → Claude Code Remote → Vercel auto-deploy is a working mobile-first development pipeline. This means you can ship from an iPhone. See [[SOPs/Mobile-Agentic-Coding|Mobile Agentic Coding SOP]].
+
+**Xcode 27's MCP bridge turns Claude Code into a first-class iOS development agent.** At WWDC 2026, Apple shipped `mcpbridge` — a binary that exposes Xcode's live process to any MCP-compliant agent over JSON-RPC 2.0. Claude Code can now invoke Xcode capabilities (file reads, builds, test runs, SwiftUI preview rendering, iOS Simulator interaction) without leaving the terminal. No more context-switching between Claude Code and Xcode. Apple also ships seven built-in "agent skills" (e.g., `swiftui-specialist`, `test-modernizer`) that external agents can invoke. For [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]] and [[Projects/MY-DIDIT/_Briefing-my-didit|Did·It]], this eliminates the two-world problem entirely.
+
+**Spec-driven development has converged as the post-vibe-coding standard.** By mid-2026, GitHub shipped Spec Kit, AWS shipped Kiro, Claude Code integrated spec workflows, and Karpathy now says the vibe coding era is ending in favour of "agentic engineering against detailed specifications." Practitioners report an extra hour writing a spec saves three days of agent thrash. Specs act as executable contracts that constrain what agents generate — unlike prompts, specs are verifiable. The optimal workflow is now two-phase: (1) rapid vibe-code a prototype to validate the idea, then (2) write a minimal spec before handing off to agents for production implementation. The spec replaces code review, architecture docs, and test plans — the agent derives all three from it.
+
+**Design for AI-maintainability, not just human-readability.** AI generates code that passes tests and works, but structures it in ways future AI sessions struggle to modify without regressions. Each session optimises locally without maintaining architectural invariants. The fix: maintain a living architecture document (CLAUDE.md) at the repo root describing key invariants, module boundaries, and conventions. Claude Code's "Dreaming" feature (research preview, May 2026) automates part of this — it reads past session transcripts, identifies recurring patterns, and writes structured memory updates. Harvey reported ~6x improvement in agent task-completion rates after enabling it.
 
 ---
 

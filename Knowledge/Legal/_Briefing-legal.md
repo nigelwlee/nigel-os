@@ -1,7 +1,7 @@
 # Legal Briefing
 
-> Last synthesized: 2026-04-16
-> Insight count: 3
+> Last synthesized: 2026-06-11
+> Insight count: 6
 > Jurisdiction focus: Australia (primary), US (secondary for tech/fundraising)
 
 > **Disclaimer:** This is a knowledge base for orientation and first-principles thinking, not legal advice. Always engage a qualified lawyer for material decisions.
@@ -49,7 +49,7 @@ Standard founder vesting: 4-year vest, 1-year cliff. No exceptions without delib
 Australia has strict rules on employee vs. contractor classification. Getting this wrong creates tax liability (PAYG, super), unfair dismissal risk, and entitlement back-pay. Key test: is the person integrated into the business, or running their own business? When in doubt, employ.
 
 **Superannuation (Australia)**
-Mandatory 11.5% superannuation on eligible earnings (2026). Applies to employees, some contractors. Non-payment triggers ATO penalties. Set up payroll correctly from the first paid hire.
+Mandatory 12% superannuation on eligible earnings (rising to 12.5% from 1 July 2026). Applies to employees, some contractors. Non-payment triggers ATO penalties. From 1 July 2026, "Payday Super" requires contributions within 7 business days of each pay cycle — quarterly batching ends. See [[Knowledge/People/_Briefing-people|People Briefing]] for contractor compliance details.
 
 ---
 
@@ -70,6 +70,12 @@ Mandatory 11.5% superannuation on eligible earnings (2026). Applies to employees
 **Automated decision-making transparency obligations take effect 10 December 2026.** Any APP entity using personal information in automated or semi-automated decision-making with significant individual impact must describe the data used and decision types in its privacy policy. Broadly captures AI-enabled systems. Relevant to any project using AI for personalisation or recommendations (e.g., [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]'s LLM-powered interactions).
 
 **Australia chose voluntary AI guidance over mandatory regulation — but enforcement is real.** The December 2025 National AI Plan confirmed reliance on existing laws + sector regulators + voluntary AI Safety Institute guidance, not a standalone AI Act. However, the OAIC launched its first-ever compliance sweep in January 2026 (~60 organisations). The regime is "soft regulation, hard enforcement." Don't mistake the absence of an AI Act for absence of liability.
+
+**The CGT discount overhaul destroys founder exit economics — and the fix is uncertain.** The May 2026 budget replaces the 50% CGT discount with CPI indexation from 1 July 2027. Founder shares issued at fractions of a cent have a near-zero cost base — indexing zero by CPI still gives zero, so nearly the entire exit gain hits at top marginal rates plus the new 30% minimum tax floor. Treasurer Chalmers opened consultations on a startup carve-out within 24 hours but nothing is legislated. Any equity structuring decisions now (issuing shares, vesting, SAFE conversions) are being made into regulatory uncertainty. See also [[Knowledge/Finance/_Briefing-finance|Finance Briefing]].
+
+**The Digital Assets Framework Act received Royal Assent (8 April 2026) — crypto platforms now need AFSLs by April 2027.** Two new regulated product categories: Digital Asset Platforms (DAPs) and Tokenised Custody Platforms (TCPs), subject to client asset safeguarding, disclosure, dispute resolution, and compensation obligations. ASIC's class no-action position (INFO 225) expires June 2026. Directly relevant to [[Projects/SD-OPAL/_Briefing-sd-opal|SD-OPAL]] and any iGaming clients with crypto payment rails — the licensing clock is ticking.
+
+**US states are extending children's online safety laws to AI chatbots — not just social media.** California SB 243 (effective 1 Jan 2026) and 98 chatbot-specific bills across 34 states now regulate AI companion chatbots used by minors: AI disclosure at first conversation, content filtering, crisis intervention. This extends beyond "social media" to any interactive AI experience — including game characters with chat features or virtual pet companions. If [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]] or [[Projects/MY-DIDIT/_Briefing-my-didit|Did·It]] add AI-powered interactions and have US users, build compliance hooks into the architecture now.
 
 ---
 
