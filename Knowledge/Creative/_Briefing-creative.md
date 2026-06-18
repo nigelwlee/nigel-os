@@ -1,7 +1,7 @@
 # Creative Briefing
 
-> Last synthesized: 2026-05-21
-> Insight count: 8 (updated from MY-YAP processing)
+> Last synthesized: 2026-06-18
+> Insight count: 10 (refreshed: +2 new insights, 1 updated)
 
 ---
 
@@ -46,13 +46,17 @@ Define a brand by asking: if this brand were a person, who would they be? What w
 
 **Affinity Designer is the production tool for SVG/digital asset creation.** From [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]]: layer exclusion from noise effects, transparent PNG export, and Cricut-compatible SVG output are recurring workflows. Affinity's non-destructive workflow supports rapid iteration on card templates.
 
-**AI character consistency is a recurring production need.** Generating consistent character variations from source images (same character, different poses/expressions) is an unsolved workflow. Current tools require manual iteration — no reliable one-shot method exists yet.
+**AI character consistency is largely solved — 85-92% is the practical ceiling.** Reference-based generation (FLUX 2 Multi-Reference, GPT Image 2, Leonardo Phoenix 2.0) now maintains character identity across poses and scenes without manual conversion pipelines. The "triple stack" workflow (IP-Adapter FaceID + character LoRA + ControlNet) in ComfyUI handles professional needs. Budget 10-15% cleanup time for the remaining drift — full automation is still not there, but the workflow has shifted from "unsolved" to "production-ready with polish."
 
 **Brand anti-patterns are as important as brand guidelines.** From [[Projects/RB-NETW/_Briefing-rb-netw|Tokeniser]]: explicitly listing what a brand will *never* do (no chain links, no hexagons, no neon) is more useful than aspirational positives. Anti-patterns are concrete and testable; "bold but warm" is neither.
 
 **Celebration-first design drives retention in kids' apps.** From [[Projects/MY-DIDIT/_Briefing-my-didit|Did·It]]: confetti, success screens, and milestone triggers (not scores or rankings) create the emotional reward loop. No fail states means every interaction ends positively. The celebration *is* the retention mechanic.
 
 **The unlikely-profile persona is a content differentiator.** From [[Projects/MY-MYST/_Briefing-my-myst|Mystic Scientist]]: positioning as "the last person you'd expect to get into this" creates immediate tension and curiosity. An ex-consultant exploring astrology is inherently more watchable than another astrology creator because the skeptic journey *is* the content. The persona contradiction (analytical + mystical) does the marketing work — no need to explain why your take is different.
+
+**Human authenticity is now a competitive moat against AI content saturation.** Consumer preference for AI-generated creator content dropped from 60% (2023) to 26% (2026). 83% of consumers can spot AI videos; 36% say it lowers brand trust. The backlash is accelerating — "messiness" and visible human involvement are in demand as a reaction to AI content flooding. For [[Projects/MY-MYST/_Briefing-my-myst|MY-MYST]] and [[Projects/MY-YAP/_Briefing-my-yap|MY-YAP]]: the talking-head, personal-journey format is a strategic advantage, not a production compromise.
+
+**Platform AI disclosure rules now have real enforcement teeth.** TikTok: 3 unlabeled AI videos → 60% reach reduction for 30 days + Creator Fund suspension. EU AI Act Article 50 (effective August 2, 2026) requires machine-readable marking of all synthetic content — fines up to EUR 15M. YouTube and Meta require manual flagging. This isn't ethics — it's risk management. Build disclosure into the production workflow from day one.
 
 **Contrarian hooks with personal stakes outperform generic takes.** From [[Projects/MY-YAP/_Briefing-my-yap|MY-YAP]]: "I don't think kids should go to school" works because it's specific, polarising, and backed by a personal stake (3.5-year-old child). Generic takes ("education needs reform") don't create scroll-stopping tension. The hook formula: contrarian claim + personal reason to care + specific examples that make the audience reconsider.
 
@@ -74,7 +78,8 @@ These are held positions, not universal rules:
 
 - How do you maintain creative quality when velocity is high? What gets sacrificed?
 - When does consistency become conservatism? How do you evolve a brand without losing it?
-- What is the right balance between AI-assisted and human-originated creative work?
+- What is the right balance between AI-assisted and human-originated creative work? Emerging data: AI works best as production accelerator (drafting, editing, scheduling), but audience-facing "voice" and persona must stay human. Simply adding AI tools without restructuring workflows can increase burnout rather than relieve it (HBR, Feb 2026).
+- How should new YouTube channels sequence Shorts vs long-form? Emerging consensus: Shorts for discovery (10x reach, 5x lower conversion), long-form for monetisation (50-100x higher RPM). 30-40% Shorts / 60-70% long-form is the recommended split.
 
 ---
 

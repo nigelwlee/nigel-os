@@ -1,7 +1,7 @@
 # AI Briefing
 
-> Last synthesized: 2026-05-07
-> Insight count: 7 (updated from MY-MYST processing)
+> Last synthesized: 2026-06-18
+> Insight count: 10 (refreshed: +3 new insights, 1 updated)
 
 ---
 
@@ -43,13 +43,19 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 
 **Agents fail at the edges.** Most agent failures happen at tool boundaries (wrong API call), memory boundaries (forgetting earlier context), and ambiguity (when the user's intent wasn't clear). Design for these failure modes explicitly.
 
-**OpenAI is infrastructure, not a destination.** The model providers are commoditising. The value is in the application layer: the workflow, the memory architecture, the UI. Build products, not wrappers.
+**Model providers are specialising, not commoditising — pick by task fit, not brand.** Opus 4.8 leads on coding/agentic benchmarks (SWE-Bench Pro: 69.2% vs GPT-5.5's 58.6%), while DeepSeek V4 Pro tops neutral reasoning benchmarks. Models are not interchangeable — they have distinct strengths. The moat is still in the application layer, but model selection is now a meaningful architectural decision.
 
 **The cheapest eval is a human in the loop.** Before you automate the QA, make sure a human has validated the output at least 50 times. Most premature automation fails because the definition of "correct" was never tested.
 
 **Latency is a UX problem.** Users tolerate ~2-3 seconds before they assume something is broken. Streaming output is not optional for user-facing AI products. Design latency budgets explicitly.
 
-**On-device LLMs via Core ML are viable for personality-driven interactions.** From [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]: Phi-3 Mini or Gemma 2B running locally via Core ML can power creature reactions and emotes without API costs or latency. Local-first AI preserves privacy and works offline — cloud LLM (Claude API) becomes the premium upgrade path.
+**On-device LLMs are now a first-party Apple capability, not a hack.** Apple's Core AI framework (WWDC 2026) exposes a 3B-parameter on-device model as a system API across iPhone, iPad, Mac, and Vision Pro — standard APIs, automatic Neural Engine dispatch, built-in weight compression. For [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]: the Phase 2 path shifts from manually converting Phi-3/Gemma to Core ML to using Apple's native framework. Local-first AI is now production-grade.
+
+**Agent architecture should be subagent-native, not monolithic.** Opus 4.8's dynamic workflows can orchestrate up to 1,000 parallel subagents natively. This changes the unit of work from "one prompt, one response" to "one intent, many parallel threads." Solo builders who structure tasks as decomposable subagent trees get 5-10x throughput over sequential prompting. Design for parallelisable subtasks.
+
+**Hybrid RAG + long-context is the winning retrieval pattern.** Neither pure RAG nor pure long-context is optimal alone. The pattern: use lightweight retrieval to *find* relevant chunks, then feed them into a long context window for *reasoning*. Pure RAG misses cross-document reasoning; pure long-context wastes 17-38% more tokens on irrelevant material. For the Personal OS: use structured file paths and summaries as an index layer to select which vault files enter context, rather than loading everything or building a full vector pipeline.
+
+**Agentic automation now has a distinct cost line you must budget.** Anthropic's June 2026 billing split separates interactive use (subscription) from Agent SDK usage (programmatic calls, `claude -p`, automations) into separate monthly credits. This creates a hard budget constraint on automation — the "free rider" era of running agents on your subscription is over. Meter which automations justify their token spend.
 
 **Hermes pattern: Telegram + OpenRouter + structured vault = working personal agent.** The Personal OS agent architecture is: Telegram as command interface → OpenRouter for model access (Claude Sonnet) → symlinked vault for context. VPS pulls vault hourly from GitHub. This is a minimal but functional agent loop (LLM + Memory + Tools + Loop).
 
@@ -63,10 +69,12 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 
 ## Open Questions / Active Debates
 
-- When is multi-agent better than single-agent? What are the actual coordination costs?
+- When is multi-agent better than single-agent? Emerging heuristic: multi-agent for parallelisable tasks (+81% improvement per Google Research), single-agent for sequential workflows. Token cost is ~15x higher for multi-agent. Mix model tiers (cheap for routing, frontier for reasoning) to reduce costs 40-60%.
 - How do you build a memory system that degrades gracefully (old info doesn't pollute new reasoning)?
 - At what point does a personal AI system need its own dedicated model vs. a well-prompted frontier model?
-- What is the right architecture for a personal OS agent that reads from a structured knowledge vault?
+- ~~What is the right architecture for a personal OS agent that reads from a structured knowledge vault?~~ → Answer converging: hybrid retrieval + long-context (see Active Insights). Structured vault with summaries as index layer, lightweight selection of relevant files, then load into long context window.
+- How should a solo builder budget and meter Agent SDK credits vs. subscription usage? Which automations justify programmatic API spend?
+- What is the right migration path from manual Core ML model conversion to Apple's Core AI framework for existing on-device LLM projects?
 
 ---
 

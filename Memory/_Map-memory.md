@@ -34,3 +34,4 @@ Each memory is a single file in this folder. Filename: `YYYY-MM-DD — Topic.md`
 - [[Memory/2026-05-21 — MY-YAP Project Registered|2026-05-21 — MY-YAP Project Registered]] — Education/personal development video channel registered from vault backup, cross-linked with MY-MYST and MY-DIDIT (context)
 - [[Memory/2026-06-04 — Vault Maintenance|2026-06-04 — Vault Maintenance]] — System audit, expired memory extended, Knowledge Refresh still stalled (status)
 - [[Memory/2026-06-11 — Knowledge Refresh Manual|2026-06-11 — Knowledge Refresh Manual]] — Manual refresh of all 8 Knowledge domains, 18 new insights added (status)
+- [[Memory/2026-06-18 — Knowledge Refresh AI + Creative|2026-06-18 — Knowledge Refresh AI + Creative]] — Caught up AI (+3) and Creative (+2) domains missed in June 11 refresh, cross-links verified (status)
