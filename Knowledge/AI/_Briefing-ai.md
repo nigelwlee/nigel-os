@@ -1,7 +1,7 @@
 # AI Briefing
 
-> Last synthesized: 2026-06-18
-> Insight count: 10 (refreshed: +3 new insights, 1 updated)
+> Last synthesized: 2026-06-25
+> Insight count: 13 (refreshed: +3 new insights, 0 removed)
 
 ---
 
@@ -65,6 +65,12 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 
 **Multi-model cross-validation is a novel application of AI diversity.** From [[Projects/MY-MYST/_Briefing-my-myst|Mystic Scientist]]: running the same structured prompt across 5 frontier models (ChatGPT, Claude, Grok, DeepSeek, Qwen) and looking for convergent patterns in their independent outputs. When multiple models trained on different data agree on something, the signal is stronger than any single model's output. Pattern is generalizable beyond mysticism — useful for any domain where confidence matters more than speed.
 
+**US export controls now reach AI models directly — not just chips.** The Commerce Department suspended Anthropic's Fable 5 and Mythos 5 on June 12, barring access by any foreign national. Both remain offline as of June 25. This is the first time a specific AI model has been subject to export controls. Any builder with single-model dependency faces regulatory supply risk. Diversify model access paths.
+
+**AI coding tools are consolidating into platform plays — Cursor acquired by SpaceX for $60B.** The largest AI startup acquisition ever. Cursor at $4B ARR. Windsurf rebranded to Devin Desktop (June 2). JetBrains Junie hit GA. GitHub Copilot shipped a standalone desktop app. The indie-tool era is ending; evaluate vendor concentration risk in your AI coding stack.
+
+**Flat-rate pricing for AI agent tools is ending — usage-based billing is the new default.** GitHub Copilot moved to usage-based billing June 1 (some developers report 10x+ cost increases). Anthropic announced then paused Agent SDK billing separation on June 15. DeepSeek made its 75% price cut permanent. The direction is clear: budget AI tooling as a variable cost, not a subscription.
+
 ---
 
 ## Open Questions / Active Debates
@@ -73,7 +79,7 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 - How do you build a memory system that degrades gracefully (old info doesn't pollute new reasoning)?
 - At what point does a personal AI system need its own dedicated model vs. a well-prompted frontier model?
 - ~~What is the right architecture for a personal OS agent that reads from a structured knowledge vault?~~ → Answer converging: hybrid retrieval + long-context (see Active Insights). Structured vault with summaries as index layer, lightweight selection of relevant files, then load into long context window.
-- How should a solo builder budget and meter Agent SDK credits vs. subscription usage? Which automations justify programmatic API spend?
+- ~~How should a solo builder budget and meter Agent SDK credits vs. subscription usage?~~ → Anthropic paused the June 15 billing separation. Direction is clear (usage-based) but timing uncertain. Budget as variable cost regardless.
 - What is the right migration path from manual Core ML model conversion to Apple's Core AI framework for existing on-device LLM projects?
 
 ---

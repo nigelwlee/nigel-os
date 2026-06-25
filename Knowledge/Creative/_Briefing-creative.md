@@ -1,7 +1,7 @@
 # Creative Briefing
 
-> Last synthesized: 2026-06-18
-> Insight count: 10 (refreshed: +2 new insights, 1 updated)
+> Last synthesized: 2026-06-25
+> Insight count: 12 (refreshed: +2 new insights)
 
 ---
 
@@ -59,6 +59,10 @@ Define a brand by asking: if this brand were a person, who would they be? What w
 **Platform AI disclosure rules now have real enforcement teeth.** TikTok: 3 unlabeled AI videos → 60% reach reduction for 30 days + Creator Fund suspension. EU AI Act Article 50 (effective August 2, 2026) requires machine-readable marking of all synthetic content — fines up to EUR 15M. YouTube and Meta require manual flagging. This isn't ethics — it's risk management. Build disclosure into the production workflow from day one.
 
 **Contrarian hooks with personal stakes outperform generic takes.** From [[Projects/MY-YAP/_Briefing-my-yap|MY-YAP]]: "I don't think kids should go to school" works because it's specific, polarising, and backed by a personal stake (3.5-year-old child). Generic takes ("education needs reform") don't create scroll-stopping tension. The hook formula: contrarian claim + personal reason to care + specific examples that make the audience reconsider.
+
+**Figma shipped Motion and Code Layers (Config 2026, June 24) — collapsing design-to-code into one tool.** Figma Motion adds timeline keyframes and exports to Animated SVG, CSS, JSON, React, MP4, WebM, and GIF. It's MCP-compatible, meaning animated frames can pass directly to a coding agent. Code Layers (beta July 2026) let you clone a GitHub repo onto the design canvas and convert layers to interactive React-backed layers. For SVG product workflows: this collapses the Figma-to-code handoff into a single tool. Free in open beta.
+
+**The dominant 2026 illustration trend is deliberately imperfect, hand-drawn aesthetics — a counter-reaction to AI-polished output.** Brands like Duolingo, Mailchimp, and Oatly normalised it. 68% of Gen Z consumers prefer "playful, imperfect" visuals. For SVG product creation at [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]]: wobbly lines, visible sketch marks, and textured fills will outperform clean vector perfection in market appeal. AI can assist the workflow but the output should look human.
 
 ---
 
