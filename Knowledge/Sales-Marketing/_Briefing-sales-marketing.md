@@ -1,7 +1,7 @@
 # Sales & Marketing Briefing
 
-> Last synthesized: 2026-06-11
-> Insight count: 9
+> Last synthesized: 2026-06-25
+> Insight count: 11 (refreshed: +2 new insights)
 
 ---
 
@@ -56,6 +56,10 @@ For a solo builder shipping AI products, the fastest path to revenue is not more
 **Etsy's AI disclosure enforcement creates a moat for transparent sellers.** Etsy removed 12,000+ listings and warned 8,500+ sellers in Q1 2026 for undisclosed AI usage. The compliance bar isn't anti-AI — it's pro-honesty. Sellers who disclose AI assistance and layer in genuine design decisions are unaffected while mass-upload "AI slop" sellers get pruned. For [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]], lean into transparency as a brand differentiator: include workflow disclosure, pair with long-tail niche bundles, and benefit from reduced competition.
 
 **Content atomisation agents turn one video into 50+ platform-native assets.** The 2026 generation of repurposing agents (Opus Clip for viral-moment detection, Repurpose.io for cross-platform syndication) can take a single video and produce Shorts, social captions, newsletter drafts, listing copy — autonomously. A $300-500/month agent stack delivers marketing output equivalent to 2-3 full-time hires. The bottleneck shifts from "can I produce enough content" to "am I curating the right content for the right channel." For [[Projects/MY-MYST/_Briefing-my-myst|MY-MYST]] and [[Projects/MY-YAP/_Briefing-my-yap|MY-YAP]], designate one recording session per week as the "source atom" and let agents fragment it across all channels.
+
+**Etsy's August 11 policy kills purchased templates — computerised tools must use seller's own original design.** Etsy removed "or using a templated design or pattern" from its Creativity Standards. Purchased SVGs, clipart, and pre-made design files no longer qualify as handmade. AI-generated content is allowed if based on seller's own original prompts with mandatory disclosure. Automated detection is already flagging undisclosed AI listings and reducing search visibility. For [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]]: audit all listings before August 11. Lean into transparency as a brand differentiator — disclose AI assistance, pair with original design decisions.
+
+**Etsy's 2026 algorithm now penalises titles over 70 characters, shipping over $6, and policy violations tank entire shop ranking.** Title soft cap at 70 chars (longer = keyword-stuffed penalty). US domestic shipping over $6 reduces search visibility. Policy violations drag down the entire shop's ranking, not just flagged listings. New Search Visibility Dashboard shows which listings have reduced visibility and why. Semantic/NLP search using LLMs now understands intent, not just keywords. For [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]]: review title format (current 140-char template may need tightening), check shipping pricing, ensure zero policy violations.
 
 ---
 

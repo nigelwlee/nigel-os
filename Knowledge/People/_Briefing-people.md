@@ -1,7 +1,7 @@
 # People Briefing
 
-> Last synthesized: 2026-06-11
-> Insight count: 8
+> Last synthesized: 2026-06-25
+> Insight count: 10 (refreshed: 1 updated, +2 new insights)
 
 ---
 
@@ -43,11 +43,15 @@ The highest-leverage thing a solo builder can do is delay hiring until it hurts,
 
 **Psychological safety must be designed into the JD, not retrofitted.** The Bluff Head of VIP job description explicitly weights culture and psychological safety in the evaluation criteria. This filters for candidates who value the environment, not just the comp. By the time you're coaching someone on culture fit, the hiring decision already failed.
 
-**Payday Super (1 July 2026) kills quarterly batching — immediate compliance tripwire for contractors.** From 1 July 2026, super must be paid on the same cycle as wages/invoices and reach the fund within 7 business days. The Small Business Superannuation Clearing House closes permanently. Contractors paid "mainly for their labour" are captured as deemed employees for SG purposes — if they don't genuinely control how/when they work, you owe them 12.5% super on every invoice's labour component, on every pay cycle. Audit each contractor relationship against the deemed-employee test before 1 July and set up per-payday super payment infrastructure.
+**Payday Super is live 1 July 2026 — ATO's PCG 2026/1 creates a risk-tiered first-year buffer, but it's not a grace period.** Super must be paid on the same cycle as wages/invoices and reach the fund within 7 business days. The Small Business Superannuation Clearing House closes permanently. The ATO will focus enforcement on "high risk" employers (existing SG shortfalls) and "medium risk" (not attempting compliance). Low-risk employers who genuinely try but have occasional late payments get breathing room in year one. Buffer expires 30 June 2027 with no extension indicated. Contractors paid "mainly for their labour" are captured as deemed employees for SG purposes. Your payroll system must be configured before your first hire's first payday.
 
 **The first role to formalise should be "agent manager," not a traditional functional hire.** The emerging pattern (HBR, Feb 2026): the best first human hire for an AI-native solo operator orchestrates AI agents across business functions rather than executing within one. Domain expertise matters more than AI expertise — the best agent managers come from roles where they already understand the process being automated. The ratio emerging in practice is ~1 human to 3-8 AI agents. This reframes the existing "first hire should cover your weakest area" advice: the weakest area may not be a function (marketing, engineering) but the orchestration layer itself.
 
 **Australia's incoming non-compete ban (2027) makes hiring from competitors dramatically easier.** Non-compete clauses will be prohibited for workers earning below ~$183,100/year. For [[Projects/SD-BLUF/_Briefing-sd-bluf|Bluff]] specifically, VIP managers and relationship-heavy roles often locked behind non-competes will be freely available. Start building relationships with talent at competitor operations now — the constraint disappears in ~6 months. Conversely, your own VIP team becomes more poachable, making retention strategy (culture, equity, autonomy) more important than ever.
+
+**The "one-person company" ceiling is trust-dependent work, not volume.** Solo founders using AI agent stacks are scaling to $1M+ ARR, but the binding constraint is not capacity — it's that AI cannot build the trust that closes large deals or retains enterprise clients. The first-hire trigger for AI-native founders is relationship density (~5-7 active retainer clients), not revenue milestones. This reframes when to hire: not when you're overworked, but when client relationships need a human you can't be.
+
+**Sham contracting enforcement intensified — the "real substance" test under the Closing Loopholes Act is fully operational.** The ATO and Fair Work Ombudsman issued a joint March 2026 enforcement statement. Courts now examine the practical reality of the relationship, not the contract's label. The old "not reckless" defence standard has been raised to requiring "reasonable belief." Per-pay-period penalties stack to six figures quickly. For anyone engaging contractors: document the genuine independence of the arrangement before labelling it.
 
 ---
 

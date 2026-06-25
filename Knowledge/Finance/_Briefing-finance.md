@@ -1,7 +1,7 @@
 # Finance Briefing
 
-> Last synthesized: 2026-06-11
-> Insight count: 9
+> Last synthesized: 2026-06-25
+> Insight count: 11 (refreshed: 1 updated, +2 new insights)
 
 ---
 
@@ -49,11 +49,15 @@ Finance for a solo builder is not about financial engineering, complex capital s
 
 **Fee structure negotiation: 0% management + performance-only aligns incentives.** The Opal counter-terms (0% mgmt / 15% perf / hurdle at sUSDe + 2%) ensure the operator only earns when the strategy outperforms. Three-way split (10/15/75) keeps user share dominant, which is the right positioning for a yield product.
 
-**The CGT discount overhaul creates a 12-month window for crystallising gains.** The May 2026 federal budget replaces Australia's flat 50% CGT discount with CPI-based cost-base indexation plus a 30% minimum tax floor on net capital gains, effective 1 July 2027. For crypto and other volatile assets with short holding periods, the new regime dramatically increases tax on gains (a lower-income earner's tax on a $20K crypto gain jumps from ~$3,800 to ~$10,200). Gains accrued before 1 July 2027 are grandfathered via time-apportionment — so there's a concrete decision point to crystallise appreciated positions under the old discount before the new rules bite. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]] basis trade positions, this also changes the after-tax calculus on income vs. capital gains treatment.
+**The CGT reform bill passed both houses on 25 June 2026 — the 50% discount is gone from 1 July 2027.** No longer a proposal; this is law (awaiting Royal Assent). The 50% CGT discount is replaced by CPI cost-base indexation plus a 30% minimum tax on net capital gains. For crypto and volatile assets, the impact is severe (a lower-income earner's tax on a $20K crypto gain jumps from ~$3,800 to ~$10,200). A startup carve-out is in active consultation (submissions close 10 July 2026): 50% discount preserved for qualifying innovative startup equity (unlisted, <10yr, <$50M turnover, 5yr hold). Small business CGT threshold raised from $2M to $10M. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]]: crystallise appreciated crypto positions before 1 July 2027 under the old discount.
 
 **Loss carry-back returns to Australia — but only for companies.** From FY2026-27, companies with turnover under $1B can carry back tax losses and claim a cash refund against tax paid in the prior two years (limited by franking account balance). This is a new structural reason to favour a Pty Ltd over sole trader: earn consulting income in one year, invest heavily in product R&D the next, and get a cash refund of the prior year's tax. The ATO effectively becomes a co-investor in product experiments — de-risking the "invest consulting profits into product R&D" strategy. Sole traders and trusts are excluded.
 
 **AI app gross margins are structurally lower than SaaS — but inference cost engineering closes the gap.** AI-native products run 52-60% gross margins vs. 80-90% for traditional SaaS because every user interaction incurs compute cost. The emerging inference cost engineering playbook (semantic caching, model routing, quantisation, async batching) shows 50-90% reductions in API spend. Recommended sequencing: semantic caching first (up to 68% API call reduction), then model routing for cache misses. A well-built router (70% cheap model / 30% frontier) saves ~65% vs. routing everything expensive. For [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]'s planned cloud LLM tier, pricing must anchor to value delivered, not compute cost — COGS will keep falling while price should stay stable.
+
+**The R&D Tax Incentive is getting overhauled — minimum spend rises to $50K but offset rate and turnover cap increase.** Effective 1 July 2028: supporting activities removed from eligibility, but core activity offset rate increases 4.5 percentage points. Refundable offset turnover cap raised from $20M to $50M. Maximum expenditure cap raised to $200M. The $50K minimum (up from $20K) may exclude very small R&D spenders, but the higher rates and caps benefit qualifying startups materially.
+
+**ASIC extended the crypto no-action deadline to 30 September 2026 — Digital Assets Framework Act licensing clock keeps ticking.** The DAF Act (Royal Assent April 8, 2026) requires all digital asset platform operators to hold an AFSL by April 2027. ASIC has received ~30 licence applications. AUSTRAC's Travel Rule also goes live 1 July 2026, requiring VASPs to collect and transmit originator/beneficiary information. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]]: extra breathing room but the regulatory infrastructure is now real.
 
 ---
 

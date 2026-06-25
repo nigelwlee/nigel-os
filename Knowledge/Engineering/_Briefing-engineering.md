@@ -1,7 +1,7 @@
 # Engineering Briefing
 
-> Last synthesized: 2026-06-11
-> Insight count: 9
+> Last synthesized: 2026-06-25
+> Insight count: 12 (refreshed: +3 new insights)
 
 ---
 
@@ -54,6 +54,12 @@ Engineering literacy for a vibe coder is not about writing code — it is about 
 **Spec-driven development has converged as the post-vibe-coding standard.** By mid-2026, GitHub shipped Spec Kit, AWS shipped Kiro, Claude Code integrated spec workflows, and Karpathy now says the vibe coding era is ending in favour of "agentic engineering against detailed specifications." Practitioners report an extra hour writing a spec saves three days of agent thrash. Specs act as executable contracts that constrain what agents generate — unlike prompts, specs are verifiable. The optimal workflow is now two-phase: (1) rapid vibe-code a prototype to validate the idea, then (2) write a minimal spec before handing off to agents for production implementation. The spec replaces code review, architecture docs, and test plans — the agent derives all three from it.
 
 **Design for AI-maintainability, not just human-readability.** AI generates code that passes tests and works, but structures it in ways future AI sessions struggle to modify without regressions. Each session optimises locally without maintaining architectural invariants. The fix: maintain a living architecture document (CLAUDE.md) at the repo root describing key invariants, module boundaries, and conventions. Claude Code's "Dreaming" feature (research preview, May 2026) automates part of this — it reads past session transcripts, identifies recurring patterns, and writes structured memory updates. Harvey reported ~6x improvement in agent task-completion rates after enabling it.
+
+**MCP 2.0 goes stateless — remote servers sit behind plain load balancers without sticky sessions.** The MCP specification release candidate (locked May 21, final July 28) removes the session handshake and `Mcp-Session-Id` header entirely. 29,000+ MCP servers now indexed in independent registries. Governance sits with the Agentic AI Foundation under the Linux Foundation. For anyone building agent tool integrations, the infrastructure just got dramatically simpler.
+
+**Core AI replaces Core ML as Apple's on-device model framework.** Ships with Xcode 27 targeting iOS 20 and macOS 17. Unified CPU/GPU/Neural Engine API, AOT compilation, zero-copy data paths, and a curated collection of optimised open-source models (Qwen, Mistral, SAM3). The Foundation Models framework is now provider-agnostic — one Swift `LanguageModel` protocol routes to on-device, Private Cloud Compute, or third-party models (Claude, Gemini) without code changes. For [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]: the Phase 2 path is now definitively Apple's native framework, not manual Core ML conversion.
+
+**Agentjacking exploits AI coding agents at 85% success rate via untrusted external data.** Tenet Security disclosed (June 2026) a new attack class where fake Sentry error reports, API responses, or code comments with markdown injection hijack Claude Code, Cursor, and Codex. 2,388 organisations affected. AI coding agents treat tool outputs as trusted by default. Design agent workflows to sanitise external data before it enters context — never let untrusted sources shape agent actions.
 
 ---
 
