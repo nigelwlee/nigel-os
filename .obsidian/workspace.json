@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dca73fb4b957e1eb",
+        "id": "83f1b9f51e5234e2",
         "type": "tabs",
         "children": [
           {
-            "id": "5a8708a3aacbe84d",
+            "id": "cbc397e0f14f362c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/MY-YAP/Topic ideas for video scripts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Topic ideas for video scripts"
+              "title": "New tab"
             }
           }
         ]
@@ -184,15 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a8708a3aacbe84d",
+  "active": "cbc397e0f14f362c",
   "lastOpenFiles": [
+    "Projects/MY-YAP/Topic ideas for video scripts.md",
     "Memory/2026-06-18 — Knowledge Refresh AI + Creative.md",
     "Memory/2026-06-11 — Knowledge Refresh Manual.md",
     "Memory/2026-06-04 — Vault Maintenance.md",
     "Projects/MY-YAP/_Briefing-my-yap.md",
     "Memory/2026-05-21 — MY-YAP Project Registered.md",
     "Projects/MY-MYST/Scripts.md",
-    "Projects/MY-YAP/Topic ideas for video scripts.md",
     "Projects/MY-YAP",
     "Projects/MY-MYST/_Briefing-my-myst.md",
     "Memory/2026-05-07 — MY-MYST Project Registered.md",
