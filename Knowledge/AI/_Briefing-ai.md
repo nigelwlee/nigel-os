@@ -1,7 +1,7 @@
 # AI Briefing
 
-> Last synthesized: 2026-06-25
-> Insight count: 13 (refreshed: +3 new insights, 0 removed)
+> Last synthesized: 2026-07-09
+> Insight count: 16 (refreshed: +3 new insights, 0 removed)
 
 ---
 
@@ -69,7 +69,13 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 
 **AI coding tools are consolidating into platform plays — Cursor acquired by SpaceX for $60B.** The largest AI startup acquisition ever. Cursor at $4B ARR. Windsurf rebranded to Devin Desktop (June 2). JetBrains Junie hit GA. GitHub Copilot shipped a standalone desktop app. The indie-tool era is ending; evaluate vendor concentration risk in your AI coding stack.
 
-**Flat-rate pricing for AI agent tools is ending — usage-based billing is the new default.** GitHub Copilot moved to usage-based billing June 1 (some developers report 10x+ cost increases). Anthropic announced then paused Agent SDK billing separation on June 15. DeepSeek made its 75% price cut permanent. The direction is clear: budget AI tooling as a variable cost, not a subscription.
+**Flat-rate pricing for AI agent tools is ending — usage-based billing is the new default.** GitHub Copilot moved to usage-based billing June 1 (some developers report 10x+ cost increases). Anthropic announced then paused Agent SDK billing separation on June 15 (reversed same day, citing rework — but signal is clear). DeepSeek made its 75% price cut permanent. The direction is clear: budget AI tooling as a variable cost, not a subscription.
+
+**Sonnet 5's new tokenizer silently inflates token counts by ~30% on identical input.** Released June 30 at $2/$10 per million input/output tokens (introductory through August 31, then $3/$15). The new tokenizer means the same prompts cost roughly 30% more tokens than on Sonnet 4.6 — the real cost reduction vs. Opus-class models is smaller than headline price suggests. Budget accordingly when planning model migrations.
+
+**EU finalized a 16-month delay on AI Act high-risk compliance — standalone systems now December 2027, embedded systems August 2028.** Both Parliament and Council approved pushing back the deadlines originally set for August 2026. If selling AI-powered tools to EU customers, the compliance clock just got significant breathing room, but the obligations themselves are unchanged. Plan for compliance, don't rush it.
+
+**MCP's primary security threat has shifted from prompt injection to supply-chain attacks.** With 200+ MCP server implementations and all 7 major agent frameworks shipping native MCP support, the attack vector is now poisoned MCP configuration files, malicious marketplace skills, and exposed server endpoints. Treat community MCP servers with the same scrutiny as npm dependencies. See also [[Knowledge/Engineering/_Briefing-engineering|Engineering Briefing]] on agentjacking.
 
 ---
 

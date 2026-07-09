@@ -1,7 +1,7 @@
 # People Briefing
 
-> Last synthesized: 2026-06-25
-> Insight count: 10 (refreshed: 1 updated, +2 new insights)
+> Last synthesized: 2026-07-09
+> Insight count: 12 (refreshed: 1 updated, +2 new insights)
 
 ---
 
@@ -43,7 +43,7 @@ The highest-leverage thing a solo builder can do is delay hiring until it hurts,
 
 **Psychological safety must be designed into the JD, not retrofitted.** The Bluff Head of VIP job description explicitly weights culture and psychological safety in the evaluation criteria. This filters for candidates who value the environment, not just the comp. By the time you're coaching someone on culture fit, the hiring decision already failed.
 
-**Payday Super is live 1 July 2026 — ATO's PCG 2026/1 creates a risk-tiered first-year buffer, but it's not a grace period.** Super must be paid on the same cycle as wages/invoices and reach the fund within 7 business days. The Small Business Superannuation Clearing House closes permanently. The ATO will focus enforcement on "high risk" employers (existing SG shortfalls) and "medium risk" (not attempting compliance). Low-risk employers who genuinely try but have occasional late payments get breathing room in year one. Buffer expires 30 June 2027 with no extension indicated. Contractors paid "mainly for their labour" are captured as deemed employees for SG purposes. Your payroll system must be configured before your first hire's first payday.
+**Payday Super took effect 1 July 2026 — super must now be paid within 7 business days of each payday.** Replaces the old quarterly cycle. Super is now calculated on "qualifying earnings" (broader than old "ordinary time earnings"). Penalty regime is steep: up to 200% of unpaid super guarantee charge. The ATO's PCG 2026/1 creates a risk-tiered first-year buffer — low-risk employers who genuinely try but have occasional late payments get breathing room in year one. Buffer expires 30 June 2027 with no extension indicated. Small Business Superannuation Clearing House closed permanently. Contractors paid "mainly for their labour" are captured as deemed employees for SG purposes. Your payroll system must be configured before your first hire's first payday.
 
 **The first role to formalise should be "agent manager," not a traditional functional hire.** The emerging pattern (HBR, Feb 2026): the best first human hire for an AI-native solo operator orchestrates AI agents across business functions rather than executing within one. Domain expertise matters more than AI expertise — the best agent managers come from roles where they already understand the process being automated. The ratio emerging in practice is ~1 human to 3-8 AI agents. This reframes the existing "first hire should cover your weakest area" advice: the weakest area may not be a function (marketing, engineering) but the orchestration layer itself.
 
@@ -52,6 +52,10 @@ The highest-leverage thing a solo builder can do is delay hiring until it hurts,
 **The "one-person company" ceiling is trust-dependent work, not volume.** Solo founders using AI agent stacks are scaling to $1M+ ARR, but the binding constraint is not capacity — it's that AI cannot build the trust that closes large deals or retains enterprise clients. The first-hire trigger for AI-native founders is relationship density (~5-7 active retainer clients), not revenue milestones. This reframes when to hire: not when you're overworked, but when client relationships need a human you can't be.
 
 **Sham contracting enforcement intensified — the "real substance" test under the Closing Loopholes Act is fully operational.** The ATO and Fair Work Ombudsman issued a joint March 2026 enforcement statement. Courts now examine the practical reality of the relationship, not the contract's label. The old "not reckless" defence standard has been raised to requiring "reasonable belief." Per-pay-period penalties stack to six figures quickly. For anyone engaging contractors: document the genuine independence of the arrangement before labelling it.
+
+**Junior developer employment fell ~20% since 2024, concentrated in boilerplate coding and scripted testing.** Stanford HAI's 2026 AI Index confirms this is real displacement, not just a hiring slowdown. ML infrastructure, model evaluation, and AI safety roles remain in high demand and largely unfilled. For a solo operator considering hiring: junior dev talent is abundant and cheaper, but judgment-heavy, ambiguous-scope work is scarcer and more expensive. The arbitrage is hiring displaced juniors for the human-judgment tasks AI cannot fill, at rates below their pre-displacement market price.
+
+**Australia's gig economy is growing at 18.9% CAGR — fractional roles are shifting from temporary stopgap to permanent talent strategy.** 30% of skilled knowledge workers worldwide now operate as freelancers or independents. Fractional CFO market projected at US$17.9B by 2030. For a solo operator, the supply side of fractional/contract talent continues to deepen, making it easier to assemble project-based teams without employment obligations — though Payday Super and sham contracting obligations still apply if the engagement is deemed employment.
 
 ---
 

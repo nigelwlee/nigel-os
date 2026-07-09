@@ -1,7 +1,7 @@
 # Strategy Briefing
 
-> Last synthesized: 2026-06-25
-> Insight count: 8 (refreshed: 1 updated, +2 new insights)
+> Last synthesized: 2026-07-09
+> Insight count: 9 (refreshed: 2 updated, +1 new insight)
 
 ---
 
@@ -52,7 +52,7 @@ Every initiative needs one person who owns it completely. Committees diffuse acc
 
 **The operationalise-vs-experiment divide is widening.** The gap between founders who "experiment" with AI and those who have operationalised it into workflows is growing substantially. Winning strategy: master one tool deeply rather than shallow adoption of many. Validates the core thesis — do fewer things, faster, with more conviction.
 
-**Solo founder scale has shifted structurally — 63% of new Stripe Atlas C corps are now solo-founded (Q2 2026).** Up from 36.3% (mid-2025) and 23.7% (2019). AI-augmented solo founders reach $100K ARR at 2.5x the rate of non-AI founders. 52.3% of successful startup exits are solo-founded. Dario Amodei gives 70-80% probability of the first one-person billion-dollar company in 2026. The ceiling for what one operator can build is still rising — which changes what "ambitious" means for [[SOUL|Nigel's]] project portfolio.
+**Solo founder scale has shifted structurally — 36.3% of all new ventures are now solo-founded, but vertical AI tools are the separating factor.** Up from 23.7% (2019). AI-augmented solo founders reach $100K ARR at 2.5x the rate of non-AI founders. However, vertical micro-tools for legal, finance, healthcare consistently outperform generic AI wrappers. Most solopreneurs who launched AI features report revenue uplifts below 10% — the "billion-dollar one-person company" has not materialised yet (two-person AI-native companies have, but true solo has not). The ceiling is still rising, but the path runs through domain specificity, not generic AI assistants.
 
 **"Prompt vs. subscribe" is replacing "build vs. buy."** AI agents can now replicate core SaaS functionality in hours, and mid-market SaaS companies are seeing churn as customers replace $50-500/month tools with AI-built internal alternatives (Gartner, April 2026). For a solo builder, this cuts both ways: you can replace expensive tool subscriptions with prompted workflows (reducing burn), but your own products face the same substitution risk. Products must deliver value that's hard to replicate with a prompt — proprietary data, network effects, trust/compliance, or real-time integrations.
 
@@ -60,9 +60,11 @@ Every initiative needs one person who owns it completely. Committees diffuse acc
 
 **Community-Led Growth is replacing PLG as the dominant GTM motion for AI-native products.** When AI makes product features trivially replicable, community (shared identity, peer learning, exclusive access) becomes the defensible moat. Companies with strong communities grow revenue 2.1x faster, with 46% higher LTV and 32% lower CAC. Discord servers, Telegram groups, and paid communities are functioning as both distribution and retention. [[Projects/MY-MYST/_Briefing-my-myst|MY-MYST]] could build a "skeptic mystics" community as a flywheel for content and eventually [[Projects/MY-ASTR/_Briefing-my-astr|Celesto]]. Community isn't a marketing channel — it's the product's immune system against commoditisation.
 
-**Per-seat SaaS pricing is collapsing — outcome-based and usage-based pricing is replacing it.** Per-seat revenue share fell from 21% to 15% of SaaS in 12 months. Gartner predicts 40% of enterprise SaaS spend will shift to usage/agent/outcome-based pricing by 2030. Monday.com replaced 100 SDRs with AI agents (Jan 2026). HubSpot moved to $0.50/resolved conversation. The implication cuts both ways: you can replace expensive tool subscriptions with AI workflows (reducing burn), but your own products face the same substitution risk. Build for outcomes, not access.
+**Per-seat SaaS pricing is collapsing — but hybrid pricing (base + usage) is winning, not pure outcome-based.** 73% of SaaS companies are actively rebuilding pricing away from per-seat, but 37% are landing on a predictable base subscription plus variable consumption on top (Kyle Poyar's 2026 State of B2B Monetization). Pure outcome-based pricing (as Salesforce and Intercom attempted) has not won. Per-seat revenue share fell from 21% to 15% in 12 months. The implication: price your own products with a base + usage layer, and expect your own SaaS costs to become less predictable. Build for outcomes, not access.
 
 **Services are the new software — the next $1T company sells outcomes, not seats.** Sequoia's thesis (March 2026): six dollars are spent on services for every dollar on software. AI-native services companies combine human judgment with AI execution to deliver outcomes, not tools. Key distinction: "intelligence" tasks (clear right/wrong — coding, accounting) can be fully automated; "judgment" tasks (taste, professional intuition) require human talent plus AI leverage. For a solo builder: the highest-value products sit at the judgment layer, using AI to amplify domain expertise rather than replace it.
+
+**AI API costs dropped 60-80% YoY but total spend grew 320% — architecture choices now matter more than model selection for cost control.** Price floor is $0.25/M input tokens (Gemini Flash-Lite). Prompt caching is the single highest-leverage cost lever: Anthropic offers up to 90% reduction on cached inputs, batch APIs give a further 50% for non-realtime workloads. The implication: for an AI-native operator, caching and batching architecture decisions now dominate model selection in determining actual costs. Volume will eat any per-unit savings.
 
 ---
 

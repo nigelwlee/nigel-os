@@ -36,3 +36,4 @@ Each memory is a single file in this folder. Filename: `YYYY-MM-DD — Topic.md`
 - [[Memory/2026-06-11 — Knowledge Refresh Manual|2026-06-11 — Knowledge Refresh Manual]] — Manual refresh of all 8 Knowledge domains, 18 new insights added (status)
 - [[Memory/2026-06-18 — Knowledge Refresh AI + Creative|2026-06-18 — Knowledge Refresh AI + Creative]] — Caught up AI (+3) and Creative (+2) domains missed in June 11 refresh, cross-links verified (status)
 - [[Memory/2026-06-25 — Knowledge Refresh All Domains|2026-06-25 — Knowledge Refresh All Domains]] — All 8/8 domains refreshed, 20 new insights, 280 cross-links verified, cron still broken (status)
+- [[Memory/2026-07-09 — Knowledge Refresh All Domains|2026-07-09 — Knowledge Refresh All Domains]] — All 8/8 domains refreshed, 16 new insights + 14 updated, 287 cross-links verified, CGT consultation closes tomorrow (status)

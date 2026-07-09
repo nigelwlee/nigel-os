@@ -1,7 +1,7 @@
 # Engineering Briefing
 
-> Last synthesized: 2026-06-25
-> Insight count: 12 (refreshed: +3 new insights)
+> Last synthesized: 2026-07-09
+> Insight count: 15 (refreshed: +3 new insights)
 
 ---
 
@@ -60,6 +60,12 @@ Engineering literacy for a vibe coder is not about writing code — it is about 
 **Core AI replaces Core ML as Apple's on-device model framework.** Ships with Xcode 27 targeting iOS 20 and macOS 17. Unified CPU/GPU/Neural Engine API, AOT compilation, zero-copy data paths, and a curated collection of optimised open-source models (Qwen, Mistral, SAM3). The Foundation Models framework is now provider-agnostic — one Swift `LanguageModel` protocol routes to on-device, Private Cloud Compute, or third-party models (Claude, Gemini) without code changes. For [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]: the Phase 2 path is now definitively Apple's native framework, not manual Core ML conversion.
 
 **Agentjacking exploits AI coding agents at 85% success rate via untrusted external data.** Tenet Security disclosed (June 2026) a new attack class where fake Sentry error reports, API responses, or code comments with markdown injection hijack Claude Code, Cursor, and Codex. 2,388 organisations affected. AI coding agents treat tool outputs as trusted by default. Design agent workflows to sanitise external data before it enters context — never let untrusted sources shape agent actions.
+
+**VS Code 1.128 adds multi-chat Claude sessions and 1M-token context windows.** A single Claude session can now contain multiple peer chats — fork from an earlier turn, compare approaches, and send turns concurrently. Each chat keeps its own history and model selection. Combined with 1M-token context support for compatible models, this enables working across larger codebases without losing context. The multi-chat pattern is particularly useful for vibe coders running parallel exploration threads.
+
+**GitHub Copilot browser tools are GA — agents can now build, deploy, and visually verify changes.** As of July 1, Copilot agents in VS Code drive a real browser: navigate pages, click, type, read content, capture console errors, take screenshots. Agent-opened tabs run in isolated sessions with no cookie access. Enterprise admins get network domain allow/deny lists. This closes the agentic loop for web development — the agent builds, deploys, and visually verifies without human intervention.
+
+**Next.js 16.3 Turbopack cuts dev server memory by up to 90% and ships an experimental Rust React Compiler.** Memory eviction, persistent file-system build cache, and a Rust port of the React Compiler showing 20-50% compilation speed gains on large apps. Also introduces "Instant Navigations" using Cache Components with PPR. For any Next.js-based projects, the dev experience improvement is substantial.
 
 ---
 
