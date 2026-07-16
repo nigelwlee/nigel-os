@@ -16,7 +16,7 @@ Weekly knowledge refresh run via Claude Code on the web (cron still broken). All
 - **Sales-Marketing:** Stable. Creator economy trends reinforce existing insights.
 - **Creative:** Stable. EU AI Act Art 50 enforcement approaching August 2 — already captured.
 
-**Cross-links verified:** pending verification (agent running).
+**Cross-links verified:** 296 links, zero broken, zero orphans.
 
 **Total new insights this refresh:** 2 new, 3 updated. Running total across all domains: ~104 active insights.
 
