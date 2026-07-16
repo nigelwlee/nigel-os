@@ -1,7 +1,7 @@
 # Legal Briefing
 
-> Last synthesized: 2026-07-09
-> Insight count: 11 (refreshed: 3 updated, +2 new insights)
+> Last synthesized: 2026-07-16
+> Insight count: 11 (refreshed: 1 updated)
 > Jurisdiction focus: Australia (primary), US (secondary for tech/fundraising)
 
 > **Disclaimer:** This is a knowledge base for orientation and first-principles thinking, not legal advice. Always engage a qualified lawyer for material decisions.
@@ -71,7 +71,7 @@ Mandatory 12% superannuation on eligible earnings (rising to 12.5% from 1 July 2
 
 **Australia chose voluntary AI guidance over mandatory regulation — but enforcement is real.** The December 2025 National AI Plan confirmed reliance on existing laws + sector regulators + voluntary AI Safety Institute guidance, not a standalone AI Act. However, the OAIC launched its first-ever compliance sweep in January 2026 (~60 organisations). The regime is "soft regulation, hard enforcement." Don't mistake the absence of an AI Act for absence of liability.
 
-**The CGT reform bill passed both houses 25 June 2026 — IBCC startup carve-out consultation closes 10 July.** The 50% CGT discount is replaced by CPI indexation + 30% minimum tax from 1 July 2027. The Innovative Business CGT Concession (IBCC) preserves 50% discount for companies under $50M turnover, under 10 years old, with 5-year minimum hold — critically covers founders and ESS participants, not just external investors. The consultation is asking whether the 10-year age limit is right and what "principles-based innovation criteria" should look like — a submission could shape whether a software solo-builder's company qualifies. Small business CGT threshold raised from $2M to $10M. Equity structuring decisions (issuing shares, vesting, SAFE conversions) should factor in the carve-out criteria. See [[Knowledge/Finance/_Briefing-finance|Finance Briefing]].
+**The CGT reform bill is law — IBCC startup carve-out consultation closed 10 July, legislation pending.** The 50% CGT discount is replaced by CPI indexation + 30% minimum tax from 1 July 2027. The Innovative Business CGT Concession (IBCC) preserves 50% discount for companies under $50M turnover, under 10 years old, with 5-year minimum hold — critically covers founders and ESS participants, not just external investors. A lifetime cap on the concession will apply (quantum TBD in legislation). Biotech/medtech may get extended 15-year age limit. Implementation via subsequent tax reform tranche — timing dependent on parliamentary schedule. Small business CGT threshold raised from $2M to $10M. Equity structuring decisions (issuing shares, vesting, SAFE conversions) should factor in the carve-out criteria. See [[Knowledge/Finance/_Briefing-finance|Finance Briefing]].
 
 **The Digital Assets Framework Act received Royal Assent (8 April 2026) — crypto platforms now need AFSLs by April 2027.** Two new regulated product categories: Digital Asset Platforms (DAPs) and Tokenised Custody Platforms (TCPs), subject to client asset safeguarding, disclosure, dispute resolution, and compensation obligations. ASIC's class no-action position (INFO 225) expires June 2026. Directly relevant to [[Projects/SD-OPAL/_Briefing-sd-opal|SD-OPAL]] and any iGaming clients with crypto payment rails — the licensing clock is ticking.
 

@@ -1,7 +1,7 @@
 # People Briefing
 
-> Last synthesized: 2026-07-09
-> Insight count: 12 (refreshed: 1 updated, +2 new insights)
+> Last synthesized: 2026-07-16
+> Insight count: 12 (refreshed: 1 updated)
 
 ---
 
@@ -47,7 +47,7 @@ The highest-leverage thing a solo builder can do is delay hiring until it hurts,
 
 **The first role to formalise should be "agent manager," not a traditional functional hire.** The emerging pattern (HBR, Feb 2026): the best first human hire for an AI-native solo operator orchestrates AI agents across business functions rather than executing within one. Domain expertise matters more than AI expertise — the best agent managers come from roles where they already understand the process being automated. The ratio emerging in practice is ~1 human to 3-8 AI agents. This reframes the existing "first hire should cover your weakest area" advice: the weakest area may not be a function (marketing, engineering) but the orchestration layer itself.
 
-**Australia's incoming non-compete ban (2027) makes hiring from competitors dramatically easier.** Non-compete clauses will be prohibited for workers earning below ~$183,100/year. For [[Projects/SD-BLUF/_Briefing-sd-bluf|Bluff]] specifically, VIP managers and relationship-heavy roles often locked behind non-competes will be freely available. Start building relationships with talent at competitor operations now — the constraint disappears in ~6 months. Conversely, your own VIP team becomes more poachable, making retention strategy (culture, equity, autonomy) more important than ever.
+**Australia's incoming non-compete ban (2027) makes hiring from competitors dramatically easier.** Non-compete clauses will be prohibited for workers earning below the high-income threshold ($190,100 for FY2026-27, adjusted annually). For [[Projects/SD-BLUF/_Briefing-sd-bluf|Bluff]] specifically, VIP managers and relationship-heavy roles often locked behind non-competes will be freely available. Start building relationships with talent at competitor operations now — the constraint disappears in ~6 months. Conversely, your own VIP team becomes more poachable, making retention strategy (culture, equity, autonomy) more important than ever.
 
 **The "one-person company" ceiling is trust-dependent work, not volume.** Solo founders using AI agent stacks are scaling to $1M+ ARR, but the binding constraint is not capacity — it's that AI cannot build the trust that closes large deals or retains enterprise clients. The first-hire trigger for AI-native founders is relationship density (~5-7 active retainer clients), not revenue milestones. This reframes when to hire: not when you're overworked, but when client relationships need a human you can't be.
 

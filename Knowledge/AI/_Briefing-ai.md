@@ -1,7 +1,7 @@
 # AI Briefing
 
-> Last synthesized: 2026-07-09
-> Insight count: 16 (refreshed: +3 new insights, 0 removed)
+> Last synthesized: 2026-07-16
+> Insight count: 17 (refreshed: +1 new insight, 0 removed)
 
 ---
 
@@ -77,6 +77,8 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 
 **MCP's primary security threat has shifted from prompt injection to supply-chain attacks.** With 200+ MCP server implementations and all 7 major agent frameworks shipping native MCP support, the attack vector is now poisoned MCP configuration files, malicious marketplace skills, and exposed server endpoints. Treat community MCP servers with the same scrutiny as npm dependencies. See also [[Knowledge/Engineering/_Briefing-engineering|Engineering Briefing]] on agentjacking.
 
+**GPT-5.6's three-tier model family (Sol/Terra/Luna) resets competitive pricing — every tier ships 1M context.** Launched July 9: Sol ($5/$30 per M tokens) benchmarks above Fable 5 on agentic workflows and is 54% more token-efficient on coding; Terra ($2.50/$15) matches GPT-5.5 at half the cost; Luna ($1/$6) is the cheapest frontier-adjacent model available. All three share 1M-token context and 128K max output. This collapses the price/capability gap between tiers — Terra at mid-tier pricing delivers what was flagship-only performance six months ago. For model routing: Luna for classification/extraction, Terra for most tasks, Sol only when you need maximum reasoning. Grok 4.5 ($2/$6) also launched July 8 with a coding-focused CLI (Grok Build). The frontier is now a five-way race: Anthropic, OpenAI, Google, xAI, and open-weight (DeepSeek, Qwen).
+
 ---
 
 ## Open Questions / Active Debates
@@ -87,6 +89,7 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 - ~~What is the right architecture for a personal OS agent that reads from a structured knowledge vault?~~ → Answer converging: hybrid retrieval + long-context (see Active Insights). Structured vault with summaries as index layer, lightweight selection of relevant files, then load into long context window.
 - ~~How should a solo builder budget and meter Agent SDK credits vs. subscription usage?~~ → Anthropic paused the June 15 billing separation. Direction is clear (usage-based) but timing uncertain. Budget as variable cost regardless.
 - What is the right migration path from manual Core ML model conversion to Apple's Core AI framework for existing on-device LLM projects?
+- How does GPT-5.6 Sol's agentic performance compare to Opus 4.8 in real-world coding workflows, and does the 54% token efficiency claim hold for complex multi-file tasks?
 
 ---
 

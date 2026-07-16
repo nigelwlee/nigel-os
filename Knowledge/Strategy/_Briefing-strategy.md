@@ -1,7 +1,7 @@
 # Strategy Briefing
 
-> Last synthesized: 2026-07-09
-> Insight count: 9 (refreshed: 2 updated, +1 new insight)
+> Last synthesized: 2026-07-16
+> Insight count: 9 (reviewed, no changes — domain stable this week)
 
 ---
 

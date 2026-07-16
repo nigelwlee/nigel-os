@@ -1,7 +1,7 @@
 # Finance Briefing
 
-> Last synthesized: 2026-07-09
-> Insight count: 12 (refreshed: 3 updated, +1 new insight)
+> Last synthesized: 2026-07-16
+> Insight count: 13 (refreshed: 1 updated, +1 new insight)
 
 ---
 
@@ -49,7 +49,7 @@ Finance for a solo builder is not about financial engineering, complex capital s
 
 **Fee structure negotiation: 0% management + performance-only aligns incentives.** The Opal counter-terms (0% mgmt / 15% perf / hurdle at sUSDe + 2%) ensure the operator only earns when the strategy outperforms. Three-way split (10/15/75) keeps user share dominant, which is the right positioning for a yield product.
 
-**The CGT reform bill passed both houses on 25 June 2026 — the 50% discount is gone from 1 July 2027.** No longer a proposal; this is law (awaiting Royal Assent). The 50% CGT discount is replaced by CPI cost-base indexation plus a 30% minimum tax on net capital gains. The Innovative Business CGT Concession (IBCC) consultation closes 10 July 2026: preserves 50% discount for companies under $50M turnover, under 10 years old, with 5-year minimum hold — and critically covers founders and ESS participants, not just external investors. The consultation is asking whether the 10-year age limit is right and what "principles-based innovation criteria" should look like. Small business CGT threshold raised from $2M to $10M. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]]: crystallise appreciated crypto positions before 1 July 2027 under the old discount. See [[Knowledge/Legal/_Briefing-legal|Legal Briefing]].
+**The CGT reform bill passed both houses on 25 June 2026 — the 50% discount is gone from 1 July 2027.** This is law (Royal Assent received). The 50% CGT discount is replaced by CPI cost-base indexation plus a 30% minimum tax on net capital gains. The Innovative Business CGT Concession (IBCC) consultation closed 10 July 2026: preserves 50% discount for companies under $50M turnover, under 10 years old, with 5-year minimum hold — critically covers founders and ESS participants, not just external investors. A lifetime cap on the concession will apply (quantum TBD). Legislation pending in a subsequent tax reform tranche. Small business CGT threshold raised from $2M to $10M. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]]: crystallise appreciated crypto positions before 1 July 2027 under the old discount. See [[Knowledge/Legal/_Briefing-legal|Legal Briefing]].
 
 **Loss carry-back returns to Australia — but only for companies.** From FY2026-27, companies with turnover under $1B can carry back tax losses and claim a cash refund against tax paid in the prior two years (limited by franking account balance). This is a new structural reason to favour a Pty Ltd over sole trader: earn consulting income in one year, invest heavily in product R&D the next, and get a cash refund of the prior year's tax. The ATO effectively becomes a co-investor in product experiments — de-risking the "invest consulting profits into product R&D" strategy. Sole traders and trusts are excluded.
 
@@ -59,7 +59,9 @@ Finance for a solo builder is not about financial engineering, complex capital s
 
 **ASIC extended the crypto no-action deadline to 30 September 2026 — Digital Assets Framework Act licensing clock keeps ticking.** The DAF Act (Royal Assent April 8, 2026) requires all digital asset platform operators to hold an AFSL by April 2027. ASIC has received ~30 licence applications. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]]: extra breathing room but the regulatory infrastructure is now real.
 
-**Australia's crypto Travel Rule went live July 1 — zero-threshold identity checks on all exchange withdrawals.** AUSTRAC registration for expanded VASP categories closes July 29. Any platform touching crypto (including NFT marketplaces or DeFi on-ramps) now needs AUSTRAC registration, a compliance officer, and systems to transmit originator/beneficiary data on every transfer. Operating without registration after July 29 is illegal — a hard compliance cliff. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]] and [[Projects/RB-NETW/_Briefing-rb-netw|RB-NETW]]: immediate compliance obligation. See [[Knowledge/Legal/_Briefing-legal|Legal Briefing]].
+**Australia's crypto Travel Rule went live July 1 — zero-threshold identity checks on all exchange withdrawals.** AUSTRAC registration for expanded VASP categories closes **July 29** (13 days). Any platform touching crypto (including NFT marketplaces or DeFi on-ramps) now needs AUSTRAC registration, a compliance officer, and systems to transmit originator/beneficiary data on every transfer. Operating without registration after July 29 is illegal — a hard compliance cliff. VASPs who applied before the deadline may continue operating while AUSTRAC processes the application. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]] and [[Projects/RB-NETW/_Briefing-rb-netw|RB-NETW]]: immediate compliance obligation. See [[Knowledge/Legal/_Briefing-legal|Legal Briefing]].
+
+**Startup loss refundability (from FY2028-29) creates a direct cash-back mechanism for new companies — distinct from loss carry-back.** Companies under $10M turnover in their first two years of operation can convert tax losses into a refundable tax offset, capped at the value of FBT and PAYG withholding paid on Australian employee wages in the loss year. Unlike loss carry-back (which requires prior taxable income to offset against), this works even for companies with zero prior tax paid. Up to 25,000 companies benefit annually. The structural implication: hiring employees (not just contractors) in your first two years generates PAYG withholding that sets the refund cap — a new financial reason to formalise employment early. Combined with the R&D Tax Incentive, this creates meaningful non-dilutive funding for early-stage companies. See also [[Knowledge/People/_Briefing-people|People Briefing]].
 
 ---
 

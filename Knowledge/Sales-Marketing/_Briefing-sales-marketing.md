@@ -1,7 +1,7 @@
 # Sales & Marketing Briefing
 
-> Last synthesized: 2026-07-09
-> Insight count: 14 (refreshed: 1 updated, +3 new insights)
+> Last synthesized: 2026-07-16
+> Insight count: 14 (reviewed, no changes — domain stable this week)
 
 ---
 

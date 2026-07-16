@@ -1,7 +1,7 @@
 # Engineering Briefing
 
-> Last synthesized: 2026-07-09
-> Insight count: 15 (refreshed: +3 new insights)
+> Last synthesized: 2026-07-16
+> Insight count: 15 (reviewed, no changes — domain stable this week)
 
 ---
 
