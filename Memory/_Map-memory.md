@@ -38,3 +38,4 @@ Each memory is a single file in this folder. Filename: `YYYY-MM-DD — Topic.md`
 - [[Memory/2026-06-25 — Knowledge Refresh All Domains|2026-06-25 — Knowledge Refresh All Domains]] — All 8/8 domains refreshed, 20 new insights, 280 cross-links verified, cron still broken (status)
 - [[Memory/2026-07-09 — Knowledge Refresh All Domains|2026-07-09 — Knowledge Refresh All Domains]] — All 8/8 domains refreshed, 16 new insights + 14 updated, 287 cross-links verified, CGT consultation closes tomorrow (status)
 - [[Memory/2026-07-16 — Knowledge Refresh All Domains|2026-07-16 — Knowledge Refresh All Domains]] — All 8/8 domains reviewed, 2 new + 3 updated, AUSTRAC deadline 13 days, IBCC consultation closed (status)
+- [[Memory/2026-07-23 — Knowledge Refresh All Domains|2026-07-23 — Knowledge Refresh All Domains]] — All 8/8 domains reviewed, 4 new + 3 updated, AUSTRAC deadline 6 days, Meta enters frontier race, Office of AI established (status)

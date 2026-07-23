@@ -1,7 +1,7 @@
 # Engineering Briefing
 
-> Last synthesized: 2026-07-16
-> Insight count: 15 (reviewed, no changes — domain stable this week)
+> Last synthesized: 2026-07-23
+> Insight count: 15 (reviewed, 1 updated — MCP final spec confirmed July 28)
 
 ---
 
@@ -55,7 +55,7 @@ Engineering literacy for a vibe coder is not about writing code — it is about 
 
 **Design for AI-maintainability, not just human-readability.** AI generates code that passes tests and works, but structures it in ways future AI sessions struggle to modify without regressions. Each session optimises locally without maintaining architectural invariants. The fix: maintain a living architecture document (CLAUDE.md) at the repo root describing key invariants, module boundaries, and conventions. Claude Code's "Dreaming" feature (research preview, May 2026) automates part of this — it reads past session transcripts, identifies recurring patterns, and writes structured memory updates. Harvey reported ~6x improvement in agent task-completion rates after enabling it.
 
-**MCP 2.0 goes stateless — remote servers sit behind plain load balancers without sticky sessions.** The MCP specification release candidate (locked May 21, final July 28) removes the session handshake and `Mcp-Session-Id` header entirely. 29,000+ MCP servers now indexed in independent registries. Governance sits with the Agentic AI Foundation under the Linux Foundation. For anyone building agent tool integrations, the infrastructure just got dramatically simpler.
+**MCP 2.0 goes stateless — final specification publishes July 28, with a 12-month deprecation window for legacy features.** The MCP specification (RC locked May 21) removes the session handshake and `Mcp-Session-Id` header entirely. Six SEPs underpin the stateless architecture: multi-round-trip requests, standardised HTTP headers, universal `_meta` object, formalised MCP apps, async tasks, and first-class OAuth. 29,000+ MCP servers now indexed in independent registries. Governance sits with the Agentic AI Foundation under the Linux Foundation. Tier 1 SDKs expected to ship support within the ten-week validation window. For anyone building agent tool integrations: the infrastructure just got dramatically simpler, but plan for the 12-month legacy deprecation timeline.
 
 **Core AI replaces Core ML as Apple's on-device model framework.** Ships with Xcode 27 targeting iOS 20 and macOS 17. Unified CPU/GPU/Neural Engine API, AOT compilation, zero-copy data paths, and a curated collection of optimised open-source models (Qwen, Mistral, SAM3). The Foundation Models framework is now provider-agnostic — one Swift `LanguageModel` protocol routes to on-device, Private Cloud Compute, or third-party models (Claude, Gemini) without code changes. For [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]: the Phase 2 path is now definitively Apple's native framework, not manual Core ML conversion.
 

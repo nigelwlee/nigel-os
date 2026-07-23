@@ -1,7 +1,7 @@
 # Creative Briefing
 
-> Last synthesized: 2026-07-16
-> Insight count: 13 (reviewed, no changes — EU AI Act Art 50 enforcement August 2 approaching)
+> Last synthesized: 2026-07-23
+> Insight count: 13 (reviewed, no changes — EU AI Act Art 50 enforcement August 2 in 10 days)
 
 ---
 

@@ -1,7 +1,7 @@
 # AI Briefing
 
-> Last synthesized: 2026-07-16
-> Insight count: 17 (refreshed: +1 new insight, 0 removed)
+> Last synthesized: 2026-07-23
+> Insight count: 19 (refreshed: +2 new insights, 1 updated)
 
 ---
 
@@ -77,7 +77,11 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 
 **MCP's primary security threat has shifted from prompt injection to supply-chain attacks.** With 200+ MCP server implementations and all 7 major agent frameworks shipping native MCP support, the attack vector is now poisoned MCP configuration files, malicious marketplace skills, and exposed server endpoints. Treat community MCP servers with the same scrutiny as npm dependencies. See also [[Knowledge/Engineering/_Briefing-engineering|Engineering Briefing]] on agentjacking.
 
-**GPT-5.6's three-tier model family (Sol/Terra/Luna) resets competitive pricing — every tier ships 1M context.** Launched July 9: Sol ($5/$30 per M tokens) benchmarks above Fable 5 on agentic workflows and is 54% more token-efficient on coding; Terra ($2.50/$15) matches GPT-5.5 at half the cost; Luna ($1/$6) is the cheapest frontier-adjacent model available. All three share 1M-token context and 128K max output. This collapses the price/capability gap between tiers — Terra at mid-tier pricing delivers what was flagship-only performance six months ago. For model routing: Luna for classification/extraction, Terra for most tasks, Sol only when you need maximum reasoning. Grok 4.5 ($2/$6) also launched July 8 with a coding-focused CLI (Grok Build). The frontier is now a five-way race: Anthropic, OpenAI, Google, xAI, and open-weight (DeepSeek, Qwen).
+**GPT-5.6's three-tier model family (Sol/Terra/Luna) resets competitive pricing — every tier ships 1M context.** Launched July 9: Sol ($5/$30 per M tokens) benchmarks above Fable 5 on agentic workflows and is 54% more token-efficient on coding; Terra ($2.50/$15) matches GPT-5.5 at half the cost; Luna ($1/$6) is the cheapest frontier-adjacent model available. All three share 1M-token context and 128K max output. This collapses the price/capability gap between tiers — Terra at mid-tier pricing delivers what was flagship-only performance six months ago. For model routing: Luna for classification/extraction, Terra for most tasks, Sol only when you need maximum reasoning. Grok 4.5 ($2/$6) also launched July 8 with a coding-focused CLI (Grok Build). Meta launched Muse Spark 1.1 the same week — multimodal, 1M context, #1 on MCP Atlas and JobBench agentic benchmarks. The frontier is now a six-way race: Anthropic, OpenAI, Google, xAI, Meta, and open-weight (DeepSeek, Qwen).
+
+**Meta's Muse Spark 1.1 breaks Meta into the frontier agentic tier — the first serious open-lab competitor to Opus and Sol.** Released July 9 by Meta Superintelligence Labs. Multimodal input (text, images, video, audio, PDF), 1M-token context, text output. Tops MCP Atlas (88.1), JobBench (54.7), Humanity's Last Exam (62.1), and FinanceBench (57.2). Ranks #3 out of 119 models on aggregate agentic benchmarks. Meta's previous models were strong but lacked agentic tool-use depth — Muse Spark 1.1 closes that gap. For model routing: evaluate for agentic workflows where tool orchestration is the bottleneck.
+
+**Gemini 3.6 Flash resets mid-tier price/performance — 17% fewer output tokens and a 12-point coding jump over 3.5 Flash.** Released July 21. $1.50/$7.50 per M tokens. DeepSWE coding score jumped from 37% to 49%. Computer Use at 83% (up from 78.4%). 1M context, 64K max output, native multimodal input. Google also dropped 3.5 Flash-Lite (even cheaper) and 3.5 Flash Cyber (security-focused vulnerability scanning). Now available in GitHub Copilot. For model routing: Gemini 3.6 Flash is the strongest value play for mid-tier coding and computer-use tasks — cheaper than GPT-5.6 Terra ($2.50/$15) with competitive performance. Google teased Gemini 4 at the same event.
 
 ---
 
@@ -90,6 +94,8 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 - ~~How should a solo builder budget and meter Agent SDK credits vs. subscription usage?~~ → Anthropic paused the June 15 billing separation. Direction is clear (usage-based) but timing uncertain. Budget as variable cost regardless.
 - What is the right migration path from manual Core ML model conversion to Apple's Core AI framework for existing on-device LLM projects?
 - How does GPT-5.6 Sol's agentic performance compare to Opus 4.8 in real-world coding workflows, and does the 54% token efficiency claim hold for complex multi-file tasks?
+- With Muse Spark 1.1 topping agentic benchmarks, does Meta's model actually deliver in production coding/tool-use workflows, or are the benchmark scores misleading given it's text-output-only?
+- Google teased Gemini 4 at the 3.6 Flash launch (July 21). If Gemini 4 is a full-generation leap, does it close the gap with Opus 4.8 and Sol on complex reasoning?
 
 ---
 

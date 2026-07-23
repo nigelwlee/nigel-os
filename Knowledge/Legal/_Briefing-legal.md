@@ -1,7 +1,7 @@
 # Legal Briefing
 
-> Last synthesized: 2026-07-16
-> Insight count: 11 (refreshed: 1 updated)
+> Last synthesized: 2026-07-23
+> Insight count: 12 (refreshed: +1 new, 1 updated)
 > Jurisdiction focus: Australia (primary), US (secondary for tech/fundraising)
 
 > **Disclaimer:** This is a knowledge base for orientation and first-principles thinking, not legal advice. Always engage a qualified lawyer for material decisions.
@@ -69,7 +69,7 @@ Mandatory 12% superannuation on eligible earnings (rising to 12.5% from 1 July 2
 
 **Automated decision-making transparency obligations take effect 10 December 2026.** Any APP entity using personal information in automated or semi-automated decision-making with significant individual impact must describe the data used and decision types in its privacy policy. Broadly captures AI-enabled systems. Relevant to any project using AI for personalisation or recommendations (e.g., [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]'s LLM-powered interactions).
 
-**Australia chose voluntary AI guidance over mandatory regulation — but enforcement is real.** The December 2025 National AI Plan confirmed reliance on existing laws + sector regulators + voluntary AI Safety Institute guidance, not a standalone AI Act. However, the OAIC launched its first-ever compliance sweep in January 2026 (~60 organisations). The regime is "soft regulation, hard enforcement." Don't mistake the absence of an AI Act for absence of liability.
+**Australia is shifting from voluntary AI guidance to legislated standards — Office of AI established July 15 under PM&C.** The December 2025 National AI Plan originally confirmed reliance on existing laws + voluntary guidance, but on July 15, PM Albanese announced an Office of AI within the Department of PM&C to design national AI standards for legislation early 2027. Key policy positions: data centre operators must underwrite their own power supply and minimise water usage; copyright holders retain control over their work (government opposes loosening copyright for AI training). The OAIC's first compliance sweep (January 2026, ~60 organisations) continues. The trajectory is now "legislated standards, existing enforcement" — a material step beyond the prior "voluntary guidance, hard enforcement" posture. Plan for compliance obligations to crystallise in 2027.
 
 **The CGT reform bill is law — IBCC startup carve-out consultation closed 10 July, legislation pending.** The 50% CGT discount is replaced by CPI indexation + 30% minimum tax from 1 July 2027. The Innovative Business CGT Concession (IBCC) preserves 50% discount for companies under $50M turnover, under 10 years old, with 5-year minimum hold — critically covers founders and ESS participants, not just external investors. A lifetime cap on the concession will apply (quantum TBD in legislation). Biotech/medtech may get extended 15-year age limit. Implementation via subsequent tax reform tranche — timing dependent on parliamentary schedule. Small business CGT threshold raised from $2M to $10M. Equity structuring decisions (issuing shares, vesting, SAFE conversions) should factor in the carve-out criteria. See [[Knowledge/Finance/_Briefing-finance|Finance Briefing]].
 
@@ -84,6 +84,8 @@ Mandatory 12% superannuation on eligible earnings (rising to 12.5% from 1 July 2
 **Trump's June 2 AI Executive Order locks in "ship first, no permission needed" at federal level.** Explicitly prohibits mandatory federal licensing or pre-clearance for AI model deployment, while creating a voluntary pre-release review framework. A DOJ task force will challenge state AI laws that burden interstate commerce (child-safety state laws are exempt from preemption). 109 state AI laws enacted, but the federal posture is clear: no gatekeeping for indie builders. This breathing room is administration-dependent.
 
 **Bipartisan AI Labeling Act (S.4915) signals content provenance labeling converging across jurisdictions.** Introduced June 25, would require all generative AI providers to attach visible and machine-readable provenance labels to AI-generated images, audio, and video, plus disclose chatbot identity. Aligns with EU AI Act Article 50 transparency obligations (see [[Knowledge/Creative/_Briefing-creative|Creative Briefing]]). Solo builders shipping generative AI tools should plan for labeling infrastructure now rather than retrofitting later.
+
+**Competition and Consumer Amendment (Unfair Trading Practices) Act 2026 received Royal Assent July 6 — commences July 2027.** Introduces a prohibition on unfair trading practices, extending beyond existing misleading/deceptive conduct provisions. While commencement is a year away, this broadens the ACCC's enforcement toolkit. For any product making AI-related claims to Australian consumers: claims about AI capabilities that are technically accurate but practically misleading may now attract enforcement under the broader "unfair" standard, not just the "misleading or deceptive" threshold.
 
 ---
 

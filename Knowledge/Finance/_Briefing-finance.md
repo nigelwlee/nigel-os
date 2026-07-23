@@ -1,7 +1,7 @@
 # Finance Briefing
 
-> Last synthesized: 2026-07-16
-> Insight count: 13 (refreshed: 1 updated, +1 new insight)
+> Last synthesized: 2026-07-23
+> Insight count: 14 (refreshed: +1 new insight)
 
 ---
 
@@ -56,6 +56,8 @@ Finance for a solo builder is not about financial engineering, complex capital s
 **AI app gross margins are structurally lower than SaaS — but inference cost engineering closes the gap.** AI-first B2B SaaS runs 50-65% gross margins vs. 70-90% traditional, with inference averaging 23% of revenue at scaling stage (ICONIQ: 84% of scaling AI companies see 6+ points of margin erosion from AI infra). The inference cost engineering playbook (semantic caching, model routing, quantisation, async batching) shows 50-90% reductions in API spend. Recommended sequencing: semantic caching first (up to 68% API call reduction), then model routing for cache misses. For pricing: set substantially higher than traditional SaaS benchmarks. Highest-margin plays are vertical AI SaaS (70-90%) and AI-augmented services charged at human rates.
 
 **The R&D Tax Incentive is getting overhauled — minimum spend triples from $20K to $50K and "supporting activities" are cut entirely.** Effective 1 July 2028: only core experimental activities qualify (literature reviews, admin, equipment maintenance excluded). Refundable offset rate rises from 18.5% to 23%, turnover cap raised from $20M to $50M, expenditure cap raised to $200M. The $50K minimum means a solo operator doing modest R&D may no longer qualify at all — but qualifying startups benefit materially from the higher rates.
+
+**The $20,000 instant asset write-off is now permanent from 1 July 2026 — removing annual uncertainty for small business equipment purchases.** Previously extended year-by-year (and frequently in doubt until the last moment), the Budget 2026-27 made the $20K threshold permanent for businesses under $10M turnover. Also: the 16% personal tax bracket dropped to 15% (saving up to $268/year), cents-per-km vehicle deduction rose to 91c, and a new $1,000 instant deduction for work-related expenses was introduced. For a solo builder: the permanent write-off removes the "buy before June 30 in case they don't renew it" timing game. Equipment and tool purchases can be planned on their own merits year-round.
 
 **ASIC extended the crypto no-action deadline to 30 September 2026 — Digital Assets Framework Act licensing clock keeps ticking.** The DAF Act (Royal Assent April 8, 2026) requires all digital asset platform operators to hold an AFSL by April 2027. ASIC has received ~30 licence applications. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]]: extra breathing room but the regulatory infrastructure is now real.
 
