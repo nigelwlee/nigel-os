@@ -1,7 +1,7 @@
 # Legal Briefing
 
-> Last synthesized: 2026-07-23
-> Insight count: 12 (refreshed: +1 new, 1 updated)
+> Last synthesized: 2026-07-30
+> Insight count: 12 (reviewed, 2 updated — AUSTRAC deadline closed, EU Omnibus entered into force)
 > Jurisdiction focus: Australia (primary), US (secondary for tech/fundraising)
 
 > **Disclaimer:** This is a knowledge base for orientation and first-principles thinking, not legal advice. Always engage a qualified lawyer for material decisions.
@@ -69,7 +69,7 @@ Mandatory 12% superannuation on eligible earnings (rising to 12.5% from 1 July 2
 
 **Automated decision-making transparency obligations take effect 10 December 2026.** Any APP entity using personal information in automated or semi-automated decision-making with significant individual impact must describe the data used and decision types in its privacy policy. Broadly captures AI-enabled systems. Relevant to any project using AI for personalisation or recommendations (e.g., [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]'s LLM-powered interactions).
 
-**Australia is shifting from voluntary AI guidance to legislated standards — Office of AI established July 15 under PM&C.** The December 2025 National AI Plan originally confirmed reliance on existing laws + voluntary guidance, but on July 15, PM Albanese announced an Office of AI within the Department of PM&C to design national AI standards for legislation early 2027. Key policy positions: data centre operators must underwrite their own power supply and minimise water usage; copyright holders retain control over their work (government opposes loosening copyright for AI training). The OAIC's first compliance sweep (January 2026, ~60 organisations) continues. The trajectory is now "legislated standards, existing enforcement" — a material step beyond the prior "voluntary guidance, hard enforcement" posture. Plan for compliance obligations to crystallise in 2027.
+**Australia is shifting from voluntary AI guidance to legislated standards — Office of AI established July 15 under PM&C, National Cabinet consideration expected August 2026.** The December 2025 National AI Plan originally confirmed reliance on existing laws + voluntary guidance, but on July 15, PM Albanese announced an Office of AI within the Department of PM&C to design national AI standards for legislation early 2027. Key policy positions: data centre operators must underwrite their own power supply and minimise water usage; copyright holders retain control over their work (government opposes loosening copyright for AI training). The OAIC's first compliance sweep (January 2026, ~60 organisations) continues. The trajectory is now "legislated standards, existing enforcement" — a material step beyond the prior "voluntary guidance, hard enforcement" posture. Plan for compliance obligations to crystallise in 2027.
 
 **The CGT reform bill is law — IBCC startup carve-out consultation closed 10 July, legislation pending.** The 50% CGT discount is replaced by CPI indexation + 30% minimum tax from 1 July 2027. The Innovative Business CGT Concession (IBCC) preserves 50% discount for companies under $50M turnover, under 10 years old, with 5-year minimum hold — critically covers founders and ESS participants, not just external investors. A lifetime cap on the concession will apply (quantum TBD in legislation). Biotech/medtech may get extended 15-year age limit. Implementation via subsequent tax reform tranche — timing dependent on parliamentary schedule. Small business CGT threshold raised from $2M to $10M. Equity structuring decisions (issuing shares, vesting, SAFE conversions) should factor in the carve-out criteria. See [[Knowledge/Finance/_Briefing-finance|Finance Briefing]].
 

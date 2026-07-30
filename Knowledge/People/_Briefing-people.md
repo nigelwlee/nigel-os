@@ -1,6 +1,6 @@
 # People Briefing
 
-> Last synthesized: 2026-07-23
+> Last synthesized: 2026-07-30
 > Insight count: 12 (reviewed, no changes — domain stable)
 
 ---

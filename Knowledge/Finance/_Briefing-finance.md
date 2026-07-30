@@ -1,7 +1,7 @@
 # Finance Briefing
 
-> Last synthesized: 2026-07-23
-> Insight count: 14 (refreshed: +1 new insight)
+> Last synthesized: 2026-07-30
+> Insight count: 14 (reviewed, 1 updated — AUSTRAC deadline closed July 29)
 
 ---
 
@@ -61,7 +61,7 @@ Finance for a solo builder is not about financial engineering, complex capital s
 
 **ASIC extended the crypto no-action deadline to 30 September 2026 — Digital Assets Framework Act licensing clock keeps ticking.** The DAF Act (Royal Assent April 8, 2026) requires all digital asset platform operators to hold an AFSL by April 2027. ASIC has received ~30 licence applications. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]]: extra breathing room but the regulatory infrastructure is now real.
 
-**Australia's crypto Travel Rule went live July 1 — zero-threshold identity checks on all exchange withdrawals.** AUSTRAC registration for expanded VASP categories closes **July 29** (13 days). Any platform touching crypto (including NFT marketplaces or DeFi on-ramps) now needs AUSTRAC registration, a compliance officer, and systems to transmit originator/beneficiary data on every transfer. Operating without registration after July 29 is illegal — a hard compliance cliff. VASPs who applied before the deadline may continue operating while AUSTRAC processes the application. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]] and [[Projects/RB-NETW/_Briefing-rb-netw|RB-NETW]]: immediate compliance obligation. See [[Knowledge/Legal/_Briefing-legal|Legal Briefing]].
+**Australia's crypto Travel Rule went live July 1 — AUSTRAC VASP registration deadline closed July 29, daily penalties now running.** The deadline was not extended. Non-compliant entities face up to A$18,780/day for corporations, A$3,756/day for individuals. A separate but simultaneous obligation — notifying AUSTRAC of the appointed compliance officer — also fell on July 29. Entities that applied before the deadline can continue operating while AUSTRAC processes their registration. The dual AUSTRAC/ASIC compliance burden is real: crypto businesses now face AML/CTF obligations from July 1 under AUSTRAC and must separately have AFS licence applications lodged with ASIC by September 30. For [[Projects/SD-OPAL/_Briefing-sd-opal|Opal]] and [[Projects/RB-NETW/_Briefing-rb-netw|RB-NETW]]: compliance obligation status needs confirmation. See [[Knowledge/Legal/_Briefing-legal|Legal Briefing]].
 
 **Startup loss refundability (from FY2028-29) creates a direct cash-back mechanism for new companies — distinct from loss carry-back.** Companies under $10M turnover in their first two years of operation can convert tax losses into a refundable tax offset, capped at the value of FBT and PAYG withholding paid on Australian employee wages in the loss year. Unlike loss carry-back (which requires prior taxable income to offset against), this works even for companies with zero prior tax paid. Up to 25,000 companies benefit annually. The structural implication: hiring employees (not just contractors) in your first two years generates PAYG withholding that sets the refund cap — a new financial reason to formalise employment early. Combined with the R&D Tax Incentive, this creates meaningful non-dilutive funding for early-stage companies. See also [[Knowledge/People/_Briefing-people|People Briefing]].
 

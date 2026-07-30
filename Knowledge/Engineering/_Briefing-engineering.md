@@ -1,7 +1,7 @@
 # Engineering Briefing
 
-> Last synthesized: 2026-07-23
-> Insight count: 15 (reviewed, 1 updated — MCP final spec confirmed July 28)
+> Last synthesized: 2026-07-30
+> Insight count: 16 (refreshed: +1 new, 1 updated — MCP final spec shipped July 28)
 
 ---
 
@@ -55,7 +55,7 @@ Engineering literacy for a vibe coder is not about writing code — it is about 
 
 **Design for AI-maintainability, not just human-readability.** AI generates code that passes tests and works, but structures it in ways future AI sessions struggle to modify without regressions. Each session optimises locally without maintaining architectural invariants. The fix: maintain a living architecture document (CLAUDE.md) at the repo root describing key invariants, module boundaries, and conventions. Claude Code's "Dreaming" feature (research preview, May 2026) automates part of this — it reads past session transcripts, identifies recurring patterns, and writes structured memory updates. Harvey reported ~6x improvement in agent task-completion rates after enabling it.
 
-**MCP 2.0 goes stateless — final specification publishes July 28, with a 12-month deprecation window for legacy features.** The MCP specification (RC locked May 21) removes the session handshake and `Mcp-Session-Id` header entirely. Six SEPs underpin the stateless architecture: multi-round-trip requests, standardised HTTP headers, universal `_meta` object, formalised MCP apps, async tasks, and first-class OAuth. 29,000+ MCP servers now indexed in independent registries. Governance sits with the Agentic AI Foundation under the Linux Foundation. Tier 1 SDKs expected to ship support within the ten-week validation window. For anyone building agent tool integrations: the infrastructure just got dramatically simpler, but plan for the 12-month legacy deprecation timeline.
+**MCP 2026-07-28 shipped on schedule — the protocol is now stateless and the initialize handshake is gone, but a late addition (`resultType` field) breaks existing servers.** The final spec removed the session handshake, `Mcp-Session-Id` header, and `initialize`/`initialized` lifecycle entirely. Protocol version, client info, and capabilities now travel in `_meta` on every request. A late SEP-2322 addition requires every response to include `resultType` ("complete" or "input_required") — servers that omit it will fail. MCP servers can now run as standard stateless HTTP workloads behind round-robin load balancers. New `Mcp-Method` and `Mcp-Name` headers enable gateway routing without JSON body parsing. Roots, Sampling, and Logging are deprecated with a 12-month minimum support window. All four Tier 1 SDKs (TypeScript, Python, Go, C#) plus Rust beta updated on publication day. 29,000+ MCP servers indexed. For anyone maintaining MCP servers: plan migration now — the breaking changes are real.
 
 **Core AI replaces Core ML as Apple's on-device model framework.** Ships with Xcode 27 targeting iOS 20 and macOS 17. Unified CPU/GPU/Neural Engine API, AOT compilation, zero-copy data paths, and a curated collection of optimised open-source models (Qwen, Mistral, SAM3). The Foundation Models framework is now provider-agnostic — one Swift `LanguageModel` protocol routes to on-device, Private Cloud Compute, or third-party models (Claude, Gemini) without code changes. For [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]: the Phase 2 path is now definitively Apple's native framework, not manual Core ML conversion.
 
@@ -64,6 +64,8 @@ Engineering literacy for a vibe coder is not about writing code — it is about 
 **VS Code 1.128 adds multi-chat Claude sessions and 1M-token context windows.** A single Claude session can now contain multiple peer chats — fork from an earlier turn, compare approaches, and send turns concurrently. Each chat keeps its own history and model selection. Combined with 1M-token context support for compatible models, this enables working across larger codebases without losing context. The multi-chat pattern is particularly useful for vibe coders running parallel exploration threads.
 
 **GitHub Copilot browser tools are GA — agents can now build, deploy, and visually verify changes.** As of July 1, Copilot agents in VS Code drive a real browser: navigate pages, click, type, read content, capture console errors, take screenshots. Agent-opened tabs run in isolated sessions with no cookie access. Enterprise admins get network domain allow/deny lists. This closes the agentic loop for web development — the agent builds, deploys, and visually verifies without human intervention.
+
+**GitHub Copilot code review now supports MCP servers and agent skills (GA July 29) — automated, context-aware PR review is free on Copilot Pro.** Add a `SKILL.md` file under `.github/skills/` to extend Copilot's review with repo-specific standards and conventions. MCP connections are read-only but can pull context from issue trackers, docs, and service catalogs during review. This is the first time automated code review has been extensible via a standard protocol rather than proprietary config. For a solo builder, this closes the "no one reviews my PRs" gap.
 
 **Next.js 16.3 Turbopack cuts dev server memory by up to 90% and ships an experimental Rust React Compiler.** Memory eviction, persistent file-system build cache, and a Rust port of the React Compiler showing 20-50% compilation speed gains on large apps. Also introduces "Instant Navigations" using Cache Components with PPR. For any Next.js-based projects, the dev experience improvement is substantial.
 

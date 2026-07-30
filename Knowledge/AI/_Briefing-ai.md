@@ -1,7 +1,7 @@
 # AI Briefing
 
-> Last synthesized: 2026-07-23
-> Insight count: 19 (refreshed: +2 new insights, 1 updated)
+> Last synthesized: 2026-07-30
+> Insight count: 22 (refreshed: +3 new insights, 2 updated)
 
 ---
 
@@ -65,7 +65,7 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 
 **Multi-model cross-validation is a novel application of AI diversity.** From [[Projects/MY-MYST/_Briefing-my-myst|Mystic Scientist]]: running the same structured prompt across 5 frontier models (ChatGPT, Claude, Grok, DeepSeek, Qwen) and looking for convergent patterns in their independent outputs. When multiple models trained on different data agree on something, the signal is stronger than any single model's output. Pattern is generalizable beyond mysticism — useful for any domain where confidence matters more than speed.
 
-**US export controls now reach AI models directly — not just chips.** The Commerce Department suspended Anthropic's Fable 5 and Mythos 5 on June 12, barring access by any foreign national. Both remain offline as of June 25. This is the first time a specific AI model has been subject to export controls. Any builder with single-model dependency faces regulatory supply risk. Diversify model access paths.
+**US export controls now reach AI models directly — not just chips.** The Commerce Department suspended Anthropic's Fable 5 and Mythos 5 on June 12, barring access by any foreign national. Fable 5 subscription access ended July 13; it is now metered-only at $10/$50 per M tokens, effectively an API-only product. With Opus 5 launching at $5/$25 (July 24), Fable 5 is unjustifiable for most workloads unless you need the unconstrained Mythos variant. Any builder with single-model dependency faces regulatory supply risk. Diversify model access paths.
 
 **AI coding tools are consolidating into platform plays — Cursor acquired by SpaceX for $60B.** The largest AI startup acquisition ever. Cursor at $4B ARR. Windsurf rebranded to Devin Desktop (June 2). JetBrains Junie hit GA. GitHub Copilot shipped a standalone desktop app. The indie-tool era is ending; evaluate vendor concentration risk in your AI coding stack.
 
@@ -77,11 +77,17 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 
 **MCP's primary security threat has shifted from prompt injection to supply-chain attacks.** With 200+ MCP server implementations and all 7 major agent frameworks shipping native MCP support, the attack vector is now poisoned MCP configuration files, malicious marketplace skills, and exposed server endpoints. Treat community MCP servers with the same scrutiny as npm dependencies. See also [[Knowledge/Engineering/_Briefing-engineering|Engineering Briefing]] on agentjacking.
 
-**GPT-5.6's three-tier model family (Sol/Terra/Luna) resets competitive pricing — every tier ships 1M context.** Launched July 9: Sol ($5/$30 per M tokens) benchmarks above Fable 5 on agentic workflows and is 54% more token-efficient on coding; Terra ($2.50/$15) matches GPT-5.5 at half the cost; Luna ($1/$6) is the cheapest frontier-adjacent model available. All three share 1M-token context and 128K max output. This collapses the price/capability gap between tiers — Terra at mid-tier pricing delivers what was flagship-only performance six months ago. For model routing: Luna for classification/extraction, Terra for most tasks, Sol only when you need maximum reasoning. Grok 4.5 ($2/$6) also launched July 8 with a coding-focused CLI (Grok Build). Meta launched Muse Spark 1.1 the same week — multimodal, 1M context, #1 on MCP Atlas and JobBench agentic benchmarks. The frontier is now a six-way race: Anthropic, OpenAI, Google, xAI, Meta, and open-weight (DeepSeek, Qwen).
+**GPT-5.6's three-tier model family (Sol/Terra/Luna) resets competitive pricing — every tier ships 1M context.** Launched July 9: Sol ($5/$30 per M tokens) benchmarks above Fable 5 on agentic workflows and is 54% more token-efficient on coding. On July 30, OpenAI slashed Luna 80% to $0.20/$1.20 and Terra 20% to $2/$12 per M tokens — Sol untouched. Luna is now in the same price tier as Chinese open-weight models while keeping US data residency. All three share 1M-token context and 128K max output. For model routing: Luna for classification/extraction, Terra for most tasks, Sol only when you need maximum reasoning. Grok 4.5 ($2/$6) also launched July 8 with a coding-focused CLI (Grok Build). Meta launched Muse Spark 1.1 the same week — multimodal, 1M context, #1 on MCP Atlas and JobBench agentic benchmarks. The frontier is now a six-way race: Anthropic, OpenAI, Google, xAI, Meta, and open-weight (DeepSeek, Qwen).
 
 **Meta's Muse Spark 1.1 breaks Meta into the frontier agentic tier — the first serious open-lab competitor to Opus and Sol.** Released July 9 by Meta Superintelligence Labs. Multimodal input (text, images, video, audio, PDF), 1M-token context, text output. Tops MCP Atlas (88.1), JobBench (54.7), Humanity's Last Exam (62.1), and FinanceBench (57.2). Ranks #3 out of 119 models on aggregate agentic benchmarks. Meta's previous models were strong but lacked agentic tool-use depth — Muse Spark 1.1 closes that gap. For model routing: evaluate for agentic workflows where tool orchestration is the bottleneck.
 
-**Gemini 3.6 Flash resets mid-tier price/performance — 17% fewer output tokens and a 12-point coding jump over 3.5 Flash.** Released July 21. $1.50/$7.50 per M tokens. DeepSWE coding score jumped from 37% to 49%. Computer Use at 83% (up from 78.4%). 1M context, 64K max output, native multimodal input. Google also dropped 3.5 Flash-Lite (even cheaper) and 3.5 Flash Cyber (security-focused vulnerability scanning). Now available in GitHub Copilot. For model routing: Gemini 3.6 Flash is the strongest value play for mid-tier coding and computer-use tasks — cheaper than GPT-5.6 Terra ($2.50/$15) with competitive performance. Google teased Gemini 4 at the same event.
+**Gemini 3.6 Flash resets mid-tier price/performance — 17% fewer output tokens and a 12-point coding jump over 3.5 Flash.** Released July 21. $1.50/$7.50 per M tokens. DeepSWE coding score jumped from 37% to 49%. Computer Use at 83% (up from 78.4%). 1M context, 64K max output, native multimodal input. Google also dropped 3.5 Flash-Lite (even cheaper) and 3.5 Flash Cyber (security-focused vulnerability scanning). Now available in GitHub Copilot. For model routing: Gemini 3.6 Flash is the strongest value play for mid-tier coding and computer-use tasks — cheaper than GPT-5.6 Terra ($2/$12) with competitive performance. Google confirmed Gemini 4 pre-training started July 21 but gave no release date or benchmarks.
+
+**Claude Opus 5 at $5/$25 per M tokens matches Opus 4.8 pricing while roughly doubling benchmark scores — making it the default choice for agentic coding.** Launched July 24. 1M context in, 128K out (300K on Batch API with beta header). Adaptive thinking on by default. Knowledge cutoff May 2026. Now the default model on Claude Max and top-tier model in Claude Code. Fable 5 ($10/$50 metered-only) is unjustifiable for nearly all solo-builder workloads. The implication: the frontier just got 2x cheaper on a performance-per-dollar basis.
+
+**Temperature, top_p, and top_k are hard-deprecated on Claude Opus 4.7 and later — passing non-default values returns a 400 error.** This is a breaking API change, not a soft deprecation. Any code that sets sampling parameters on Anthropic API calls will fail on current models. Anthropic's position is that prompt engineering replaces sampling parameters. Grep your codebase and remove them.
+
+**DeepSeek's $7B raise and in-house inference chip development signal that commodity inference price pressure is structural, not temporary.** DeepSeek is vertically integrating to sustain its pricing advantage — the competitive pressure that drove OpenAI's July 30 Luna price cut ($0.20/$1.20) is now baked into silicon economics. Plan for continued downward pressure on commodity inference pricing. Budget AI tooling costs as a deflationary line item.
 
 ---
 
@@ -93,9 +99,10 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 - ~~What is the right architecture for a personal OS agent that reads from a structured knowledge vault?~~ → Answer converging: hybrid retrieval + long-context (see Active Insights). Structured vault with summaries as index layer, lightweight selection of relevant files, then load into long context window.
 - ~~How should a solo builder budget and meter Agent SDK credits vs. subscription usage?~~ → Anthropic paused the June 15 billing separation. Direction is clear (usage-based) but timing uncertain. Budget as variable cost regardless.
 - What is the right migration path from manual Core ML model conversion to Apple's Core AI framework for existing on-device LLM projects?
-- How does GPT-5.6 Sol's agentic performance compare to Opus 4.8 in real-world coding workflows, and does the 54% token efficiency claim hold for complex multi-file tasks?
+- How does GPT-5.6 Sol's agentic performance compare to Opus 5 in real-world coding workflows? With Luna at $0.20/$1.20 and Opus 5 at $5/$25, is there a sweet spot where Luna + Sol routing beats Opus 5 for everything?
 - With Muse Spark 1.1 topping agentic benchmarks, does Meta's model actually deliver in production coding/tool-use workflows, or are the benchmark scores misleading given it's text-output-only?
-- Google teased Gemini 4 at the 3.6 Flash launch (July 21). If Gemini 4 is a full-generation leap, does it close the gap with Opus 4.8 and Sol on complex reasoning?
+- Google confirmed Gemini 4 pre-training started July 21 but gave no release date. If Gemini 4 is a full-generation leap, does it close the gap with Opus 5 and Sol on complex reasoning?
+- With sampling parameters hard-deprecated on Claude, how should builders who relied on temperature for creative/diverse outputs adapt their prompt engineering?
 
 ---
 
