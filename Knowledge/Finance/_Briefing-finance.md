@@ -1,7 +1,7 @@
 # Finance Briefing
 
-> Last synthesized: 2026-07-30
-> Insight count: 14 (reviewed, 1 updated — AUSTRAC deadline closed July 29)
+> Last synthesized: 2026-08-06
+> Insight count: 14 (reviewed, no changes — domain stable. IBCC legislation pending, ASIC AFSL deadline September 30)
 
 ---
 

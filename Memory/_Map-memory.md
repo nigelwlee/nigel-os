@@ -40,3 +40,4 @@ Each memory is a single file in this folder. Filename: `YYYY-MM-DD — Topic.md`
 - [[Memory/2026-07-16 — Knowledge Refresh All Domains|2026-07-16 — Knowledge Refresh All Domains]] — All 8/8 domains reviewed, 2 new + 3 updated, AUSTRAC deadline 13 days, IBCC consultation closed (status)
 - [[Memory/2026-07-23 — Knowledge Refresh All Domains|2026-07-23 — Knowledge Refresh All Domains]] — All 8/8 domains reviewed, 4 new + 3 updated, AUSTRAC deadline 6 days, Meta enters frontier race, Office of AI established (status)
 - [[Memory/2026-07-30 — Knowledge Refresh All Domains|2026-07-30 — Knowledge Refresh All Domains]] — All 8/8 domains reviewed, 5 new + 6 updated, Opus 5 launched, AUSTRAC closed, EU Omnibus in force (status)
+- [[Memory/2026-08-06 — Knowledge Refresh All Domains|2026-08-06 — Knowledge Refresh All Domains]] — All 8/8 domains reviewed, 5 new + 7 updated, V4-Flash cheapest frontier coder, Art 50 + CA SB 942 live, Etsy 5 DAYS (status)

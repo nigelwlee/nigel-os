@@ -1,7 +1,7 @@
 # Engineering Briefing
 
-> Last synthesized: 2026-07-30
-> Insight count: 16 (refreshed: +1 new, 1 updated — MCP final spec shipped July 28)
+> Last synthesized: 2026-08-06
+> Insight count: 18 (refreshed: +2 new, 1 updated)
 
 ---
 
@@ -59,13 +59,17 @@ Engineering literacy for a vibe coder is not about writing code — it is about 
 
 **Core AI replaces Core ML as Apple's on-device model framework.** Ships with Xcode 27 targeting iOS 20 and macOS 17. Unified CPU/GPU/Neural Engine API, AOT compilation, zero-copy data paths, and a curated collection of optimised open-source models (Qwen, Mistral, SAM3). The Foundation Models framework is now provider-agnostic — one Swift `LanguageModel` protocol routes to on-device, Private Cloud Compute, or third-party models (Claude, Gemini) without code changes. For [[Projects/MY-ANIM/_Briefing-my-anim|Anima Pet]]: the Phase 2 path is now definitively Apple's native framework, not manual Core ML conversion.
 
-**Agentjacking exploits AI coding agents at 85% success rate via untrusted external data.** Tenet Security disclosed (June 2026) a new attack class where fake Sentry error reports, API responses, or code comments with markdown injection hijack Claude Code, Cursor, and Codex. 2,388 organisations affected. AI coding agents treat tool outputs as trusted by default. Design agent workflows to sanitise external data before it enters context — never let untrusted sources shape agent actions.
+**Agentjacking exploits AI coding agents at 85% success rate via untrusted external data — and the attack surface keeps growing.** Tenet Security disclosed (June 2026) a new attack class where fake Sentry error reports, API responses, or code comments with markdown injection hijack Claude Code, Cursor, and Codex. 2,388 organisations affected. A July 2026 CVE (CVSS 9.6) demonstrated hidden prompt injection in GitHub PR descriptions enabling RCE through Copilot — attackers embed invisible instructions that the agent executes. AI coding agents treat tool outputs as trusted by default. Design agent workflows to sanitise external data before it enters context — never let untrusted sources shape agent actions. Treat PR descriptions, issue bodies, and external API responses as untrusted input.
 
 **VS Code 1.128 adds multi-chat Claude sessions and 1M-token context windows.** A single Claude session can now contain multiple peer chats — fork from an earlier turn, compare approaches, and send turns concurrently. Each chat keeps its own history and model selection. Combined with 1M-token context support for compatible models, this enables working across larger codebases without losing context. The multi-chat pattern is particularly useful for vibe coders running parallel exploration threads.
 
 **GitHub Copilot browser tools are GA — agents can now build, deploy, and visually verify changes.** As of July 1, Copilot agents in VS Code drive a real browser: navigate pages, click, type, read content, capture console errors, take screenshots. Agent-opened tabs run in isolated sessions with no cookie access. Enterprise admins get network domain allow/deny lists. This closes the agentic loop for web development — the agent builds, deploys, and visually verifies without human intervention.
 
 **GitHub Copilot code review now supports MCP servers and agent skills (GA July 29) — automated, context-aware PR review is free on Copilot Pro.** Add a `SKILL.md` file under `.github/skills/` to extend Copilot's review with repo-specific standards and conventions. MCP connections are read-only but can pull context from issue trackers, docs, and service catalogs during review. This is the first time automated code review has been extensible via a standard protocol rather than proprietary config. For a solo builder, this closes the "no one reviews my PRs" gap.
+
+**VS Code 1.132 closes the visual verification loop for agentic web development.** Released August 5. Element-level feedback in the integrated browser lets you comment on specific page elements to give agents precise visual feedback — no more describing layout issues in text. Side chats via `/btw` allow contextual questions without interrupting the current agent turn. Combined with GitHub Copilot's browser tools (GA July 1), the agent can now build, deploy, visually verify, AND receive targeted visual feedback in a single session. For a vibe coder, this eliminates the "describe what's wrong" bottleneck.
+
+**Claude Code's Security Plugin (beta) brings multi-agent vulnerability scanning into the coding session.** Released July 23. A three-layer scanner that runs inside Claude Code, producing findings that become reviewer-approved patches. Does not auto-apply fixes. This is not a replacement for SAST/DAST tooling, but it shifts security left into the prompting workflow rather than the CI pipeline. Worth evaluating as a pre-commit check for solo builders without a security review team.
 
 **Next.js 16.3 Turbopack cuts dev server memory by up to 90% and ships an experimental Rust React Compiler.** Memory eviction, persistent file-system build cache, and a Rust port of the React Compiler showing 20-50% compilation speed gains on large apps. Also introduces "Instant Navigations" using Cache Components with PPR. For any Next.js-based projects, the dev experience improvement is substantial.
 

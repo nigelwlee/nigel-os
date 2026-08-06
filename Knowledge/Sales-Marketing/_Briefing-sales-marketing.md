@@ -1,7 +1,7 @@
 # Sales & Marketing Briefing
 
-> Last synthesized: 2026-07-30
-> Insight count: 14 (reviewed, no changes — domain stable)
+> Last synthesized: 2026-08-06
+> Insight count: 14 (reviewed, no changes — Etsy August 11 policy change in 5 DAYS)
 
 ---
 

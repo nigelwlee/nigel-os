@@ -1,7 +1,7 @@
 # AI Briefing
 
-> Last synthesized: 2026-07-30
-> Insight count: 22 (refreshed: +3 new insights, 2 updated)
+> Last synthesized: 2026-08-06
+> Insight count: 23 (refreshed: +1 new insight, 2 updated)
 
 ---
 
@@ -71,7 +71,7 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 
 **Flat-rate pricing for AI agent tools is ending — usage-based billing is the new default.** GitHub Copilot moved to usage-based billing June 1 (some developers report 10x+ cost increases). Anthropic announced then paused Agent SDK billing separation on June 15 (reversed same day, citing rework — but signal is clear). DeepSeek made its 75% price cut permanent. The direction is clear: budget AI tooling as a variable cost, not a subscription.
 
-**Sonnet 5's new tokenizer silently inflates token counts by ~30% on identical input.** Released June 30 at $2/$10 per million input/output tokens (introductory through August 31, then $3/$15). The new tokenizer means the same prompts cost roughly 30% more tokens than on Sonnet 4.6 — the real cost reduction vs. Opus-class models is smaller than headline price suggests. Budget accordingly when planning model migrations.
+**Sonnet 5's new tokenizer silently inflates token counts by ~30% on identical input — and its introductory pricing ends August 31.** Released June 30 at $2/$10 per million input/output tokens (introductory through August 31, then $3/$15). The new tokenizer means the same prompts cost roughly 30% more tokens than on Sonnet 4.6 — the real cost reduction vs. Opus-class models is smaller than headline price suggests. The 50% price increase on September 1 makes the effective cost gap even smaller. Budget accordingly when planning model routing for Q4.
 
 **EU finalized a 16-month delay on AI Act high-risk compliance — standalone systems now December 2027, embedded systems August 2028.** Both Parliament and Council approved pushing back the deadlines originally set for August 2026. If selling AI-powered tools to EU customers, the compliance clock just got significant breathing room, but the obligations themselves are unchanged. Plan for compliance, don't rush it.
 
@@ -85,7 +85,9 @@ You can't improve what you can't measure. A good eval suite (test cases with exp
 
 **Claude Opus 5 at $5/$25 per M tokens matches Opus 4.8 pricing while roughly doubling benchmark scores — making it the default choice for agentic coding.** Launched July 24. 1M context in, 128K out (300K on Batch API with beta header). Adaptive thinking on by default. Knowledge cutoff May 2026. Now the default model on Claude Max and top-tier model in Claude Code. Fable 5 ($10/$50 metered-only) is unjustifiable for nearly all solo-builder workloads. The implication: the frontier just got 2x cheaper on a performance-per-dollar basis.
 
-**Temperature, top_p, and top_k are hard-deprecated on Claude Opus 4.7 and later — passing non-default values returns a 400 error.** This is a breaking API change, not a soft deprecation. Any code that sets sampling parameters on Anthropic API calls will fail on current models. Anthropic's position is that prompt engineering replaces sampling parameters. Grep your codebase and remove them.
+**Temperature, top_p, and top_k are hard-deprecated on Claude Opus 4.7 and later — passing non-default values returns a 400 error.** This is a breaking API change, not a soft deprecation. Any code that sets sampling parameters on Anthropic API calls will fail on current models. Anthropic's position is that prompt engineering replaces sampling parameters. Additionally, Claude Opus 4.1 (`claude-opus-4-1-20250805`) retired on August 5, 2026 — API calls now return errors. Migrate any remaining references to Opus 4.8 or Opus 5.
+
+**DeepSeek V4-Flash at $0.14/$0.28 per M tokens beats its own Pro model on coding benchmarks — the cheapest near-frontier coding model by an order of magnitude.** Shipped July 31. 284B MoE parameters (13B activated), 1M context window. Scored 82.7 on Terminal Bench 2.1 vs. V4-Pro-Preview's 72.1. At this price, it costs ~35x less than Opus 5 for coding tasks where it performs comparably. For model routing: evaluate V4-Flash as the default for cost-sensitive coding and extraction workloads, reserving Opus 5/Sol for complex reasoning. The gap between "cheap" and "frontier" coding performance has effectively collapsed at the bottom of the price stack.
 
 **DeepSeek's $7B raise and in-house inference chip development signal that commodity inference price pressure is structural, not temporary.** DeepSeek is vertically integrating to sustain its pricing advantage — the competitive pressure that drove OpenAI's July 30 Luna price cut ($0.20/$1.20) is now baked into silicon economics. Plan for continued downward pressure on commodity inference pricing. Budget AI tooling costs as a deflationary line item.
 
