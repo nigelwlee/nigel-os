@@ -1,7 +1,7 @@
 # Sales & Marketing Briefing
 
-> Last synthesized: 2026-06-11
-> Insight count: 9
+> Last synthesized: 2026-08-06
+> Insight count: 14 (reviewed, no changes — Etsy August 11 policy change in 5 DAYS)
 
 ---
 
@@ -56,6 +56,16 @@ For a solo builder shipping AI products, the fastest path to revenue is not more
 **Etsy's AI disclosure enforcement creates a moat for transparent sellers.** Etsy removed 12,000+ listings and warned 8,500+ sellers in Q1 2026 for undisclosed AI usage. The compliance bar isn't anti-AI — it's pro-honesty. Sellers who disclose AI assistance and layer in genuine design decisions are unaffected while mass-upload "AI slop" sellers get pruned. For [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]], lean into transparency as a brand differentiator: include workflow disclosure, pair with long-tail niche bundles, and benefit from reduced competition.
 
 **Content atomisation agents turn one video into 50+ platform-native assets.** The 2026 generation of repurposing agents (Opus Clip for viral-moment detection, Repurpose.io for cross-platform syndication) can take a single video and produce Shorts, social captions, newsletter drafts, listing copy — autonomously. A $300-500/month agent stack delivers marketing output equivalent to 2-3 full-time hires. The bottleneck shifts from "can I produce enough content" to "am I curating the right content for the right channel." For [[Projects/MY-MYST/_Briefing-my-myst|MY-MYST]] and [[Projects/MY-YAP/_Briefing-my-yap|MY-YAP]], designate one recording session per week as the "source atom" and let agents fragment it across all channels.
+
+**Etsy's August 11 policy kills purchased templates — computerised tools must use seller's own original design.** Etsy removed "or using a templated design or pattern" from its Creativity Standards. Purchased SVGs, clipart, and pre-made design files no longer qualify as handmade. AI-generated content is allowed if based on seller's own original prompts with mandatory disclosure. Automated detection is already flagging undisclosed AI listings and reducing search visibility. For [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]]: audit all listings before August 11. Lean into transparency as a brand differentiator — disclose AI assistance, pair with original design decisions.
+
+**Etsy's 2026 algorithm now penalises titles over 70 characters, shipping over $6, and policy violations tank entire shop ranking.** Title soft cap at 70 chars (longer = keyword-stuffed penalty). US domestic shipping over $6 reduces search visibility — baking shipping into item price (even if it raises sticker price) now produces better search placement than showing a "real" shipping fee. Policy violations drag down the entire shop's ranking, not just flagged listings. New Search Visibility Dashboard shows which listings have reduced visibility and why. Semantic/NLP search using LLMs now understands intent, not just keywords. For [[Projects/MY-SSTU/_Briefing-my-sstu|Sleepy Studios]]: review title format (current 140-char template may need tightening), check shipping pricing, ensure zero policy violations. Note: Etsy's July 9 DDP mandate forces international sellers to prepay US tariffs or lose Purchase Protection — structural advantage for US-based sellers.
+
+**YouTube's browse feed now matches viewers via watch-history micro-clusters, structurally favoring niche creators over generalists.** Rolled out February 2026, the system groups viewers by specific behavioral patterns ("people who watch X also watch Y") rather than broad interests. A tightly focused channel on a specific subtopic surfaces in more personalised feeds than a generalist channel covering the same broad area. For [[Projects/MY-MYST/_Briefing-my-myst|MY-MYST]] and [[Projects/MY-YAP/_Briefing-my-yap|MY-YAP]]: going narrow is no longer just advice — it's how the recommendation engine is wired.
+
+**YouTube Hype with category-specific leaderboards gives sub-500K creators a viewer-driven discovery surface.** Viewers can boost videos from smaller creators onto topic leaderboards (gaming, beauty, etc.), with smaller channels getting a larger multiplier per Hype. This creates a viable early-traction mechanic independent of the recommendation algorithm — a separate discovery surface driven by fan advocacy. For new channels: building a small engaged audience that actively Hypes is now a concrete growth lever.
+
+**ChatGPT pulls only 30% of citations from Google's top-10 results — traditional SEO no longer determines AI-search visibility.** Perplexity and Google AI Mode pull ~90% from top-10, but ChatGPT diverges. For a solo builder, this means YouTube videos and original content with clear, citable claims may earn AI-search visibility that blog SEO alone cannot. "Generative Engine Optimisation" is an emerging category for tracking AI engine citations of your brand.
 
 ---
 
