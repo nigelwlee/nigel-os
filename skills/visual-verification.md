@@ -26,7 +26,7 @@ affects what a page or screen looks like — before telling Nigel it's done.
 
 ---
 
-## Known Gotchas (worth remembering across projects)
+## Known Gotchas (worth remembering across projects — see also [[../LEARNINGS.md]])
 
 - **Headless Chrome `--window-size` doesn't reliably constrain narrow layouts.** Requesting
   a small width (e.g. 375px) can still lay the page out at a larger effective width (Chrome

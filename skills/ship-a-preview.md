@@ -14,8 +14,8 @@ actually see the work.
 ## Agent Behaviour
 
 1. **Get a real, shareable URL out early.** Source on a git host + a hosted preview
-   (Vercel, Netlify, GitHub Pages, whatever fits the stack) beats a description of what the
-   code does.
+   (Vercel, Netlify, GitHub Pages, whatever fits the stack — see [[stack-matching.md]])
+   beats a description of what the code does.
 2. **If the preferred deploy path hits friction** (auth that needs a human in the loop,
    a blocked integration, a slow approval), don't loop on identical retries. Find a genuinely
    working alternative and use it.

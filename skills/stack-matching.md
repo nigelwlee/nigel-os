@@ -7,8 +7,8 @@
 ## When to Use
 
 Whenever Nigel pastes a reference — a component from 21st.dev, a shadcn snippet, a React
-example, a design pattern from somewhere else — and the current project doesn't already use
-that stack.
+example, a design pattern from somewhere else (see [[../references/component-libraries.md]])
+— and the current project doesn't already use that stack.
 
 ---
 

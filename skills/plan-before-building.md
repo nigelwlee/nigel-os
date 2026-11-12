@@ -10,7 +10,7 @@
 - The request is ambiguous enough that two reasonable readings would produce materially
   different results.
 - The action is destructive or hard to reverse (deleting content, rewriting history, wiping
-  a live system).
+  a live system). See also [[git-hygiene.md]].
 
 Skip this for small, unambiguous, easily-reversible changes — a plan for a typo fix is
 padding, not rigor.
